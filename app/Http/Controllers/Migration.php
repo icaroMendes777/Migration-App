@@ -80,17 +80,23 @@ class Migration extends Controller
 
             $collectionId = $this->getCollectionId($suttaCollection);
 
+            //echo $filePath.'<br>';
             $data = [
                 'collection_id'=>$collectionId,
+                'old_url'=>$filePath,
                 'index'=>$suttaIndex,
                 'title_pt'=>$translatedTitle,
                 'title_pali'=>$title,
                 'text'=>$cleanText,
-                'old_url'=>$filePath
+
             ];
 
+            // echo '<pre>';
+            // print_r($data);
+            // echo '</pre>';
 
 
+            //$result = Post::create($data);
             try {
                 //code that might cause MySQL errors
                 $result = Post::create($data);
@@ -103,11 +109,11 @@ class Migration extends Controller
 
             }
 
-            if($count == 100) echo '100 files... <br/>';
+            if($count == 100) print_r('100 files... <br/>') ;
 
-            if($count == 1000) echo '1000 files... <br/>';
+            if($count == 1000) print_r('1000 files... <br/>');
 
-            if($count == 1700) echo '1700 files... <br/>';
+            if($count == 1700) print_r('1700 files... <br/>');
 
         }
 

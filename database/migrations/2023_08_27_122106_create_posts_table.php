@@ -14,10 +14,10 @@ return new class extends Migration
         Schema::create('posts', function (Blueprint $table) {
             $table->id();
             $table->string('index');
+            $table->string('old_url');
             $table->string('title_pt');
             $table->string('title_pali');
             $table->longText('text');
-            $table->string('old_url');
             $table->timestamps();
         });
     }

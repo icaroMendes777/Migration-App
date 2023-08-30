@@ -11,10 +11,12 @@ class Post extends Model
 
     protected $fillable = [
         'collection_id',
+        'old_url',
         'index',
         'title_pt',
         'title_pali',
-        'text'
+        'text',
+
     ];
 
 
