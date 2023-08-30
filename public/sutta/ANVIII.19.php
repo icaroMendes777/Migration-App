@@ -1,0 +1,108 @@
+<!-- DEFINE PARAMETROS -->
+<?
+DEFINE ('PAGINA',"AN VIII.19 ");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAO
+DEFINE('REVISAO',"5 Janeiro 2013 "); // DATA DA REVISAO
+?>
+<!--INCLUI TOPO-->
+<?
+include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTÁ CERTO
+?>
+
+<!-- INICIO DO TEXTO -->
+
+
+<p class=Tit3 align=center style='text-align:center'><b>Anguttara Nikaya VIII.19 </b></Tit3>
+<p class=Tit1 align=center style='text-align:center'> Paharada Sutta</Tit1>
+<p class=Tit1 align=center style='text-align:center'>Paharada </Tit1>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR style='font-size:
+7.0pt;mso-ansi-language:PT-BR'><b> Somente para distribuição gratuita.</b><br>
+<i>Este trabalho pode ser impresso para distribuição gratuita.<br>
+Este trabalho pode ser re-formatado e distribuído para uso em computadores e redes de computadores<br>
+contanto que nenhum custo seja cobrado pela distribuição ou uso.<br>
+De outra forma todos os direitos estão reservados. </i> <o:p></o:p></span></p>
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'> 
+
+<p class=Normal>Em certa ocasião, o Abençoado estava em Veranja ao pé da árvore Naleru. Então Paharada, governante dos asuras, foi até o Abençoado, e depois de cumprimentá-lo ficou em pé a um lado. O Abençoado então disse: "Paharada, os asuras se deleitam  com o grande oceano?" </p>
+
+<p class=Normal>"Venerável senhor, os asuras se deleitam  com o grande oceano." </p>
+
+<p class=Normal>"Mas, Paharada, quantas qualidades maravilhosas e admiráveis os asuras vêm no grande oceano, devido às quais eles se deleitam com o grande oceano?" </p>
+
+<p class=Normal>"Os asuras vêm oito qualidades maravilhosas e admiráveis no grande oceano devido às quais eles se deleitam com o grande oceano. Quais oito? </p>
+
+<p class=Normal>"[1] O oceano tem bancos de areia graduais, um declive gradual, uma inclinação gradual, com uma queda abrupta somente após um longo trecho. O fato de que o oceano tem bancos de areia graduais, um declive gradual, uma inclinação gradual, com uma queda abrupta somente após um longo trecho: Essa é a primeira qualidade maravilhosa e admirável acerca do oceano que, sempre que os Asuras o vêm, faz com que eles se deleitem com o oceano. </p>
+
+<p class=Normal>"[2] E além disso, o oceano é estável e não vai além da linha da maré ... Esse é a segunda qualidade maravilhosa e admirável acerca do oceano que sempre que os Asuras a vêm, faz com que eles se deleitem com o oceano. </p>
+
+<p class=Normal>"[3] E além disso, o oceano não tolera um cadáver. Todo cadáver no oceano é trazido para a praia e arremessado sobre a terra firme ... Essa é a terceira qualidade maravilhosa e admirável acerca do oceano que sempre que os Asuras a vêm, faz com que eles se deleitem com o oceano. </p>
+
+<p class=Normal>"[4] E além disso, todos os grandes rios que existem – como o Ganges, o Yamuna, o Aciravati, o Sarabhu, o Mahi – ao chegar ao oceano, abrem mão dos seus nomes anteriores e são classificados simplesmente como "oceano" ... Essa é a quarta qualidade maravilhosa e admirável acerca do oceano que, sempre que os Asuras a vêm, faz com que eles se deleitem com o oceano. </p>
+
+<p class=Normal>"[5] E além disso, apesar dos rios do mundo fluírem para o oceano, e as chuvas caírem do céu, nenhum inchaço ou redução no oceano pode ser notado por essa razão ... Essa é a quinta qualidade maravilhosa e admirável acerca do oceano que, sempre que os Asuras a vêm, faz com que eles se deleitem com o oceano. </p>
+
+<p class=Normal>"[6] E além disso, o oceano tem um único sabor: o do sal ... Essa é a sexta qualidade maravilhosa e admirável acerca do oceano que sempre que os Asuras a vêm, faz com que eles se deleitem com o oceano. </p>
+
+<p class=Normal>"[7] E além disso, o oceano tem muitos tesouros de vários tipos: pérolas, safiras, lápis lazuli, conchas, quartzo, coral, prata, ouro, rubis ... Essa é a sétima qualidade maravilhosa e admirável acerca do oceano que sempre que os Asuras a vêm, faz com que eles se deleitem com o oceano. </p>
+
+<p class=Normal>"[8] E além disso, o oceano é a residência de seres poderosos como as baleias, os devoradores de baleias e os devoradores dos devoradores de baleias; asuras, nagas, e gandhabbas. Existem no oceano seres com comprimento de cem léguas, duzentas ... trezentas ... quatrocentas ... quinhentas léguas. O fato de que o oceano é a residência de seres poderosos como as baleias, os devoradores de baleias e os devoradores dos devoradores de baleias; asuras, nagas, e gandhabbas e existirem no oceano seres com comprimento de cem léguas, duzentas ... trezentas ... quatrocentas ... quinhentas léguas: Essa é a oitava qualidade maravilhosa e admirável acerca do oceano que, sempre que os Asuras a vêm, faz com que eles se deleitem com o oceano. </p>
+
+<p class=Normal>"Essas, venerável senhor, são as oito qualidades maravilhosas e admiráveis acerca do oceano que, sempre que os Asuras as vêm, fazem com que eles se deleitem com o oceano. Mas os bhikkhus se deleitam na Doutrina e Disciplina?" </p>
+
+<p class=Normal>"Paharada, os bhikkhus se deleitam com a Doutrina e Disciplina." </p>
+
+<p class=Normal>"Mas, venerável senhor, quantas qualidades maravilhosas e admiráveis os bhikkhus vêm na Doutrina e Disciplina, devido às quais eles se deleitam com Doutrina e Disciplina?" </p>
+
+<p class=Normal>"Os bhikkhus vêm oito qualidades maravilhosas e admiráveis na Doutrina e Disciplina devido às quais eles se deleitam com a Doutrina e Disciplina. Quais oito? </p>
+
+<p class=Normal>"[1] Da mesma forma, Paharada, como o oceano tem bancos de areia graduais, um declive gradual, uma inclinação gradual, com uma queda abrupta somente após um longo trecho, assim também esta Doutrina e Disciplina tem um treinamento gradual, um desempenho gradual, uma progressão gradual, com uma penetração do conhecimento somente após um longo percurso. O fato de que esta Doutrina e Disciplina tem um treinamento gradual, um desempenho gradual, uma progressão gradual, com a penetração do conhecimento somente após um longo percurso: esta é a primeira qualidade maravilhosa e admirável acerca desta Doutrina e Disciplina e, sempre que os Bhikkhus a vêm, faz com que eles se deleitem com esta Doutrina e Disciplina. </p>
+
+<p class=Normal>"[2] E além disso, da mesma forma como o oceano é estável e não vai além a linha da maré, assim também meus discípulos – mesmo pela segurança das suas próprias vidas – não vão além das regras de treinamento que eu lhes formulei ... esta é a segunda qualidade maravilhosa e admirável acerca desta Doutrina e Disciplina e, sempre que os Bhikkhus a vêm, faz com que eles se deleitem com esta Doutrina e Disciplina. </p>
+
+<p class=Normal>"[3] E além disso, da mesma forma como o oceano não tolera um cadáver - todo cadáver no oceano é trazido para a praia e arremessado sobre a terra firme – assim também, se um indivíduo é imoral, mau, sujo e suspeito nas suas tarefas, oculto em suas ações, não é um contemplativo ao contrário do que diz, não vive a vida santa ao contrário do que diz, podre por dentro, esvaindo-se em desejo, imundo por natureza – a comunidade não tem comunhão com ele. Organizando imediatamente uma reunião, eles o banem da comunidade. Embora ele possa estar sentado no meio da comunidade, ele está muito distante da comunidade, e a comunidade distante dele ... esta é a terceira qualidade maravilhosa e admirável acerca desta Doutrina e Disciplina e, sempre que os Bhikkhus a vêm, faz com que eles se deleitem com esta Doutrina e Disciplina. </p>
+
+<p class=Normal>"[4] E além disso, da mesma forma como todos os grandes rios que existam – como o Ganges, o Yamuna, o Aciravati, o Sarabhu, o Mahi – ao chegar ao oceano, abrem mão dos seus nomes anteriores e são classificados simplesmente como "oceano", assim também, quando os membros das quatro castas – Khattiyas, brâmanes, comerciantes e trabalhadores - adotam a vida santa com a Doutrina e Disciplina declarada pelo Tathagata, eles abrem mão de seus nomes e clãs anteriores e são classificados simplesmente como "os contemplativos, filhos do Sakya" ... esta é a quarta qualidade maravilhosa e admirável acerca desta Doutrina e Disciplina e, sempre que os Bhikkhus a vêm, faz com que eles se deleitem com esta Doutrina e Disciplina. </p>
+
+<p class=Normal>"[5] E além disso, da mesma forma como os rios do mundo fluem para o oceano, e as chuvas caem do céu, sem que nenhum inchaço ou redução no oceano possa ser notado por essa razão, assim também, apesar de que muitos bhikkhus estão totalmente libertados com as propriedades do Ilimitado sem que lhes reste nenhum apego, nenhum inchaço ou redução nas propriedades do Ilimitado pode ser notado por essa razão ... esta é a quinta qualidade maravilhosa e admirável acerca desta Doutrina e Disciplina e, sempre que os Bhikkhus a vêm, faz com que eles se deleitem com esta Doutrina e Disciplina. </p>
+
+<p class=Normal>"[6] E além disso, da mesma forma como o oceano tem um único sabor – aquele do sal – assim também, esta Doutrina e Disciplina tem um único sabor: aquele da libertação ... esta é a sexta qualidade maravilhosa e admirável acerca desta Doutrina e Disciplina e, sempre que os Bhikkhus a vêm, faz com que eles se deleitem com esta Doutrina e Disciplina. </p>
+
+<p class=Normal>"[7] E além disso, da mesma forma como o oceano tem muitos tesouros de vários tipos - pérolas, safiras, lápis lazuli, conchas, quartzo, coral, prata, ouro, rubis – assim também, esta Doutrina e Disciplina tem muitos tesouros de vários tipos: os quatro fundamentos da atenção plena, os quatro esforços corretos, as quatro bases do poder, as cinco faculdades, os cinco poderes, os sete fatores da Iluminação, o nobre caminho óctuplo ... esta é a sétima qualidade maravilhosa e admirável acerca desta Doutrina e Disciplina e, sempre que os Bhikkhus a vêm, faz com que eles se deleitem com esta Doutrina e Disciplina. </p>
+
+<p class=Normal>"[8] E além disso, da mesma forma como o oceano é a residência de seres poderosos como as baleias, os devoradores de baleias e os devoradores dos devoradores de baleias; asuras, nagas, e gandhabbas e existam no oceano seres com comprimento de cem léguas, duzentas ... trezentas ... quatrocentas ... quinhentas léguas; assim também, esta Doutrina e Disciplina é a residência de seres poderosos como aqueles 'que entraram na correnteza’ e aqueles que praticam para realizar os frutos do estado dos ‘que entraram na correnteza'; os ‘que retornarão apenas uma vez mais’ e aqueles que praticam para realizar os frutos do estado dos ‘que retornarão apenas uma vez mais'; os ‘que não retornarão mais’ e aqueles que praticam para realizar os frutos do estado dos ‘que não retornarão mais’; os Arahants e aqueles que praticam para realizar os frutos do estado de arahant. O fato de que esta Doutrina e Disciplina é a residência de seres poderosos como aqueles 'que entraram na correnteza’ e aqueles que praticam para realizar os frutos do estado dos 'que entraram na correnteza'; os ‘que retornarão apenas uma vez mais’ e aqueles que praticam para realizar os frutos do estado dos ‘que retornarão apenas uma vez mais'; os ‘que não retornarão mais’ e aqueles que praticam para realizar os frutos do estado dos ‘que não retornarão mais’; os Arahants e aqueles que praticam para realizar os frutos do estado de arahant: esta é a oitava qualidade maravilhosa e admirável acerca desta Doutrina e Disciplina e, sempre que os Bhikkhus a vêm, faz com que eles se deleitem com esta Doutrina e Disciplina. </p>
+
+<p class=Normal>"Essas, Paharada, são as oito qualidades maravilhosas e admiráveis acerca desta Doutrina e Disciplina e, sempre que os Bhikkhus as vêm, fazem com que eles se deleitem com esta Doutrina e Disciplina." </p>
+
+
+
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'> 
+
+
+<p class=Normal><b>Notas:</b></p>
+
+<p class=Normal>Veja também o <a href="UdV5.php">Uposatha Sutta</a>.</p>
+
+<p class=Normal><a href="ANVIII.22.php"><b> >> Próximo Sutta</b></a></p>
+
+
+
+<p class=Normal>&nbsp;</p>
+<p class=Normal>&nbsp;</p>
+
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>
+
+

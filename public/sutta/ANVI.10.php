@@ -1,0 +1,84 @@
+<!-- DEFINE PARAMETROS -->
+<?
+DEFINE ('PAGINA',"ANVI10 ");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAO
+DEFINE('REVISAO'," 9 Maio 2014 "); // DATA DA REVISAO
+?>
+<!--INCLUI TOPO-->
+<?
+include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTÁ CERTO
+?>
+
+<!-- INICIO DO TEXTO -->
+
+
+<p class=Tit3 align=center style='text-align:center'><b>Anguttara Nikaya VI.10</b></Tit3>
+<p class=Tit1 align=center style='text-align:center'> Mahanama Sutta </Tit1>
+<p class=Tit1 align=center style='text-align:center'> Mahanama </Tit1>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR style='font-size:
+7.0pt;mso-ansi-language:PT-BR'><b> Somente para distribuição gratuita.</b><br>
+<i>Este trabalho pode ser impresso para distribuição gratuita.<br>
+Este trabalho pode ser re-formatado e distribuído para uso em computadores e redes de computadores<br>
+contanto que nenhum custo seja cobrado pela distribuição ou uso.<br>
+De outra forma todos os direitos estão reservados. </i> <o:p></o:p></span></p>
+
+<p class=Normal>&nbsp;</p>
+<hr size=2 width="100%" align=center>
+<p class=Normal style='margin-left:.75in'> 
+
+<p class=Normal> Em certa ocasião o Abençoado estava com os Sakyas em Kapilavatthu no Parque da Figueira-de-bengala. Então o Sakya Mahanama foi até o Abençoado e depois de cumprimentá-lo, sentou a um lado e disse: </p>
+
+<p class=Normal> "Venerável senhor, como permanece com frequência um nobre discípulo que tenha obtido o fruto e compreendido os ensinamentos?" [<a href="#N1">1</a>]</p>
+
+<p class=Normal><a name=R1></a> "Mahanama, um nobre discípulo que tenha obtido o fruto e compreendido os ensinamentos permanece com frequência desta forma: </p>
+
+<p class=Normal><a name=R2></a> (1) "Aqui, Mahanama, um nobre discípulo se recorda [<a href="#N2">2</a>] do Tathagata assim: 'O Abençoado é um arahant, perfeitamente iluminado, consumado no verdadeiro conhecimento e conduta, bem-aventurado, conhecedor dos mundos, um líder insuperável de pessoas preparadas para serem treinadas, mestre de devas e humanos, desperto, sublime.' Quando um nobre discípulo se recorda do Tathagata, nessa ocasião a sua mente não está obcecada pela cobiça, raiva, ou delusão; nessa ocasião a sua mente seguirá firme, baseada no Thathagata. Um nobre discípulo cuja mente segue firme obtém inspiração do significado, obtém inspiração do Dhamma, obtém satisfação do Dhamma. Estando satisfeito, o êxtase surge nele; naquele que está em êxtase, o corpo fica calmo; naquele, cujo corpo está calmo, sente felicidade; naquele que sente felicidade, a mente fica concentrada. Ele é chamado um nobre discípulo que permanece equilibrado em meio a uma população desequilibrada, que permanece sem aflição em meio a uma população aflita. [<a href="#N3">3</a>] Aquele que entrou na correnteza do Dhamma desenvolve a recordação do Buda. [<a href="#N4">4</a>]</p>
+
+<p class=Normal> (2) Novamente, Mahanama, um nobre discípulo se recorda do Dhamma assim: ' O Dhamma é bem proclamado pelo Abençoado, visível no aqui e agora, com efeito imediato, que convida ao exame, que conduz para adiante, para ser experimentado pelos sábios por eles mesmos.' Quando um nobre discípulo se recorda do Dhamma, nessa ocasião a sua mente não está obcecada pela cobiça, raiva, ou delusão; nessa ocasião a sua mente seguirá firme, baseada no Dhamma. Um nobre discípulo cuja mente segue firme obtém inspiração do significado, obtém inspiração do Dhamma, obtém satisfação do Dhamma. Estando satisfeito, o êxtase surge nele; naquele que está em êxtase, o corpo fica calmo; naquele, cujo corpo está calmo, sente felicidade; naquele que sente felicidade, a mente fica concentrada. Ele é chamado um nobre discípulo que permanece equilibrado em meio a uma população desequilibrada, que permanece sem aflição em meio a uma população aflita. Aquele que entrou na correnteza do Dhamma desenvolve a recordação do Dhamma. </p>
+
+<p class=Normal> (3) Novamente, Mahanama, um nobre discípulo se recorda da Sangha assim: 'A Sangha dos discípulos do Abençoado pratica o bom caminho, pratica o caminho reto, pratica o caminho verdadeiro, pratica o caminho adequado, isto é, os quatro pares de pessoas, os oito tipos de indivíduos; esta Sangha dos discípulos do Abençoado é merecedora de dádivas, merecedora de hospitalidade, merecedora de oferendas, merecedora de saudações com reverência, um campo inigualável de mérito para o mundo.' Quando um nobre discípulo se recorda da Sangha, nessa ocasião a sua mente não está obcecada pela cobiça, raiva, ou delusão; nessa ocasião a sua mente seguirá firme, baseada na Sangha. Um nobre discípulo cuja mente segue firme obtém inspiração do significado, obtém inspiração do Dhamma, obtém satisfação do Dhamma. Estando satisfeito, o êxtase surge nele; naquele que está em êxtase, o corpo fica calmo; naquele, cujo corpo está calmo, sente felicidade; naquele que sente felicidade, a mente fica concentrada. Ele é chamado um nobre discípulo que permanece equilibrado em meio a uma população desequilibrada, que permanece sem aflição em meio a uma população aflita. Aquele que entrou na correnteza do Dhamma desenvolve a recordação da Sangha. </p>
+
+<p class=Normal> (4) Novamente, Mahanama, um nobre discípulo se recorda do seu próprio comportamento virtuoso como intacto, não-lacerado, imaculado, não-matizado, libertador, elogiado pelos sábios, desapegado, que conduz à concentração. Quando um nobre discípulo se recorda do seu próprio comportamento virtuoso, nessa ocasião a sua mente não está obcecada pela cobiça, raiva, ou delusão; nessa ocasião a sua mente seguirá firme, baseada no comportamento virtuoso. Um nobre discípulo cuja mente segue firme obtém inspiração do significado, obtém inspiração do Dhamma, obtém satisfação do Dhamma. Estando satisfeito, o êxtase surge nele; naquele que está em êxtase, o corpo fica calmo; naquele, cujo corpo está calmo, sente felicidade; naquele que sente felicidade, a mente fica concentrada. Ele é chamado um nobre discípulo que permanece equilibrado em meio a uma população desequilibrada, que permanece sem aflição em meio a uma população aflita. Aquele que entrou na correnteza do Dhamma desenvolve a recordação do seu próprio comportamento virtuoso. </p>
+
+<p class=Normal> (5) Novamente, Mahanama, um nobre discípulo se recorda da sua própria generosidade assim: 'É deveras um ganho, um grande ganho que numa população obcecada com a mácula da avareza, eu permaneça em casa com uma mente desprovida da mácula da avareza, espontaneamente generoso, mão aberta, deliciando-me com a renúncia, devotado à caridade, deliciando-me em dar e compartir.' Quando um nobre discípulo se recorda da sua própria generosidade, nessa ocasião a sua mente não está obcecada pela cobiça, raiva, ou delusão; nessa ocasião a sua mente seguirá firme, baseada no comportamento virtuoso. Um nobre discípulo cuja mente segue firme obtém inspiração do significado, obtém inspiração do Dhamma, obtém satisfação do Dhamma. Estando satisfeito, o êxtase surge nele; naquele que está em êxtase, o corpo fica calmo; naquele, cujo corpo está calmo, sente felicidade; naquele que sente felicidade, a mente fica concentrada. Ele é chamado um nobre discípulo que permanece equilibrado em meio a uma população desequilibrada, que permanece sem aflição em meio a uma população aflita. Aquele que entrou na correnteza do Dhamma desenvolve a recordação da sua própria generosidade. </p>
+
+<p class=Normal> (6) Novamente, Mahanama, um nobre discípulo se recorda dos devas assim: 'Há os devas dos Quatro Grandes Reis, os devas do Trinta e três, os devas de Yama, os devas de Tusita, os devas que se deliciam com a criação, os devas que possuem poderes sobre a criação dos outros, os devas do cortejo de Brahma, os devas que estão mais além. Seja qual for a convicção com a qual eles estiveram dotados pela qual - ao falecer desta vida - eles ressurgiram lá, o mesmo tipo de convicção está presente em mim também. Seja qual for a virtude com a qual eles estiveram dotados pela qual - ao falecer desta vida - eles ressurgiram lá, o mesmo tipo de virtude está presente em mim também. Seja qual for o aprendizado com o qual eles estiveram dotados pelo qual - ao falecer desta vida - eles ressurgiram lá, o mesmo tipo de aprendizado está presente em mim também. Seja qual for a generosidade com a qual eles estiveram dotados pela qual - ao falecer desta vida - eles ressurgiram lá, o mesmo tipo de generosidade está presente em mim também. Seja qual for a sabedoria com a qual eles estiveram dotados pela qual - ao falecer desta vida - eles ressurgiram lá, o mesmo tipo de sabedoria está presente em mim também.' Em todos os momentos em que um nobre discípulo estiver se recordando da convicção, virtude, aprendizado, generosidade e sabedoria encontrado tanto nele como nos devas, nessa ocasião a sua mente não está obcecada pela cobiça, raiva, ou delusão; nessa ocasião a sua mente seguirá firme, baseada nos devas. Um nobre discípulo cuja mente segue firme obtém inspiração do significado, obtém inspiração do Dhamma, obtém satisfação do Dhamma. Estando satisfeito, o êxtase surge nele; naquele que está em êxtase, o corpo fica calmo; naquele, cujo corpo está calmo, sente felicidade; naquele que sente felicidade, a mente fica concentrada. Ele é chamado um nobre discípulo que permanece equilibrado em meio a uma população desequilibrada, que permanece sem aflição em meio a uma população aflita. Aquele que entrou na correnteza do Dhamma desenvolve a recordação dos devas. </p> 
+
+<p class=Normal> "Mahanama, um nobre discípulo que tenha obtido o fruto e compreendido os ensinamentos permanece com frequência desta forma." </p>
+
+
+<p class=Normal>&nbsp;</p>
+<hr size=2 width="100%" align=center>
+<p class=Normal style='margin-left:.75in'> 
+<p class=Normal><b>Notas:</b></p>
+
+<p class=Normal><a name=N1></a> [1] Os comentários explicam que a pergunta se refere ao que entrou na correnteza (<i>sotapanna</i>). [<a href="#R1">Retorna</a>] </p>
+
+<p class=Normal><a name=N2></a> [2] Recordar-se é <i>anussarati</i> em pali. [<a href="#R2">Retorna</a>] </p>
+
+<p class=Normal><a name=N3></a> [3] Os comentários explicam que ele "desfruta da paz e tranquilidade em meio aos seres que se tornaram desequilibrados devido à cobiça, raiva, e delusão." [<a href="#R2">Retorna</a>] </p>
+
+<p class=Normal><a name=N4></a> [4] <i>Dhammasota</i>, a correnteza do Dhamma, que no <a href="SNLV.5.php">SN LV.5</a> é dito ser o Nobre Caminho Óctuplo. [<a href="#R2">Retorna</a>] </p>
+
+
+
+<p class=Normal><a href="ANVI.12.php"><b> >> Próximo Sutta</b></a></p>
+
+
+<p class=Normal>&nbsp;</p>
+<p class=Normal>&nbsp;</p>
+
+<!-- Counter/Statistics -->
+<script language="JavaScript"
+src="http://us.js2.yimg.com/us.js.yimg.com/lib/smb/js/hosting/cp/js_source/whv2_001.js">
+</script>
+<script language="javascript">geovisit();</script>
+<noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?time"
+alt="setstats" border="0" width="1" height="1"></noscript>
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>
+
+

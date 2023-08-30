@@ -1,0 +1,85 @@
+<!-- DEFINE PARAMETROS -->
+<?
+DEFINE ('PAGINA',"ANV76 ");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAO
+DEFINE('REVISAO',"16 Abril 2013 "); // DATA DA REVISAO
+?>
+<!--INCLUI TOPO-->
+<?
+include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTÁ CERTO
+?>
+
+<!-- INICIO DO TEXTO -->
+
+
+
+<p class=Tit3 align=center style='text-align:center'><b>Anguttara Nikaya V.76 </b></Tit3>
+<p class=Tit1 align=center style='text-align:center'> Yodhajiva (dutiya)  Sutta </Tit1>
+<p class=Tit1 align=center style='text-align:center'> Guerreiros </Tit1>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR style='font-size:
+7.0pt;mso-ansi-language:PT-BR'><b> Somente para distribuição gratuita.</b><br>
+<i>Este trabalho pode ser impresso para distribuição gratuita.<br>
+Este trabalho pode ser re-formatado e distribuído para uso em computadores e redes de computadores<br>
+contanto que nenhum custo seja cobrado pela distribuição ou uso.<br>
+De outra forma todos os direitos estão reservados. </i> <o:p></o:p></span></p>
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'> 
+
+<p class=Normal> "Bhikkhus, há cinco tipos de guerreiros que podem ser encontrados no mundo. Quais cinco? </p>
+
+<p class=Normal> (1) "Aqui, um certo guerreiro toma a espada e o escudo, se arma com o arco e a aljava, e entra no calor da batalha. Ele se esforça e se empenha na luta, mas os seus inimigos o matam e lhe dão um fim. Há aqui, bhikkhus, esse tipo de guerreiro. Esse é o primeiro tipo de guerreiro que pode ser encontrado no mundo. </p>
+
+<p class=Normal> (2) "Novamente, um certo guerreiro toma a espada e o escudo, se arma com o arco e a aljava, e entra no calor da batalha. Ele se esforça e se empenha na luta, mas os seus inimigos o ferem. Os seus companheiros o carregam para os seus familiares. Enquanto está sendo levado para os seus familiares, ele morre no meio do caminho, antes de chegar. Há aqui, bhikkhus, esse tipo de guerreiro. Esse é o segundo tipo de guerreiro que pode ser encontrado no mundo. </p>
+
+<p class=Normal> (3) "Novamente, um certo guerreiro toma a espada e o escudo, se arma com o arco e a aljava, e entra no calor da batalha. Ele se esforça e se empenha na luta, mas os seus inimigos o ferem. Os seus companheiros o carregam para os seus familiares. Os familiares cuidam e tomam conta dele, mas enquanto eles assim fazem, ele morre devido aos ferimentos. Há aqui, bhikkhus, esse tipo de guerreiro. Esse é o terceiro tipo de guerreiro que pode ser encontrado no mundo. </p>
+
+<p class=Normal> (4) "Novamente, um certo guerreiro toma a espada e o escudo, se arma com o arco e a aljava, e entra no calor da batalha. Ele se esforça e se empenha na luta, mas os seus inimigos o ferem. Os seus companheiros o carregam para os seus familiares. Os familiares cuidam e tomam conta dele, e como resultado ele se cura dos ferimentos. Há aqui, bhikkhus, esse tipo de guerreiro. Esse é o quarto tipo de guerreiro que pode ser encontrado no mundo. </p>
+
+<p class=Normal> (5) "Novamente, um certo guerreiro toma a espada e o escudo, se arma com o arco e a aljava, e entra no calor da batalha. Tendo triunfado na batalha ele emerge vitorioso e se estabelece como o cabeça no campo de batalha. Há aqui, bhikkhus, esse tipo de guerreiro. Esse é o quinto tipo de guerreiro que pode ser encontrado no mundo. </p>
+
+<p class=Normal> "Esses são os cinco tipos de guerreiros que podem ser encontrados no mundo. </p>
+
+<p class=Normal> “Da mesma forma, existem cinco tipos de pessoas que se assemelham aos guerreiros que podem ser encontradas entre os bhikkhus. Quais cinco? </p>
+
+<p class=Normal> (1) "Aqui, um bhikkhu vive na dependência de um certo vilarejo ou cidade. Pela manhã ele se veste, toma o manto externo e a tigela, e vai até o vilarejo ou cidade para esmolar alimentos, com o corpo, linguagem e mente desprotegidas, sem ter estabelecido a atenção plena, sem a contenção das faculdades dos sentidos. Lá ele vê mulheres com os vestidos soltos e desarranjados. Ao vê-las, a cobiça invade a sua mente. Com a mente tomada pela cobiça, ele pratica o ato sexual sem ter revelado a sua fraqueza e ter abandonado o treinamento. Essa pessoa, eu digo, é igual ao guerreiro que toma a espada e o escudo, se arma com o arco e a aljava, e entra no calor da batalha. Ele se esforça e se empenha na luta, mas os seus inimigos o matam e lhe dão um fim. Há aqui, bhikkhus, esse tipo de pessoa. Esse é o primeiro tipo de pessoa que se assemelha aos guerreiros que pode ser encontrada entre os bhikkhus. </p>  
+
+<p class=Normal> (2) "Novamente, um bhikkhu vive na dependência de um certo vilarejo ou cidade. Pela manhã ele se veste, toma o manto externo e a tigela, e vai até o vilarejo ou cidade para esmolar alimentos, com o corpo, linguagem e mente desprotegidas, sem ter estabelecido a atenção plena, sem a contenção das faculdades dos sentidos. Lá ele vê mulheres com os vestidos soltos e desarranjados. Ao vê-las, a cobiça invade a sua mente. Com a mente tomada pela cobiça, ele arde no corpo e na mente [com a febre da cobiça]. Ele pensa: 'Vou retornar ao monastério e informar aos bhikkhus: "Amigos, eu estou obcecado pela cobiça, oprimido pela cobiça. Eu não sou capaz de dar continuidade à vida espiritual. Tendo revelado a minha fraqueza no treinamento, eu abandonarei o treinamento e regressarei para a vida inferior.'" Enquanto ele esta voltando para o monastério, mesmo antes de chegar, ele revela a sua fraqueza  no treinamento, abandona o treinamento e regressa para a vida inferior. Essa pessoa, eu digo, é igual ao guerreiro que toma a espada e o escudo, se arma com o arco e a aljava, e entra no calor da batalha. Ele se esforça e se empenha na luta, mas os seus inimigos o ferem. Os seus companheiros o carregam para os seus familiares. Enquanto está sendo levado para os seus familiares, ele morre no meio do caminho, antes de chegar. Há aqui, bhikkhus, esse tipo de pessoa. Esse é o segundo tipo de pessoa que se assemelha aos guerreiros que pode ser encontrada entre os bhikkhus. </p>
+
+<p class=Normal> (3) "Novamente, um bhikkhu vive na dependência de um certo vilarejo ou cidade. Pela manhã ele se veste, toma o manto externo e a tigela, e vai até o vilarejo ou cidade para esmolar alimentos, com o corpo, linguagem e mente desprotegidas, sem ter estabelecido a atenção plena, sem a contenção das faculdades dos sentidos. Lá ele vê mulheres com os vestidos soltos e desarranjados. Ao vê-las, a cobiça invade a sua mente. Com a mente tomada pela cobiça, ele arde no corpo e na mente [com a febre da cobiça]. Ele pensa: 'Vou retornar ao monastério e informar aos bhikkhus: "Amigos, eu estou obcecado pela cobiça, oprimido pela cobiça. Eu não sou capaz de dar continuidade à vida espiritual. Tendo revelado a minha fraqueza no treinamento, eu abandonarei o treinamento e regressarei para a vida inferior.'" Ele volta para o monastério e informa os bhikkhus: 'Amigos, eu estou obcecado pela cobiça, oprimido pela cobiça. Eu não sou capaz de dar continuidade à vida espiritual. Tendo revelado a minha fraqueza no treinamento, eu abandonarei o treinamento e regressarei para a vida inferior.' Os seus companheiros então o exortam e instruem: 'Amigo, o Abençoado declarou que os prazeres dos sentidos proporcionam pouca gratificação, muito sofrimento, muito desespero e quanto perigo eles contêm. Com o símile do osso ... com o símile do pedaço de carne ... com o símile da tocha de capim ... com o símile da cova de carvão em brasa ... com o símile dos sonhos ... com o símile das mercadorias emprestadas ... com o símile da árvore carregada de frutos ... com o símile do matadouro ... com o símile da espada ... com o símile da cabeça da cobra, o Abençoado declarou como os prazeres dos sentidos proporcionam pouca gratificação, muito sofrimento, muito desespero e quanto perigo eles contêm. [<a href="#N1">1</a>] <a name=R1></a>Desfrute da vida espiritual. Não pense que você é incapaz de seguir o treinamento, abandoná-lo e regressar para a vida inferior.' Enquanto ele está sendo exortado e instruído pelos seus companheiros dessa forma, ele protesta: 'Amigos, embora o Abençoado tenha declarado que os prazeres dos sentidos proporcionam pouca gratificação, muito sofrimento, muito desespero e quanto perigo eles contêm, ainda assim, eu sou incapaz de dar continuidade à vida espiritual. Tendo revelado a minha fraqueza no treinamento, eu abandonarei o treinamento e regressarei para a vida inferior.' Tendo revelado a sua fraqueza no treinamento, ele abandona o treinamento e regressa para a vida inferior. Essa pessoa, eu digo, é igual ao guerreiro que toma a espada e o escudo, se arma com o arco e a aljava, e entra no calor da batalha. Ele se esforça e se empenha na luta, mas os seus inimigos o ferem. Os seus companheiros o carregam para os seus familiares. Os familiares cuidam e tomam conta dele, mas enquanto eles assim fazem, ele morre devido aos ferimentos. Há aqui, bhikkhus, esse tipo de pessoa. Esse é o terceiro tipo de pessoa que se assemelha aos guerreiros que pode ser encontrada entre os bhikkhus. </p>
+
+<p class=Normal> (4) "Novamente, um bhikkhu vive na dependência de um certo vilarejo ou cidade. Pela manhã ele se veste, toma o manto externo e a tigela, e vai até o vilarejo ou cidade para esmolar alimentos, com o corpo, linguagem e mente desprotegidas, sem ter estabelecido a atenção plena, sem a contenção das faculdades dos sentidos. Lá ele vê mulheres com os vestidos soltos e desarranjados. Ao vê-las, a cobiça invade a sua mente. Com a mente tomada pela cobiça, ele arde no corpo e na mente [com a febre da cobiça]. Ele pensa: 'Vou retornar ao monastério e informar aos bhikkhus: "Amigos, eu estou obcecado pela cobiça, oprimido pela cobiça. Eu não sou capaz de dar continuidade à vida espiritual. Tendo revelado a minha fraqueza no treinamento, eu abandonarei o treinamento e regressarei para a vida inferior.'" Ele volta para o monastério e informa os bhikkhus: 'Amigos, eu estou obcecado pela cobiça, oprimido pela cobiça. Eu não sou capaz de dar continuidade à vida espiritual. Tendo revelado a minha fraqueza no treinamento, eu abandonarei o treinamento e regressarei para a vida inferior.' Os seus companheiros então o exortam e instruem: 'Amigo, o Abençoado declarou que os prazeres dos sentidos proporcionam pouca gratificação, muito sofrimento, muito desespero e quanto perigo eles contêm. Com o símile do osso ... com o símile do pedaço de carne ... com o símile da tocha de capim ... com o símile da cova de carvão em brasa ... com o símile dos sonhos ... com o símile das mercadorias emprestadas ... com o símile da árvore carregada de frutos ... com o símile do matadouro ... com o símile da espada ... com o símile da cabeça da cobra, o Abençoado declarou como os prazeres dos sentidos proporcionam pouca gratificação, muito sofrimento, muito desespero e quanto perigo eles contêm. Desfrute da vida espiritual. Não pense que você é incapaz de seguir o treinamento, abandoná-lo e regressar para a vida inferior.' Enquanto ele está sendo exortado e instruído pelos seus companheiros dessa forma, ele diz: 'Eu vou tentar, amigos, eu vou continuar, eu vou desfrutar. Eu não pensarei ser incapaz de seguir o treinamento, abandoná-lo e regressar para a vida inferior.' Essa pessoa, eu digo, é igual ao guerreiro que toma a espada e o escudo, se arma com o arco e a aljava, e entra no calor da batalha. Ele se esforça e se empenha na luta, mas os seus inimigos o ferem. Os seus companheiros o carregam para os seus familiares. Os familiares cuidam e tomam conta dele, e como resultado ele se cura dos ferimentos. Há aqui, bhikkhus, esse tipo de pessoa. Esse é o quarto tipo de pessoa que se assemelha aos guerreiros que pode ser encontrada entre os bhikkhus. </p>
+
+<p class=Normal> (5) "Novamente, um bhikkhu vive na dependência de um certo vilarejo ou cidade. Pela manhã ele se veste, toma o manto externo e a tigela, e vai até o vilarejo ou cidade para esmolar alimentos, com o corpo, linguagem e mente protegidas, tendo estabelecido a atenção plena, com a contenção das faculdades dos sentidos. Ao ver uma forma com o olho, ele não se agarra aos seus sinais ou detalhes. Visto que, se permanecer com a faculdade do olho descuidada, ele será tomado pelos estados ruins e prejudiciais de cobiça e tristeza. Ele pratica a contenção, ele protege a faculdade do olho, ele se empenha na contenção da faculdade do olho. Ao ouvir um som com o ouvido ... Ao cheirar um aroma com o nariz ... Ao saborear um sabor com a língua ... Ao tocar um tangível com o corpo ... Ao conscientizar um objeto mental com a mente, ele não se agarra aos seus sinais ou detalhes. Visto que, se permanecer com a faculdade da mente descuidada, ele será tomado pelos estados ruins e prejudiciais de cobiça e tristeza. Ele pratica a contenção, ele protege a faculdade da mente, ele se empenha na contenção da faculdade da mente. Depois de esmolar alimentos, após a refeição, ele procura um local isolado: na floresta, à sombra de uma árvore, uma montanha, uma ravina, uma caverna em uma encosta, um cemitério, um matagal, um espaço aberto, uma cabana vazia, ele senta com as pernas cruzadas, com o corpo ereto e coloca a atenção plena à sua frente. Abandonando a cobiça pelo mundo, ele permanece com a mente livre de cobiça; ele purifica sua mente da cobiça. Abandonando a má vontade, ele permanece com a mente livre de má vontade, com compaixão pelo bem-estar de todos seres vivos; ele purifica sua mente da má vontade. Abandonando a preguiça e o torpor, ele permanece livre da preguiça e do torpor, perceptivo à luz, atento e plenamente consciente; ele purifica sua mente da preguiça e do torpor. Abandonando a inquietação e a ansiedade, ele permanece calmo com a mente em paz; ele purifica sua mente da inquietação e da ansiedade. Abandonando a dúvida, ele assim permanece tendo superado a dúvida, sem perplexidade em relação a qualidades mentais hábeis; ele purifica a mente da dúvida. </p>
+
+<p class=Normal> "Tendo abandonado esses cinco obstáculos, corrupções da mente que  enfraquecem a sabedoria, afastado dos prazeres sensuais, afastado das qualidades não hábeis, entra e permanece no primeiro jhana ... quarto jhana, que possui nem felicidade nem sofrimento, com a atenção plena e a equanimidade purificadas. </p>
+
+<p class=Normal> “Com a sua mente dessa forma concentrada, purificada, luminosa, pura, imaculada, livre de defeitos, flexível, maleável, estável e atingindo a imperturbabilidade, ele a dirige e a inclina para o conhecimento do fim das impurezas mentais. Ele compreende, da forma como na verdade é que: ‘Isto é sofrimento’; ele compreende, da forma como na verdade é que: ‘Esta é a origem do sofrimento’; ele compreende, da forma como na verdade é que: ‘esta é a cessação do sofrimento’; ele compreende, da forma como na verdade é que: ‘este é o caminho que conduz à cessação do sofrimento’; ele compreende, da forma como na verdade é que: ‘essas são impurezas mentais’; ele compreende, da forma como na verdade é que: ‘esta é a origem das impurezas’; ele compreende, da forma como na verdade é que: ‘esta é a cessação das impurezas’; ele compreende, da forma como na verdade é que: ‘este é o caminho que conduz à cessação das impurezas.’ Ao conhecer e ver, a sua mente está livre da impureza do desejo sensual, da impureza de ser/existir, da impureza da ignorância. Quando ela está libertada surge o conhecimento, ‘Libertada.’ Ele compreende que ‘O nascimento foi destruído, a vida santa foi vivida, o que deveria ser feito foi feito, não há mais vir a ser a nenhum estado.’ Essa pessoa, eu digo, é igual ao guerreiro que toma a espada e o escudo, se arma com o arco e a aljava, e entra no calor da batalha. Tendo triunfado na batalha ele emerge vitorioso e se estabelece como o cabeça no campo de batalha. Há aqui, bhikkhus, esse tipo de pessoa. Esse é o quinto tipo de pessoa que se assemelha aos guerreiros que pode ser encontrada entre os bhikkhus. </p>
+
+<p class=Normal> "Esses são os cinco tipos de pessoas que se assemelham aos guerreiros que podem ser encontradas entre os bhikkhus." </p>
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'> 
+
+
+<p class=Normal><b>Notas:</b></p>
+
+<p class=Normal><a name=N1></a>  [1] Os primeiros sete símiles dos prazeres dos sentidos são explicados em mais detalhe no <a href="MN54.php#T15">MN 54.15</a>.  [<a href="#R1">Retorna</a>]</p>
+
+<p class=Normal><a href="ANV.78.php"><b> >> Próximo Sutta</b></a></p>
+<p class=Normal>&nbsp;</p>
+<p class=Normal>&nbsp;</p>
+
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>
+
+

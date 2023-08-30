@@ -1,0 +1,119 @@
+<!-- DEFINE PARAMETROS -->
+<?
+DEFINE ('PAGINA',"ANIV35 ");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAO
+DEFINE('REVISAO',"9  Maio 2009"); // DATA DA REVISAO
+?>
+<!--INCLUI TOPO-->
+<?
+include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTÁ CERTO
+?>
+
+<!-- INICIO DO TEXTO -->
+
+
+<p class=Tit3 align=center style='text-align:center'><b> Anguttara Nikaya IV.35 </b></Tit3>
+<p class=Tit1 align=center style='text-align:center'> Vassakara Sutta </Tit1>
+<p class=Tit1 align=center style='text-align:center'> Vassakara </Tit1>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR style='font-size:
+7.0pt;mso-ansi-language:PT-BR'><b> Somente para distribuição gratuita.</b><br>
+<i>Este trabalho pode ser impresso para distribuição gratuita.<br>
+Este trabalho pode ser re-formatado e distribuído para uso em computadores e redes de computadores<br>
+contanto que nenhum custo seja cobrado pela distribuição ou uso.<br>
+De outra forma todos os direitos estão reservados. </i> <o:p></o:p></span></p>
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'> 
+
+<p class=Normal>Em certa ocasião o Abençoado estava  em Rajagaha, no Bambual, no Santuário dos Esquilos. Então o brâmane Vassakara, o ministro de Magadha, foi até o Abençoado e ambos se cumprimentaram. Quando a conversa cortês e amigável havia terminado ele sentou a um lado e disse para o Abençoado: </p>
+
+<p class=Normal> “Mestre Gotama, nós afirmamos que alguém dotado com quatro qualidades possui grande sabedoria, é um grande homem. Quais quatro? </p>
+
+<p class=Normal> “É o caso em que ele é estudado. </p>
+
+<p class=Normal> “Qualquer coisa que ele ouça, ele de imediato compreende o significado daquilo que foi enunciado, ‘Este é o significado desse enunciado. Esse é o significado desse enunciado.’ </p>
+
+<p class=Normal> “Ele tem atenção plena, capaz de se lembrar e se recordar daquilo que foi feito e dito faz muito tempo. </p> 
+
+<p class=Normal> “Ele é um experto nos afazeres da vida em familia, diligente, dotado com ingenuidade suficiente nas técnicas necessárias para gerenciá-los e realizá-los. </p> 
+
+<p class=Normal> “Mestre Gotama, nós afirmamos que alguém dotado com essas quatro qualidades possui grande sabedoria, é um grande homem. Mestre Gotama, se você pensa que mereço a sua concordância, concorde comigo. Se você pensa que mereço ser criticado, me critique.” </p>
+
+<p class=Normal> “Eu nem concordo com você, brâmane, nem o critico. Eu afirmo que alguém dotado com quatro qualidades possui grande sabedoria, é um grande homem. Quais quatro? </p>
+
+<p class=Normal> “É o caso, brâmane, em que ele pratica para o bem-estar e felicidade de muitas pessoas e estabeleceu muitas pessoas no nobre método, isto é, a correção daquilo que é admirável, a correção daquilo que é hábil. </p> 
+
+<p class=Normal> “Ele pensa qualquer pensamento que queira pensar e não pensa nenhum pensamento que não queira pensar. Ele intenciona qualquer resolução que ele queira intencionar e não intenciona nenhuma resolução que ele não queira intencionar. Ele exerce domínio sobre a sua mente com relação aos tipos de pensamentos. [<a href="#N1">1</a>] </p>
+
+<p class=Normal> <a name="R1"> </a>  “Ele obtém de acordo com a sua vontade, sem problemas
+ou dificuldades, os quatro jhanas que constituem a mente superior e que
+proporcionam uma estada prazerosa aqui e agora. </p>
+
+<p class=Normal> “Com a eliminação das impurezas mentais, ele permanece em um estado livre de impurezas com a libertação da mente e a libertação através da sabedoria, tendo conhecido e manifestado isso para si mesmo no aqui e agora. </p>
+
+<p class=Normal> “Eu nem concordo com você, brâmane, nem o critico. Eu afirmo que alguém dotado com essas quatro qualidades possui grande sabedoria, é um grande homem.” </p>
+
+<p class=Normal> “É maravilhoso, Mestre Gotama, e admirável, que tão bem isso foi dito pelo Mestre Gotama. E eu considero que  o Mestre Gotama está dotado com essas mesmas quatro qualidades. </p>
+
+<p class=Normal> “Mestre Gotama pratica para o bem-estar e felicidade de muitas pessoas e ele estabeleceu muitas pessoas no nobre método, isto é, a correção daquilo que é admirável, a correção daquilo que é hábil. </p>
+
+<p class=Normal> “Mestre Gotama pensa qualquer pensamento que queira pensar e não pensa nenhum pensamento que não queira pensar. Ele intenciona qualquer resolução que ele queira intencionar e não intenciona nenhuma resolução que ele não queira intencionar. Ele exerce domínio sobre a sua mente com relação aos tipos de pensamentos. </p>
+
+<p class=Normal> “Mestre Gotama alcança, sempre que queira, sem esforço e sem dificuldades, os quatro jhanas que são estados superiores da mente, permanências prazerosas aqui e agora. </p>
+
+<p class=Normal> “Mestre Gotama, com a eliminação das impurezas mentais, permanece em um estado livre de impurezas com a libertação da mente e a libertação através da sabedoria, tendo conhecido e manifestado isso para si mesmo no aqui e agora.” </p>
+
+<p class=Normal> “Muito bem, brâmane, você tomou uma certa liberdade e disse palavras presunçosas, mas ainda assim responderei. </p>
+
+<p class=Normal> “Sim, brâmane, eu pratico para o bem-estar e felicidade de muitas pessoas e estabeleci muitas pessoas no nobre método, isto é, a correção daquilo que é admirável, a correção daquilo que é hábil. </p>
+
+<p class=Normal> “Sim, eu penso qualquer pensamento que queira pensar e não penso nenhum pensamento que não queira pensar. Eu intenciono qualquer resolução que eu queira intencionar e não intenciono nenhuma resolução que eu não queira intencionar. Eu exerço domínio sobre a minha mente com relação aos tipos de pensamentos. </p>
+
+<p class=Normal> “Sim, eu alcanço, sempre que queira, sem esforço e sem dificuldades, os quatro jhanas que são estados superiores da mente, permanências prazerosas aqui e agora. </p>
+
+<p class=Normal> “Sim, com a eliminação das impurezas mentais, permaneço em um estado livre de impurezas com a libertação da mente e a libertação através da sabedoria, tendo conhecido e manifestado isso para mim mesmo no aqui e agora.” </p>
+
+<p class=Normal style='margin-left:.75in'>Aquele que, com conhecimento, declarou<br>
+o Dhamma<br>
+para a libertação de todos os seres<br>
+da cilada da morte,<br>
+o bem-estar<br>
+para os seres humanos e divinos.<br>
+	&nbsp;&nbsp; &nbsp;&nbsp;Ao vê-lo e ouvi-lo,<br>
+	&nbsp;&nbsp; &nbsp;&nbsp;muitas pessoas se purificam e se acalmam.<br>
+Com habilidade no que é e no que não é o caminho,<br>
+a tarefa feita, livre de impurezas:<br>
+	&nbsp;&nbsp; &nbsp;&nbsp;ele é chamado<br>
+alguém com grande sabedoria,<br>
+portando seu ultimo corpo,<br>
+
+       &nbsp;&nbsp; &nbsp;&nbsp;Desperto.</p>
+
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'> 
+
+
+<p class=Normal><b>Notas:</b></p>
+
+<p class=Normal><a name="N1"> </a> [1] Veja  o <a href="MN20.php">MN 20</a>. [<a href="#R1">Retorna</a>] </p>
+<p class=Normal><a href="ANIV.36.php"><b> >> Próximo Sutta</b></a></p>
+
+<p class=Normal>&nbsp;</p>
+<p class=Normal>&nbsp;</p>
+
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>
+
+
+
+

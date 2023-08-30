@@ -1,0 +1,58 @@
+<!-- DEFINE PARAMETROS -->
+<?
+DEFINE ('PAGINA',"SNXLVI33 ");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAO
+DEFINE('REVISAO'," 16 Dezembro 2006"); // DATA DA REVISAO
+?>
+<!--INCLUI TOPO-->
+<?
+include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTÁ CERTO
+?>
+
+<!-- INICIO DO TEXTO -->
+
+
+<p class=Tit3 align=center style='text-align:center'><b>Samyutta Nikaya XLVI.33</b></Tit3>
+<p class=Tit1 align=center style='text-align:center'>Upakkilesa Sutta </Tit1>
+<p class=Tit1 align=center style='text-align:center'>Corrupções </Tit1>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR style='font-size:
+7.0pt;mso-ansi-language:PT-BR'><b> Somente para distribuição gratuita.</b><br>
+<i>Este trabalho pode ser impresso para distribuição gratuita.<br>
+Este trabalho pode ser re-formatado e distribuído para uso em computadores e redes de computadores<br>
+contanto que nenhum custo seja cobrado pela distribuição ou uso.<br>
+De outra forma todos os direitos estão reservados. </i> <o:p></o:p></span></p>
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'>
+
+
+<p class=Normal> “Bhikkhus, há essas cinco corrupções do ouro, através das quais o ouro nem é maleável, nem manuseável e tampouco luminoso, mas quebradiço e sem as condições apropriadas para ser trabalhado. Quais cinco? O ferro é uma corrupção do ouro, através da qual o ouro nem é maleável, nem manuseável e tampouco luminoso, mas quebradiço e sem as condições apropriadas para ser trabalhado. O cobre é uma corrupção do ouro ... O estanho é uma corrupção do ouro ... O chumbo é uma corrupção do ouro ... A prata é uma corrupção do ouro ... Essas são as cinco corrupções do ouro, através das quais o ouro nem é maleável, nem manuseável e tampouco luminoso mas quebradiço e sem as condições apropriadas para ser trabalhado.</p>
+ 
+<p class=Normal> “Do mesmo modo, bhikkhus, há essas cinco corrupções da mente, através das quais a mente nem é maleável, nem manuseável e tampouco luminosa, mas quebradiça e desprovida da correta concentração para a destruição das impurezas. Quais cinco? O desejo sensual é uma corrupção da mente, através da qual a mente nem é maleável, nem é  manuseável e tampouco luminosa, mas quebradiça e desprovida da correta concentração para a destruição das impurezas. A má vontade é uma corrupção da mente ... A preguiça e o torpor são uma corrupção da mente ... A inquietação e a ansiedade são uma corrupção da mente ... A dúvida é uma corrupção da mente. Essas são as cinco corrupções da mente, através das quais a mente nem é maleável, nem manuseável e tampouco luminosa, mas quebradiça e desprovida da correta concentração para a destruição das impurezas.”</p>
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'>
+
+
+
+
+
+<p class=Normal><a href="SNXLVI.35.php"><b> >> Próximo Sutta</b></a></p>
+
+<p class=Normal>&nbsp;</p>
+<p class=Normal>&nbsp;</p>
+
+
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>
+
+
+

@@ -1,0 +1,19 @@
+<!-- DEFINE PARAMETROS --><?DEFINE ('PAGINA'," weragoda ");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAODEFINE('REVISAO',"12 Novembro 2011"); // DATA DA REVISAO?><!--INCLUI TOPO--><?include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTç CERTO?><!-- INICIO DO TEXTO --><p class=Tit1 align=center style='text-align:center'>Venerável Weragoda Sarada Maha Thero </Tit1></p>
+<p  class=Normal>O Ven. Sarada Maha Thero nasceu no Sri Lanka em 1941, em uma família devota budista, tendo sido ordenado monge budista em 1953, quando tinha apenas 12 anos de idade.  Ele cursou os estudos superiores na Universidade de Sri Jayawardhanapura no Sri Lanka, tendo obtido seu primeiro diploma em 1964. Ele foi o reitor do Indurupathvila University College  de 1967 a1969 e reitor do Sudhramarama University College.  Ele tem se dedicado plenamente e com zelo missionário para a difusão das palavras do Buda, em nível mundial.</p> 
+
+<p  class=Normal>O seu trabalho nessa área teve início em Penang, na Malásia.  Lá ele foi o responsável pela Escola Dominical de Pali Mahindaram até 1979.  Nesse ano, ele foi para Cingapura e fundou o Singapore Buddhist Meditation Centre (SBMC).  Este centro sempre teve o apoio de um grupo altamente dinâmico e dedicado de devotos de Cingapura.</p> 
+
+<p  class=Normal>O Ven. Weragoda Sarada Maha Thero foi o promotor na fundação da American - Sri Lanka Buddhist Association, da qual ele ainda é o diretor.  Além disso, ele é o atual secretário-geral do Japan-Sri Lanka Buddhist Centre, do qual ele foi fundador-presidente.  Ele é o monge-chefe em exercício do Jayanthi Viharaya, Sri Lanka.</p>
+
+<p  class=Normal>Seu ímpar conjunto de publicações distingue-se por toda uma série de recordes.  Sua obra monumental,  "Treasury of Truth - Illustrated Dhammapada" é incomparável pelos mais de 2000 telefonemas que causou em apenas em um dia.  Isso deve, sem dúvida, ser um recorde mundial no domínio das publicações budistas. Hoje, ele tem mais de 185 títulos no seu nome.  Suas obras foram publicadas em cingalês, japonês, coreano, chinês e inglês. Ele migrou para as mídias eletrônicas para apresentar as palavras do Buda ao mundo.  Embora sua obra "Treasury of Truth - Illustrated Dhammapada" seja seu atual magnum opus, seu maior trabalho ainda está por vir.  Este trabalho é o "Illustrated Jataka Tales" com mil ilustrações especialmente encomendadas para decorarem o livro e representarem o texto.</p>
+
+<p  class=Normal>Abençoado com uma imaginação fora do comum, o Ven. Weragoda Sarada Maha Thero é positivamente voltado para o futuro.  Seu lema é divulgar a palavra do Buda "para o bem de muitos e para o bem-estar de muitos".</p>
+
+
+<p  class=Normal><img src="img/globe.gif" border=0> <a href= http://www.buddhist-book.com/> Singapore Buddhist Meditation Centre </a>
+<hr size=2 width="100%" align=center><p class=Normal><span lang=PT-BR style='mso-bidi-font-size:10.0pt;mso-ansi-language:PT-BR'>&nbsp;</span></p><ul style='margin-top:0in' type=disc> <li class=Normal style='mso-list:l34 level1 lfo2;tab-stops:list .5in'><span     lang=PT-BR style='mso-bidi-font-size:10.0pt;font-family:     ;mso-ansi-language:PT-BR'><b><a href="../dhp/dhp_indice.php">Dhammapada</a></span></b> (1993)</span></li></ul><p class=Normal style='margin-right:.5in;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;margin-left:.75in'>Tradução do livro "Treasury of Truth - Illustrated Dhammapada." <o:p></o:p></span></p><p class=Normal>&nbsp;</p><p class=Normal>&nbsp;</p>
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>

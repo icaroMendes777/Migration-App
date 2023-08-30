@@ -1,0 +1,65 @@
+<!-- DEFINE PARAMETROS -->
+<?
+DEFINE ('PAGINA',"ANVII24 ");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAO
+DEFINE('REVISAO'," 26 Maio 2014 "); // DATA DA REVISAO
+?>
+<!--INCLUI TOPO-->
+<?
+include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTÁ CERTO
+?>
+
+<!-- INICIO DO TEXTO -->
+
+
+<p class=Tit3 align=center style='text-align:center'><b>Anguttara Nikaya VII.24 </b></Tit3>
+<p class=Tit1 align=center style='text-align:center'> Sattaka (dutiya) Sutta </Tit1>
+<p class=Tit1 align=center style='text-align:center'> Não-declínio </Tit1>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR style='font-size:
+7.0pt;mso-ansi-language:PT-BR'><b> Somente para distribuição gratuita.</b><br>
+<i>Este trabalho pode ser impresso para distribuição gratuita.<br>
+Este trabalho pode ser re-formatado e distribuído para uso em computadores e redes de computadores<br>
+contanto que nenhum custo seja cobrado pela distribuição ou uso.<br>
+De outra forma todos os direitos estão reservados. </i> <o:p></o:p></span></p>
+
+<p class=Normal>&nbsp;</p>
+<hr size=2 width="100%" align=center>
+<p class=Normal style='margin-left:.75in'> 
+
+<p class=Normal> "Bhikkhus, eu lhes ensinarei os sete princípios do não-declínio. Ouçam e prestem muita atenção àquilo que eu vou dizer." </p>
+
+<p class=Normal>"Sim, venerável senhor," aqueles bhikkhus responderam. O Abençoado disse o seguinte: </p>
+
+<p class=Normal>"Quais, bhikkhus, são os sete princípios do não-declínio? </p>
+
+<p class=Normal> (1) "Enquanto os bhikkhus não se deliciarem com o trabalho, não se regozijarem com o trabalho, não se dedicarem ao deleite com o trabalho, é de se esperar que eles prosperem e não que declinem. (2) Enquanto os bhikkhus não se deliciarem com as conversas ... (3) ... não se deliciarem com o sono ... (4) ... não se deliciarem com as companhias ... (5) ... não tiverem desejos ruins e não estiverem sob o controle de desejos ruins ... (6) ... não se associarem com amigos ruins, companheiros ruins, camaradas ruins ... (7) ... não pararem a meio caminho no seu desenvolvimento por conta de alguma realização de menor importância, é de se esperar que eles prosperem e não que declinem. </p>
+
+<p class=Normal>"Bhikkhus, enquanto esses sete princípios do não-declínio persistirem entre os bhikkhus, e os bhikkhus forem vistos estarem neles estabelecidos, é de se esperar que eles prosperem e não que declinem." </p>
+
+
+<p class=Normal>&nbsp;</p>
+<hr size=2 width="100%" align=center>
+<p class=Normal style='margin-left:.75in'> 
+
+
+<p class=Normal><a href="ANVII.27.php"><b> >> Próximo Sutta</b></a></p>
+
+
+
+<p class=Normal>&nbsp;</p>
+<p class=Normal>&nbsp;</p>
+
+<!-- Counter/Statistics -->
+<script language="JavaScript"
+src="http://us.js2.yimg.com/us.js.yimg.com/lib/smb/js/hosting/cp/js_source/whv2_001.js">
+</script>
+<script language="javascript">geovisit();</script>
+<noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?time"
+alt="setstats" border="0" width="1" height="1"></noscript>
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>
+
+

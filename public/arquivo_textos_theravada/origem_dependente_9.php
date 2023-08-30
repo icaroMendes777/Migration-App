@@ -1,0 +1,562 @@
+<!-- DEFINE PARAMETROS -->
+<?
+DEFINE ('PAGINA',"origem_dependente_9");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAO
+DEFINE('REVISAO'," 28 Janeiro 2014 "); // DATA DA REVISAO
+?>
+<!--INCLUI TOPO-->
+<?
+include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTÁ CERTO
+?>
+
+<!-- INICIO DO TEXTO -->
+
+<p class=Tit1 align=center style='text-align:center'>9. Rompendo o Ciclo</Tit1>
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal>&nbsp;</p>
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>O
+ensinamento sobre a Origem Dependente faz parte daquilo que é conhecido como o
+Ensinamento do Meio, (<i>majjhena-dhammadesana</i>). Ele é ensinado como uma
+verdade natural, impessoal, uma descrição da natureza das coisas tal como elas
+são, evitando as teorias extremas ou idéias preconceituosas que os seres
+humanos costumam criar como resultado das suas percepções distorcidas do mundo,
+dos seus apegos e desejos. O ciclo da Origem Dependente que descreve a
+problemática do sofrimento humano ocorre em duas partes: a primeira parte,
+chamada <i>samudayavara,</i> (modo de origem), é uma descrição do surgimento do
+sofrimento que corresponde à segunda Nobre Verdade, a causa do sofrimento; a
+segunda parte, chamada <i>nirodhavara,</i> (modo de cessação), é uma descrição
+da cessação do sofrimento que corresponde à terceira Nobre Verdade.<i><o:p></o:p></i></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Em
+essência, então, o Ensinamento do Meio [<a href="#N23">23</a>] <a name=R23></a>descreve
+dois processos:<o:p></o:p></span></p>
+
+<p class=Normal><b><span lang=PT-BR style='mso-ansi-language:PT-BR'>1. <i>Samudaya</i></span></b><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>: O modo de origem do ciclo da
+Origem Dependente: ignorância =&gt; formações volitivas...ser/existir =&gt; nascimento
+=&gt; envelhecimento e morte, tristeza, lamentação, dor, angústia e desespero =
+o surgimento do sofrimento.<o:p></o:p></span></p>
+
+<p class=Normal><b><span lang=PT-BR style='mso-ansi-language:PT-BR'>2. <i>Nirodha</i></span></b><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>: O modo de cessação do ciclo da
+Origem Dependente: cessação da ignorância =&gt; cessação das formações volitivas =&gt;
+cessação da consciência...cessação do envelhecimento e morte, tristeza,
+lamentação, dor, angústia e desespero = a cessação do sofrimento.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>A razão
+pela qual precisamos lidar com a causa do sofrimento, (<i>samudaya</i>), é
+porque somos confrontados com um problema, (<i>dukkha</i>), cuja solução
+demanda a investigação da sua causa. Quando a causa do sofrimento é
+compreendida, reconhecemos que a solução do problema consiste na erradicação
+dessa causa.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Dessa forma
+é descrito o processo de cessação do sofrimento, (<i>nirodha</i>). No
+Ensinamento do Meio, a cessação do sofrimento inclui não somente o processo
+para produzir a cessação do sofrimento, mas também o estado de cessação em si,
+que é Nibbana.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Uma
+discussão sobre o tema do sofrimento, a causa do sofrimento, o processo de
+cessação do sofrimento e o estado de cessação do sofrimento, pode parecer uma
+descrição abrangente dos ensinamentos do Buda, mas na verdade não é. Isto
+porque o Ensinamento do Meio descreve apenas fenômenos naturais que operam de
+acordo com causas e condições naturais. Ele não está direcionado para a
+aplicação prática. É por isso que o processo de cessação do sofrimento, ou <i>nirodha</i>,
+que faz parte do Ensinamento do Meio, é simplesmente uma descrição de fenômenos
+impessoais e do seu funcionamento inter-relacionado para produzir a cessação do
+sofrimento. Ele não aborda de forma nenhuma os detalhes da aplicação prática.
+Ele simplesmente afirma que para realizar o objetivo, a cessação do sofrimento,
+os fatores devem progredir daquela forma, mas não menciona o que precisamos
+fazer para que esse processo ocorra. O Ensinamento do Meio é apenas uma
+descrição do processo natural que faz parte da ordem natural. Estudar a
+mecânica do processo da cessação pode conduzir à compreensão dos princípios
+básicos envolvidos, mas ainda nos faltará a orientação prática. Que métodos
+existem para a realização dessa solução de problemas que estivemos estudando?
+Esse é o ponto em que o processo natural tem que ser conectado com a aplicação
+prática.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>É
+imperativo que a aplicação prática esteja em conformidade e em harmonia com o
+processo natural – é preciso que ela opere de acordo com o processo natural
+para produzir resultados. O princípio vigente neste caso é, primeiro, conhecer
+e compreender o processo natural e daí praticar de acordo com um método
+desenvolvido de acordo com as habilidades humanas, baseado naquele conhecimento
+e compreensão. Em outras palavras, no que diz respeito ao processo natural,
+nossa única tarefa é de conhecê-lo, enquanto que com relação à prática, a nossa
+responsabilidade é de formular técnicas que estejam em conformidade com aquele
+entendimento, e dessa forma gradualmente passar do mero conhecimento do
+processo natural para a aplicação prática.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>A prática,
+técnicas e métodos de prática neste contexto, são conhecidos pelo termo
+especializado <i>patipada</i> – os métodos de prática, o modo de vida ou estilo
+de vida que conduzem à cessação do sofrimento. O Buda definiu métodos de
+prática que estão em harmonia com o processo natural, ou Ensinamento do Meio, e
+chamou essa prática de Caminho do Meio (<i>majjhima patipada</i>), que consiste
+de técnicas equilibradas, em conformidade com o processo natural e
+perfeitamente sintonizadas para efetuar a cessação do sofrimento. O Caminho
+evita os dois extremos da submissão à sensualidade e da auto-mortificação que
+leva à estagnação ou desvio do verdadeiro objetivo.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>O Caminho
+do Meio é conhecido de forma concisa como <i>magga</i>, o Caminho. Como esse
+Caminho possui oito elementos ou componentes e transforma aquele que o percorre
+com êxito em uma pessoa nobre (<i>ariya</i>), ele também é conhecido como o
+Nobre Caminho Óctuplo. O Buda afirmou que esse Caminho, esse Caminho do Meio,
+foi um caminho respeitado ao longo de gerações e que muitos o percorreram no
+passado e alcançaram o objetivo. O Buda foi apenas o mero descobridor e
+revelador desse<span style="mso-spacerun: yes">  </span>antigo caminho. A sua
+tarefa foi de simplesmente indicá-lo para os outros. [SN.II.106] (<a
+href="../sutta/SNXII.65.php">SN XII.65</a>)<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>O Caminho é
+uma técnica para a realização do objetivo, que é a cessação do sofrimento em
+conformidade com o processo natural. Ele opera dentro de causas e condições,
+guiando-as para interagirem e produzirem o resultado desejado. Quando falamos
+do Caminho, não estamos mais nos referindo a um processo impessoal de cessação
+do sofrimento, mas de uma técnica desenvolvida pelas habilidades humanas, o
+Caminho Óctuplo. Em outras palavras, transcendemos o nível do conhecimento e
+entramos no campo da aplicação prática.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Para
+compreender essa transferência de um processo natural para uma técnica formulada,
+poderemos empregar o seguinte modelo:<o:p></o:p></span></p>
+
+<p class=Normal><b><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Nirodha:</span></i></b><span
+lang=PT-BR style='mso-ansi-language:PT-BR'> cessa a ignorância =&gt; cessam as
+formações volitivas =&gt; cessa a consciência =&gt; cessam a mentalidade-materialidade (nome e forma)
+=&gt; cessam as bases dos sentidos =&gt; cessa o contato =&gt; cessa a sensação
+=&gt; cessa o desejo =&gt; cessa o apego =&gt; cessa o ser/existir =&gt; cessa
+o nascimento=&gt; cessam o envelhecimento e morte, tristeza, lamentação, dor,
+angústia e desespero =&gt; a cessação do sofrimento<o:p></o:p></span></p>
+
+<p class=Normal><b><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Magga</span></i></b><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>: Entendimento Correto, Pensamento
+Correto, Linguagem Correta, Ação Correta, Modo de Vida Correto, Esforço
+Correto, Atenção Plena Correta, Concentração Correta =&gt; cessação do
+sofrimento<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Podemos
+resumir a conexão entre o processo natural da cessação do sofrimento e as
+técnicas humanas para implementá-lo, conhecidas como o Caminho, da seguinte
+forma:<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'>A <b>Cessação</b> é um processo
+     natural, em oposição ao Caminho, que é uma técnica formulada pela
+     habilidade humana para produzir um resultado de acordo com aquele processo
+     natural.<o:p></o:p></span></p>
+
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>O <b>Caminho</b> surge do<span style="mso-spacerun: yes">  </span>uso do
+conhecimento do processo natural da cessação para formular um método de
+prática. É essencial de certa forma conhecer e compreender esse processo
+natural e essa é a razão porque o Caminho inicia com o Entendimento Correto.<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'>A <b>Cessação</b> é um processo
+     natural sujeito apenas à relação entre causas e condições. Quando falamos
+     da cessação do sofrimento, na realidade o que queremos dizer é a cessação
+     das causas e condições que suportam a existência do sofrimento. Assim o
+     processo de cessação do sofrimento é em termos absolutos e claros – a remoção
+     dos problemas, a ausência de problemas ou o estado que é diametralmente
+     oposto aos problemas, no qual os problemas não surgem.<o:p></o:p></span></p>
+
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR>O <b>Caminho</b> recomenda técnicas
+de prática que podem ser adaptadas a qualquer época e lugar. Que podem ser
+explicadas em muitos níveis, do mais simples ao mais complexo. Os oito fatores
+do Caminho podem ainda ser divididos em muitos sub-elementos, fazendo com que o
+caminho da prática se torne bastante complexo. O Caminho é uma técnica que
+gradualmente conduz ao estado em que não há problemas, mais lentamente ou mais
+rapidamente, de maneira mais ou menos eficaz, de acordo com o nível de prática
+empregada.</span></p>
+
+<p class=Normal style='margin-left:.75in'>A <b>Cessação</b> demonstra a
+     cessação do sofrimento em relação a causas e condições impessoais e a
+     completa remoção dessas condições. Como tal, ela não se preocupa com
+     questões sobre o bem e o mal.<o:p></o:p></span></p>
+
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>O <b>Caminho</b> é um sistema graduado de prática, resultado da criação
+humana, que conta com a gradual acumulação de bondade para superar o poder das
+condições ruins, que obstruem ou detêm a realização do objetivo. Por essa razão
+o Caminho enfatiza, especialmente nos estágios iniciais, o abandono do mal e o
+cultivo do bem.<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'>A <b>Cessação</b> é um
+     princípio, o Caminho é uma técnica, um método e uma ferramenta. </span>A
+     Cessação pode ser comparada aos princípios para a extinção de um incêndio
+     ou às condições naturais que fazem com que um incêndio se extinga, que
+     podem ser resumidas como: falta de combustível, falta de oxigênio ou perda
+     de temperatura.</p>
+
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>O <b>Caminho</b> pode ser comparado com as técnicas práticas para
+extinguir um incêndio, que precisam operar de acordo com os princípios
+naturais. Estes<span style="mso-spacerun: yes">  </span>envolverão formas de
+privar o incêndio de combustível, privá-lo de oxigênio ou reduzir a
+temperatura. Quando esses três princípios simples são transferidos para a
+aplicação prática, eles se convertem em grandes preocupações: técnicas precisam
+ser desenvolvidas e dispositivos inventados para esse objetivo. Por exemplo, o
+tipo de material e ferramentas que serão usados precisam ser avaliados levando
+em conta se o incêndio tem como causa eletricidade, petróleo, gás ou fogo
+comum, e as técnicas empregadas em cada caso precisam ser as mais adequadas.
+Pode ser que as pessoas tenham que ser especialmente treinadas com o objetivo
+de extinguir incêndios.<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>Usando uma outra analogia, a <b>cessação</b> pode ser comparada com os
+princípios para a cura de uma enfermidade, que descrevem a cura por meio da
+remoção da causa, como ao destruir a bactéria que tenha causado a enfermidade,
+a remoção do veneno ou matéria estranha do corpo ou a resolução do mal
+funcionamento ou degeneração dos órgãos do corpo. O <b>Caminho</b> pode ser
+comparado com as técnicas e métodos usados para curar uma enfermidade.
+Comparados ao Caminho, os princípios para a cura de uma enfermidade parecem
+minúsculos. As técnicas para curar as enfermidades são muito variadas,
+começando com a observação dos sintomas da enfermidade, o diagnóstico, a
+aplicação de medicamentos, as técnicas de cirurgia, de enfermagem e de
+fisioterapia; a invenção e produção de instrumentos cirúrgicos; a construção de
+hospitais e casas de repouso; o sistema de administração hospitalar e o
+treinamento de médicos e enfermeiras – apenas para mencionar alguns – que no
+seu conjunto apresentam um quadro vasto e complexo.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Embora se
+diga que o Caminho do Meio tenha oito elementos, esses elementos são apenas os
+fundamentos, e eles podem ser divididos em muitos outros fatores e
+classificados em inúmeros sistemas distintos e níveis de acordo com distintos
+objetivos, situações e temperamentos. Portanto, existem ensinamentos altamente
+detalhados em grande <span style='mso-tab-count:1'>            </span>quantidade
+que lidam com o Caminho e que requerem uma grande quantidade de estudo. O
+Caminho do Meio é um tema amplo que merece uma explicação em separado. O seu
+estudo pode ser dividido em duas seções principais: primeiro, aquela que lida
+com os elementos do Caminho, que é o sistema básico e outra que define e
+analisa esses elementos sob várias formas para uso em circunstâncias
+especializadas. Aqui lidaremos apenas com uma descrição básica dos elementos do
+Caminho.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Antes de
+começar a descrever o Caminho em si, vamos primeiro revisar algumas maneiras
+para ilustrar o avanço de um estado natural para uma aplicação prática ou de um
+processo natural para uma técnica humana.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Nos textos,
+estes dois tipos de prática são descritos:<o:p></o:p></span></p>
+
+
+
+<p class=Normal><b><span lang=PT-BR style='mso-ansi-language:PT-BR'>1. <i>Miccha-patipada</i></span></b><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>, prática incorreta ou caminho
+incorreto, sendo o caminho que conduz ao sofrimento.<o:p></o:p></span></p>
+
+<p class=Normal><b><span lang=PT-BR style='mso-ansi-language:PT-BR'>2. <i
+style='mso-bidi-font-style:normal'>Samma-patipada</i></span></b><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>, prática correta ou caminho
+correto, sendo o caminho que conduz à cessação do sofrimento.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Em alguns
+lugares, o modo de origem do ciclo da Origem Dependente é chamado<span
+style="mso-spacerun: yes">  </span><i style='mso-bidi-font-style:normal'>miccha-patipada</i>
+e o modo de cessação é chamado <i style='mso-bidi-font-style:normal'>samma-patipada</i>,
+representados da seguinte forma:<o:p></o:p></span></p>
+
+<p class=Normal><b style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:
+normal'><span lang=PT-BR style='mso-ansi-language:PT-BR'>Miccha-patipada</span></i></b><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>: ignorância =&gt; formações volitivas =&gt;
+consciência =&gt; mentalidade-materialidade (nome e forma) =&gt; bases dos sentidos =&gt;
+contato =&gt; sensação =&gt; desejo =&gt; apego =&gt; ser/existir =&gt;
+nascimento =&gt; envelhecimento e morte, tristeza, lamentação, dor, angústia e
+desespero =&gt; sofrimento.<o:p></o:p></span></p>
+
+<p class=Normal><b style='mso-bidi-font-weight:normal'><i style='mso-bidi-font-style:
+normal'><span lang=PT-BR style='mso-ansi-language:PT-BR'>Samma-patipada</span></i></b><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>: cessação da ignorância =&gt;
+cessação das formações volitivas =&gt; cessação da consciência =&gt; cessação da
+mentalidade-materialidade (nome e forma) =&gt; cessação das bases dos sentidos =&gt; cessação
+do contato =&gt; cessação da sensação =&gt; cessação do desejo =&gt; cessação
+do apego =&gt; cessação do ser/existir =&gt; cessação do nascimento =&gt;
+cessação do envelhecimento e morte, tristeza, lamentação, dor, angústia e
+desespero =&gt; cessação do sofrimento. [SN.II.4] (<a href="../sutta/SNXII.2.php">SN XII.2</a>)<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Em outro
+texto, no entanto, o Buda explica as práticas que se opõem diretamente ao
+Caminho Óctuplo como sendo <i style='mso-bidi-font-style:normal'>miccha-patipada</i>
+e o Caminho Óctuplo em si como sendo <i style='mso-bidi-font-style:normal'>samma-patipada</i>,
+portanto: <o:p></o:p></span></p>
+
+<p class=Normal><b><i style='mso-bidi-font-style:normal'><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Miccha-patipada</span></i></b><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>: Entendimento Incorreto, pensamento incorreto,
+linguagem incorreta, ação incorreta, modo de vida incorreto, esforço incorreto,
+atenção plena incorreta, concentração incorreta.<o:p></o:p></span></p>
+
+<p class=Normal><b><i style='mso-bidi-font-style:normal'><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Samma-patipada</span></i></b><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>: Entendimento correto, pensamento correto,
+linguagem correta, ação correta, modo de vida correto, esforço correto, atenção
+plena correta, concentração correta.[SN.V.18] (<a href="../sutta/SNXLV.22.php">SN XLV.22</a>)<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>O ciclo da
+Origem Dependente é a descrição de um processo natural, não um caminho de prática.
+No entanto, o primeiro conjunto de práticas corretas e incorretas descritas
+acima, descrevem a prática em relação ao ciclo da Origem Dependente. Há uma
+contradição nisso? O que pode ser respondido é que o ciclo da Origem Dependente
+ilustrado nesse<span style="mso-spacerun: yes">   </span><span
+style="mso-spacerun: yes">  </span>caso (e ele é mostrado como um modo de
+prática apenas nesse Sutta) procura descrever uma aplicação prática. Os
+Comentadores desse Sutta colocam a questão: a ignorância pode ser uma condição
+para boas ações ou mérito, (<i style='mso-bidi-font-style:normal'>puññabhisankhara</i>),
+ou servir para gerar um estado de concentração muito estável, (<i
+style='mso-bidi-font-style:normal'>aneñjabhisankhara</i>); porque então chamar
+de prática incorreta? Respondendo a essa questão, os Comentadores afirmam que
+quando as pessoas estão motivadas pelo desejo de ser algo ou obter algo, não
+importando o que façam – quer desenvolvam os cinco conhecimentos superiores, (<i
+style='mso-bidi-font-style:normal'>abhiñña</i>), ou as oito realizações, (<i
+style='mso-bidi-font-style:normal'>samapatti</i>) – ainda assim será prática
+incorreta. Por outro lado, aqueles que são motivados pela aspiração por
+Nibbana, que estão visando a renúncia ou a mente liberada, ao invés de
+conquistar ou obter algo, estarão sempre com a prática correta, mesmo quando
+realizam ações menores, como ao fazer oferendas.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>No entanto,
+minha intenção em apresentar para comparação esses dois tipos de prática correta
+e incorreta é de simplesmente incorporá-los no exame da progressão de um
+processo natural de cessação para uma técnica desenvolvida pela habilidade
+humana conhecida como o Caminho, como explicado acima. Observe que além de
+descrever o processo e o caminho prático para a bondade, aquilo que é
+prejudicial ou incorreto também será descrito.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Existe um
+outro modo através do qual o Buda descreveu o ciclo da Origem Dependente no seu
+modo de cessação que difere daqueles mencionados acima. A metade inicial descreve
+o surgimento do sofrimento de acordo com o ciclo normal da Origem Dependente em
+seqüência para diante, ou modo de origem, por todos os elos até o surgimento do
+sofrimento, mas a partir dali, ao invés de apresentar o ciclo da Origem
+Dependente na sua seqüência normal, ele descreve a progressão de condições
+hábeis que condicionam umas às outras numa outra seqüência que culmina com a libertação.
+Essa é uma seqüência de condições totalmente nova que não faz referência de
+forma nenhuma à cessação das condições no modo de origem. Essa seqüência é um
+exemplo muito importante de como os fatores do Caminho podem ser aplicados num
+sistema prático da vida real. Em outras palavras, é uma seqüência que pode
+surgir para aquele que trilha o Caminho com êxito e alcança o objetivo. Esse
+processo de libertação é mencionado em vários lugares no cânone, com pequenas
+diferenças de um para outro. Gostaria de apresentá-lo da seguinte forma:<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Ignorância
+=&gt; formações volitivas =&gt; consciência =&gt; mentalidade-materialidade (nome e forma) =&gt; bases
+dos sentidos =&gt; contato =&gt; sensação=&gt; desejo =&gt; apego =&gt;
+ser/existir =&gt; nascimento =&gt; sofrimento =&gt; convicção =&gt; satisfação
+=&gt; êxtase =&gt; calma =&gt; felicidade =&gt; concentração =&gt;
+conhecimento e visão das coisas como na verdade elas são =&gt; desencantamento
+=&gt; desapego =&gt; libertação =&gt; conhecimento da destruição das impurezas.
+[SN.II.31 ] (<a href="../sutta/SNXII.23.php">SN XII.23</a>)<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Note que a
+progressão começa com a ignorância e prossegue até o sofrimento que é o modo de
+origem da Origem Dependente ou o surgimento do sofrimento, mas então, tendo
+chegado ao sofrimento, ao invés da seqüência começar novamente na ignorância,
+como é usual, esta prossegue com a convicção (fé) que passa a dirigir o fluxo
+da ignorância para uma outra direção, uma direção hábil, que ao final levará ao
+conhecimento da destruição das impurezas, não mais retornando de forma nenhuma
+para a ignorância. Note que quando o sofrimento é tomado como o elemento do
+meio, o número de elementos que o antecedem e sucedem é o mesmo.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Para aquele
+que compreende a natureza da ignorância, a progressão acima não irá parecer
+estranha: se formos dividí-la em duas seções, descobriremos que uma é a
+seqüência da ignorância até o sofrimento, enquanto que a outra é a seqüência da
+convicção (fé) até o conhecimento da destruição das impurezas (iluminação). Na
+última seqüência, a convicção (fé) toma o lugar da ignorância. A convicção (fé)
+neste caso se refere a uma forma de ignorância modificada ou diluída. Neste
+estágio, a ignorância não é mais a do tipo cega, mas está imbuída de um grão de
+entendimento que empurra a mente para prosseguir na direção boa, finalmente
+conduzindo ao conhecimento e visão das coisas como na verdade elas são e à
+libertação.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Em termos
+simplificados, isso significa que uma vez que o sofrimento tenha surgido, de
+acordo com os canais normais, a pessoa busca uma saída. No caso de uma pessoa
+ter a oportunidade de ouvir ensinamentos verdadeiros ou desenvolver a
+compreensão lógica da virtude, estes fatores levarão à satisfação e ao êxtase
+que por sua vez vão encorajá-la a se esforçar pelo desenvolvimento gradual de
+boas qualidades mais elevadas.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Na verdade,
+esta última seqüência tem correspondência com o modo de cessação no formato
+padrão da Origem Dependente, (com a cessação da ignorância cessam as formações volitivas,
+etc.), mas aqui é dado um quadro mais detalhado, buscando ilustrar como a
+seqüência do surgimento do sofrimento se conecta com a seqüência da cessação do
+sofrimento.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>No
+Nettipakarana [<a href="#N24">24</a>], <a name=R24></a>o seguinte trecho
+atribuído ao Buda é dado como uma descrição do modo de cessação do ciclo da
+Origem Dependente:<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>“Ananda, desta forma, a conduta virtuosa habilidosa tem a inexistência
+de arrependimento como seu objetivo, a inexistência de arrependimento tem a satisfação como
+seu objetivo, a satisfação tem o êxtase como seu objetivo, o êxtase tem a
+calma como seu objetivo, a calma tem a felicidade como seu
+objetivo, a felicidade tem a concentração como seu objetivo, a concentração tem
+o conhecimento e visão das coisas como na verdade elas são como seu objetivo, o
+conhecimento e visão das coisas como na verdade elas são tem o desencantamento
+como seu objetivo, o desencantamento tem o desapego como seu objetivo, o
+desapego tem o conhecimento da libertação como seu objetivo. É assim que a
+conduta virtuosa hábil ocasiona a realização desses fatores para alcançar o
+estado de arahant.”[<a href="#N25">25</a>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=R25></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>De acordo com esse trecho, a seqüência é a seguinte:<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Conduta virtuosa
+habilidosa =&gt; inexistência de arrependimento =&gt; satisfação =&gt; êxtase =&gt;
+calma =&gt; felicidade =&gt; concentração =&gt; conhecimento e visão
+das coisas como na verdade elas são =&gt; desencantamento =&gt; desapego =&gt;
+conhecimento da libertação<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Pode ser
+visto que esta seqüência é a mesma mencionada antes, exceto que esta menciona
+apenas a seção que lida com a cessação do sofrimento e exclui a seção que lida
+com o surgimento do sofrimento. Vejamos novamente a seqüência anterior:<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Ignorância
+=&gt; formações volitivas =&gt; consciência =&gt; mentalidade-materialidade (nome e forma) =&gt; bases
+dos sentidos =&gt; contato =&gt; sensação=&gt; desejo =&gt; apego =&gt;
+ser/existir =&gt; nascimento =&gt; sofrimento =&gt; convicção =&gt; satisfação
+=&gt; êxtase =&gt; calma =&gt; felicidade =&gt; concentração =&gt;
+conhecimento e visão das coisas como na verdade elas são =&gt; desencantamento
+=&gt; desapego =&gt; libertação =&gt; destruição das impurezas<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Embora as
+duas seqüências sejam iguais, elas não apresentam palavras idênticas. Uma
+seqüência começa com a convicção (fé), a outra com a conduta virtuosa
+habilidosa e continua com a inexistência de arrependimento. A partir disso ambas são
+iguais. Na verdade a única diferença diz respeito às palavras e à ênfase. A
+primeira seqüência ilustra a situação na qual a convicção (fé) desempenha o
+papel predominante. Por outro lado, nesse tipo de convicção (fé), a mente
+possui total segurança na racionalidade, está inspirada na bondade e segura da
+virtude. Esse estado mental também será influenciado pelo comportamento. A convicção
+(fé) estando assim suportada pelo comportamento hábil e bom, tem como seguimento
+a satisfação, como na outra seqüência que começa com a conduta virtuosa
+habilidosa e inexistência de arrependimento. Esta seqüência atribui proeminência à
+prática da virtude. Nesta situação, a convicção (fé) fundamentada na
+racionalidade e a predileção pela bondade são essenciais para manter uma boa
+conduta. Com a virtude e a inexistência de arrependimento, a pessoa se sente segura
+quanto à qualidade do seu comportamento que é uma característica da convicção
+(fé). Isso proporciona convicção (fé) e clareza para a mente e se torna uma
+condição para o surgimento da satisfação, como na seqüência anterior.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Uma das
+seqüências conclui com a ‘libertação e destruição das impurezas,’ enquanto que
+a outra conclui com o ‘conhecimento da libertação.’ Ambas são iguais, exceto
+pelo fato de que a última seqüência inclui a libertação e destruição das
+impurezas sob o título ‘conhecimento da libertação.’<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Uma outra
+ilustração do processo de libertação prossegue da seguinte forma:<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Atenção com
+sabedoria (<i style='mso-bidi-font-style:normal'>yoniso-manasikara</i>) =&gt;
+satisfação =&gt; êxtase =&gt; calma =&gt; felicidade =&gt; concentração
+=&gt; conhecimento e visão das coisas como na verdade elas são =&gt;
+desencantamento =&gt; desapego =&gt; libertação.[DN.III.288] (<a
+href="../sutta/DN34.php#T2_2_1">DN 34.2.2(1)</a>)<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Esta
+seqüência difere apenas no fato de iniciar com a atenção com sabedoria, ou
+saber como pensar e raciocinar por si mesmo, ao invés da convicção (fé) que
+depende de influências externas para orientação. Quando a pessoa pensa de modo
+apropriado e de acordo com a realidade, ela será capaz de ver as coisas como
+elas na verdade são e o resultado é a satisfação. A partir disso, os fatores da
+progressão são os mesmos das seqüências anteriores.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Essas
+seqüências mostram com clareza o caminho da prática em relação ao ciclo da Origem
+Dependente. Mesmo assim, elas são apenas um esboço tosco das técnicas
+práticas.<span style="mso-spacerun: yes">  </span>Existem ainda muitos pontos
+que devem ser esclarecidos, como o que precisa ser feito para dar início ao
+surgimento desse tipo de seqüência. Essa é a preocupação do Caminho, as Quatro
+Nobres Verdades ou o Caminho do Meio que trata do sistema ético Budista, a
+prática da virtude baseada no conhecimento dos processos naturais. No entanto,
+esse é um assunto vasto que precisa ser tratado numa outra oportunidade.<o:p></o:p></span></p>
+
+<p class=Normal><!--[if gte vml 1]><v:shapetype id="_x0000_t75" coordsize="21600,21600"
+ o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f"
+ stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1026" type="#_x0000_t75" alt="" style='width:299.25pt;
+ height:9in'>
+ <v:imagedata src="./origem_dependente_9_files/image001.gif" o:href="http://www.geocities.com/athens/academy/9280/do6.gif"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=399 height=864
+src="./origem_dependente_9_files/image002.jpg" v:shapes="_x0000_i1026"><![endif]><b><span
+lang=PT-BR style='mso-ansi-language:PT-BR'><o:p></o:p></span></b></p>
+
+<p class=Normal>&nbsp;</p>
+
+<p class=Normal><b><span lang=PT-BR style='mso-ansi-language:PT-BR'><a
+href="origem_dependente_1.php">Início</a></span></b><span lang=PT-BR
+style='mso-ansi-language:PT-BR'> &gt;&gt; <a href="origem_dependente_8.php">8.
+O Ensinamento do Meio</a>&gt;&gt; <a href="origem_dependente_10.php">Apêndice</a><b><o:p></o:p></b></span></p>
+
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal>&nbsp;</p>
+
+
+<p class=Normal><b><span lang=PT-BR style='mso-ansi-language:PT-BR'><b>Notas:</b><o:p></o:p></span></b></p>
+
+
+<p class=Normal><a name=N23></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>23. A frase <i>majjhena dhammadesana</i>, ou Ensinamento do Meio, provém
+da sentença em Pali “<i>majjhena dhammam deseti</i>,” que aparece com
+freqüência por todo o <i><a href="../sutta/samyutta_nikaya.php#Nidana">Nidanavagga</a></i>
+do Samyutta Nikaya, do SN.II.17 até SN.II.77 (SN XII.15-48).[<a href="#R23">Retorna</a>]<o:p></o:p></span></p>
+
+
+<p class=Normal><a name=N24></a>24. </span><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>Nanamoli</span>, <i>The Guide</i></span><span lang=PT-BR style='mso-ansi-language:PT-BR'>,
+Pali Text Society, 1962, pág.97. [<a href="#R24">Retorna</a>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N25></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>25. Veja também o <a href="../sutta/ANXI.2.php">AN XI.2</a> (AN.V.313). No <a href="../sutta/ANX.2.php">AN X.2</a> (AN.V.3), existe o mesmo trecho, exceto pelo fato de
+colocar <i>nibbida</i> e <i>viraga</i> juntos. [<a
+href="#R25">Retorna</a>]<b>&nbsp;&nbsp;<o:p></o:p></b></span></p>
+
+
+<p class=Normal>&nbsp;</p>
+
+<p class=Normal>&nbsp;</p>
+
+
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>

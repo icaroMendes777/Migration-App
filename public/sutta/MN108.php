@@ -1,0 +1,447 @@
+<!-- DEFINE PARAMETROS -->
+<?
+DEFINE ('PAGINA',"MN108");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAO
+DEFINE('REVISAO'," 18 Setembro 2013"); // DATA DA REVISAO
+?>
+<!--INCLUI TOPO-->
+<?
+include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTÁ CERTO
+?>
+
+<!-- INICIO DO TEXTO -->
+
+
+<p class=Tit3 align=center style='text-align:center'><b> Majjhima Nikaya 108 </b></Tit3>
+<p class=Tit1 align=center style='text-align:center'>Gopakamoggallana Sutta </Tit1>
+<p class=Tit1 align=center style='text-align:center'>Com Gopaka Moggallana </Tit1>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR style='font-size:
+7.0pt;mso-ansi-language:PT-BR'><b> Somente para distribuição gratuita.</b><br>
+<i>Este trabalho pode ser impresso para distribuição gratuita.<br>
+Este trabalho pode ser re-formatado e distribuído para uso em computadores e redes de computadores<br>
+contanto que nenhum custo seja cobrado pela distribuição ou uso.<br>
+De outra forma todos os direitos estão reservados. </i> <o:p></o:p></span></p>
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'>
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>1. Assim ouvi.
+Em certa ocasião o venerável Ananda estava em Rajagaha, no Bambual, no
+Santuário dos Esquilos, não muito tempo depois do Abençoado ter realizado o
+parinibbana. [<a href="#N1">1</a>]<o:p></o:p></span></p>
+
+
+
+<p class=Normal><a name=R1></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>2. Agora, naquela ocasião o rei Ajatasattu Vedehiputta de Magadha,
+suspeitando do rei Pajjota, havia fortificado Rajagaha. [<a href="#N2">2</a>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=R2></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>3. Então, ao
+amanhecer, o venerável Ananda se vestiu e tomando a tigela e o manto externo,
+foi para Rajagaha para esmolar alimentos. Foi quando o venerável Ananda pensou:
+“Ainda é muito cedo para esmolar alimentos em Rajagaha. E se eu fosse até o
+brâmane Gopaka Moggallana no seu local de trabalho.”<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>4. Assim o venerável Ananda
+foi até o brâmane Gopaka Moggallana no seu local de trabalho. O brâmane Gopaka
+Moggallana viu o venerável Ananda vindo à distância e lhe disse: “Venha Mestre
+Ananda! Bem vindo Mestre Ananda! Já faz muito tempo desde que o Mestre Ananda
+encontrou uma oportunidade para vir aqui. Que o Mestre Ananda sente; este
+assento está preparado.” O venerável Ananda sentou no assento que havia sido
+preparado. O brâmane Gopaka Moggallana<span style='mso-spacerun:yes'> 
+</span>tomou um assento mais baixo, sentou a um lado e perguntou ao venerável
+Ananda:<o:p></o:p></span></p>
+
+<p class=Normal><a name=T5></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>5. “Mestre
+Ananda, existe algum bhikkhu que possua, em todos os aspectos, todas as
+qualidades que o Mestre Gotama, um arahant, perfeitamente iluminado, possuía?”<span
+style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>“Não existe nenhum bhikkhu, brâmane, que possua, em todos os aspectos, todas as qualidades que o
+Abençoado, um arahant, perfeitamente iluminado, possuía. Pois o Abençoado foi
+aquele que fez surgir o caminho que não havia surgido, aquele que produziu o
+caminho que não estava produzido, aquele que declarou o caminho que não estava
+declarado; ele era o conhecedor do caminho, aquele que encontrou o caminho,
+aquele com habilidade no caminho. Mas os seus discípulos agora seguem esse
+caminho e eles se tornarão possuidores dessas qualidades no futuro.”<o:p></o:p></span></p>
+
+<p class=Normal> 6. </span><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Mas esta discussão entre o venerável Ananda e o
+brâmane Gopaka Moggallana foi interrompida; pois naquele momento o brâmane
+Vassakara, o ministro de Magadha, [<a href="#N3">3</a>] <a name=R3></a>enquanto
+supervisionava o trabalho em Rajagaha foi até o venerável Ananda no local de
+trabalho do brâmane Gopaka Moggallana. Ele cumprimentou o venerável Ananda e
+quando a conversa cortês e amigável havia terminado, sentou a um lado e
+perguntou ao venerável Ananda: “Qual é o assunto que faz com que vocês estejam
+sentados juntos aqui agora, Mestre Ananda? E qual é a discussão que foi
+interrompida?” <o:p></o:p></span></p>
+
+<p class=Normal> “</span><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Ministro, o brâmane Gopaka Moggallana me
+perguntou: ‘Mestre Ananda, existe algum bhikkhu que possua, em todos os
+aspectos, todas as qualidades que o Mestre Gotama, um arahant, perfeitamente
+iluminado, possuía?’ Eu respondi ao brâmane Gopaka Moggallana: ‘Não existe
+nenhum bhikkhu, brâmane, que possua, em todos os aspectos, todas as qualidades
+que o Abençoado, um arahant, perfeitamente iluminado, possuía. Pois o Abençoado foi
+aquele que fez surgir o caminho que não havia surgido ... mas os seus discípulos
+agora seguem esse caminho e eles serão possuidores dessas qualidades no
+futuro.’ Essa era a nossa discussão que foi interrompida quando você chegou.” <o:p></o:p></span></p>
+
+<p class=Normal> 7. “</span><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Existe Mestre Ananda, algum bhikkhu que tenha
+sido indicado pelo Mestre Gotama da seguinte forma: ‘Ele será o seu refúgio
+quando eu houver partido,’ e a quem vocês agora poderão recorrer?”<o:p></o:p></span></p>
+
+<p class=Normal> “</span><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Não existe nenhum bhikkhu, brâmane, que tenha
+sido indicado pelo Abençoado que sabe e vê, um arahant, perfeitamente iluminado,
+dessa forma: ‘Ele será o seu refúgio quando eu houver partido,’ e a quem nós
+agora podemos recorrer.”<o:p></o:p></span></p>
+
+<p class=Normal> 8. “</span><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Mas existe, Mestre Ananda, algum bhikkhu que
+tenha sido escolhido pela Sangha e indicado por um número de bhikkhus sêniores
+da seguinte forma: ‘Ele será o nosso refúgio depois que o Abençoado tiver
+partido,’ e a quem vocês agora poderão recorrer?’<o:p></o:p></span></p>
+
+<p class=Normal> <span lang=PT-BR style='mso-ansi-language:PT-BR'>“Não
+existe nenhum bhikkhu, brâmane, que tenha sido escolhido pela Sangha e indicado
+por um número de bhikkhus sêniores, dessa forma: ‘Ele será o nosso refúgio
+depois que o Abençoado tiver partido,’ e a quem nós agora podemos
+recorrer.”<span style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>9.
+“Mas se vocês não possuem um refúgio, Mestre Ananda, qual é a razão da harmonia
+entre vocês?”<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>“Nós
+não estamos sem um refúgio, brâmane. Nós temos um refúgio; nós temos o Dhamma
+como o nosso refúgio.” <o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>10.
+“Mas quando você foi perguntado:
+‘Existe, Mestre Ananda, algum bhikkhu que tenha sido indicado pelo Mestre
+Gotama desta forma: “Ele será o seu refúgio quando eu houver partido,” e a quem
+vocês agora poderão recorrer?’ você respondeu: ‘Não existe nenhum bhikkhu ... a
+quem nós agora podemos recorrer.’ Quando você foi perguntado: ‘Existe algum
+bhikkhu que tenha sido escolhido pela Sangha e indicado por um número de
+bhikkhus sêniores da seguinte forma: ‘Ele será o nosso refúgio depois que o
+Abençoado tiver partido,’ e a quem vocês agora poderão recorrer?’ você
+respondeu: ‘Não existe nenhum bhikkhu ... a quem nós agora podemos recorrer.’
+Quando você foi perguntado: ‘Mas se vocês não possuem um refúgio, Mestre
+Ananda, qual é a razão da<span style='mso-spacerun:yes'>  </span>harmonia entre
+vocês?’ você respondeu: ‘Nós não estamos sem um refúgio, brâmane. Nós temos um
+refúgio; nós temos o Dhamma como o nosso refúgio.’ Então, como deve ser
+interpretado o significado dessas afirmações, Mestre Ananda?”<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'><span
+style='mso-spacerun:yes'> </span>“Brâmane, o Abençoado que sabe e vê, um arahant,
+perfeitamente iluminado, prescreveu o método de treinamento para os bhikkhus e
+ele estabeleceu o Patimokkha. No dia do Uposatha todos que vivemos na
+dependência de um mesmo vilarejo nos reunimos em completa harmonia e pedimos
+para aquele que sabe, que recite o Patimokkha. Se um bhikkhu se recorda de
+alguma ofensa ou transgressão enquanto o Patimokkha estiver sendo recitado, nós
+tomamos a ação necessária de acordo com o Dhamma da forma como fomos
+instruídos. Não são os nobres que tratam desses assuntos conosco; é o Dhamma
+que trata conosco. [<a href="#N4">4</a>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=R6></a><a name=R4></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>11. “Existe, Mestre Ananda, algum único bhikkhu que vocês agora honrem,
+respeitem, reverenciem e venerem e no qual vocês confiem, honrando-o e
+respeitando-o?” <o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>“Existem bhikkhus,
+brâmane, que nós agora honramos, respeitamos, reverenciamos e veneramos e nos
+quais nós confiamos, honrando-os e respeitando-os.”<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>12. “Mas quando você foi
+perguntado: ‘Existe, Mestre Ananda, algum bhikkhu que tenha sido indicado pelo
+Mestre Gotama ...?’ você respondeu: ‘Não existe nenhum bhikkhu ....’ Quando
+você foi perguntado: ‘Existe algum bhikkhu que tenha sido escolhido pela Sangha
+...?’ você respondeu: ‘Não existe nenhum bhikkhu ....’ Quando você foi
+perguntado: ‘Existe, Mestre Ananda, algum único bhikkhu que vocês agora honrem,
+respeitem, reverenciem e venerem e no qual vocês confiem, honrando-o e
+respeitando-o?’ você respondeu: ‘Existe um único bhikkhu, que nós agora
+honramos ... e em relação ao qual nós vivemos com confiança, honrando-o e
+respeitando-o.’ Então, como deve ser interpretado o significado dessas
+afirmações, Mestre Ananda?”<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>13. “Existem, brâmane, dez
+qualidades que inspiram claridade, serenidade e confiança, que foram declaradas pelo Abençoado que sabe
+e vê, um arahant, perfeitamente iluminado. Quando essas qualidades são encontradas
+em qualquer um dentre nós, nós o honramos, respeitamos, reverenciamos e
+veneramos e vivemos com confiança nele, honrando-o e respeitando-o. Quais são
+as dez? <o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>14. (1)<span
+style='mso-spacerun:yes'>  </span>“Nesse caso, brâmane, um bhikkhu é virtuoso,
+ele permanece contido pelas regras do Patimokkha, ele é perfeito na conduta e
+na sua esfera de atividade, temendo a menor falha, ele treina adotando os
+preceitos de virtude.<o:p></o:p></span></p>
+
+<p class=Normal><a name=R8></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>15. (2) “Ele
+aprendeu muito, se recorda daquilo que apre<a name=R9></a>ndeu e consolida
+aquilo que<span style='mso-spacerun:yes'>  </span>aprendeu. Aqueles
+ensinamentos que são admiráveis no início, admiráveis no meio, admiráveis no
+final, com o correto significado e fraseado e que revelam uma vida santa que
+é completamente perfeita e imaculada – ensinamentos como esses ele os aprendeu
+bem, se recorda, domina com a linguagem, investigou <a name=R10></a>com a mente
+e penetrou corretamente com o entendimento. <o:p></o:p></span></p>
+
+<p class=Normal><a name=R12></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>16. (3)
+“Ele está satisfeito com os seus mantos, a comida esmolada, a moradia e<span
+style='mso-spacerun:yes'>  </span>os medicamentos.<span
+style='mso-spacerun:yes'>    </span><o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>17. (4) “Ele obtém de
+acordo com a sua vontade, sem problemas ou dificuldades, os quatro jhanas que
+constituem a mente superior e que proporcionam um estado prazeroso aqui e
+agora. <o:p></o:p></span></p>
+
+<p class=Normal><a name=R13></a><a name=T18></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>18. (5) “Ele exerce os vários tipos de poderes supra-humanos: tendo sido
+um, ele se torna vários; tendo sido vários, ele se torna um; ele aparece e
+desaparece; ele cruza sem nenhum problema uma parede, um cercado, uma montanha
+ou através do espaço; ele mergulha e sai da terra como se fosse água; ele
+caminha sobre a água sem afundar como se fosse terra; sentado de pernas
+cruzadas ele cruza o espaço como se fosse um pássaro; com a sua mão ele toca e
+acaricia a lua e o sol tão forte e poderoso; ele exerce poderes corporais até
+mesmo nos distantes mundos de Brahma.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>19. (6) “Com o elemento do
+ouvido divino, que é purificado e ultrapassa o humano, ele ouve ambos tipos de
+sons, os divinos e os humanos, aqueles distantes bem como os próximos.<o:p></o:p></span></p>
+
+<p class=Normal><a name=T20></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>20. (7) “Ele
+compreende as mentes de outros seres, de outras pessoas, abarcando-as com a sua
+própria mente. Ele compreende uma mente afetada pelo desejo como afetada pelo
+desejo e uma mente não afetada pelo desejo como não afetada pelo desejo; Ele
+compreende uma mente afetada pela raiva como afetada pela raiva e uma mente não
+afetada pela raiva como não afetada pela raiva; Ele compreende uma mente
+afetada pela delusão como afetada pela delusão e uma mente não afetada pela
+delusão como não afetada pela delusão; Ele compreende uma mente contraída como
+contraída e uma mente distraída como distraída; Ele compreende uma mente
+transcendente como transcendente e uma mente não transcendente como não
+transcendente; Ele compreende uma mente superável como superável e uma mente
+não superável como não superável; Ele compreende uma mente concentrada como
+concentrada e uma mente não concentrada como não concentrada; Ele compreende
+uma mente libertada como libertada e uma mente não libertada como não
+libertada. <o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>21. (8) “Ele se recorda das
+suas muitas vidas passadas, isto é, um nascimento, dois nascimentos, três
+nascimentos, quatro, cinco, dez, vinte, trinta, quarenta, cinqüenta, cem, mil,
+cem mil, muitos ciclos cósmicos de contração, muitas ciclos cósmicos de
+expansão, muitas ciclos cósmicos de contração e expansão, ‘Lá eu tive tal nome,
+pertencia a tal clã, tinha tal aparência. Assim era o meu alimento, assim era a
+minha experiência de prazer e dor, assim foi o fim da minha vida. Falecendo
+desse estado, eu renasci ali. Ali eu também tinha tal nome, pertencia a tal
+clã, tinha tal aparência. Assim era o meu alimento, assim era a minha
+experiência de prazer e dor, assim foi o fim da minha vida. Falecendo daquele
+estado, eu renasci aqui.’ Assim ele se recorda das suas muitas vidas passadas
+nos seus modos e detalhes.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>22. (9) “Por meio do olho
+divino, que é purificado e ultrapassa o humano, ele vê seres falecendo e
+renascendo, inferiores e superiores, bonitos e feios, afortunados e
+desafortunados. Ele compreende como os seres prosseguem de acordo com as suas
+ações.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>23. (10)
+“Compreendendo por si mesmo com o conhecimento direto, ele aqui e agora entra e
+permanece na libertação da mente e na libertação através da sabedoria que são
+imaculadas <a name=R15></a>com a destruição de todas as impurezas.<span
+style='mso-spacerun:yes'>  </span><o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>“Essas, brâmane,
+são as dez qualidades que inspiram claridade, serenidade e confiança, que foram declaradas pelo
+Abençoado que sabe e vê, um arahant, perfeitamente iluminado. Quando essas
+qualidades são encontradas em qualquer um dentre nós, nós o honramos,
+respeitamos, reverenciamos e veneramos e vivemos com confiança nele, honrando-o
+e respeitando-o. <o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>24. Quando
+isso foi dito, o brâmane Vassakara, o ministro de Magadha, disse para o General
+Upananda: “O que você pensa, general? Quando estes nob<a name=R16></a>res
+honram alguém que deveria ser honrado, respeitam alguém que deveria ser
+respeitado, reverenciam alguém que deveria ser reverenciado e veneram alguém
+que deveria ser venerado, com certeza eles honram quem deveria ser honrado ...
+e veneram aquele que deveria ser venerado. Pois se esses nobres não honrassem,
+respeitassem, reverenciassem e venerassem tal<span style='mso-spacerun:yes'> 
+</span>pessoa, então a quem eles poderiam honrar, respeitar, reverenciar e
+venerar e com confiança em quem eles poderiam viver, honrando-o e
+respeitando-o?”<o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>25. Então o
+brâmane Vassakara, o ministro de Magadha, disse para o venerável Ananda: “Onde
+vive agora o Mestre Ananda?”<o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>“Agora eu
+vivo no Bambual, brâmane.”<o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>“Eu espero,
+Mestre Ananda, que o Bambual seja agradável, quieto e sem a perturbação de
+vozes, com uma atmosfera de isolamento, distante das pessoas e favorável<span
+style='mso-spacerun:yes'>  </span>ao retiro.”<o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>“De fato,
+brâmane, que o Bambual seja agradável ... favorável ao retiro é devido a guardiões
+protetores tais como você.”<o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>“De fato,
+Mestre Ananda, que o Bambual seja agradável ... favorável ao retiro é devido aos nobres que são meditadores
+e que cultivam a meditação. 
+Em certa ocasião, Mestre Ananda, o Mestre Gotama estava em Vesali na Grande
+Floresta no Salão com um pico na cumeeira. Naquela ocasião fui até o Mestre
+Gotama e ele fez um discurso, falando de várias formas sobre a meditação. O
+Mestre Gotama era um meditador e cultivava a meditação e ele louvava todo tipo
+de meditação.”<o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>&nbsp;<a
+name=T26></a>26. “O Abençoado, brâmane, não louvava todo tipo de meditação, nem
+ele condenava todo tipo de meditação. Que tipo de meditação o Abençoado não
+louvava? Neste caso, brâmane, alguém permanece com a mente obcecada pelo desejo
+sensual, uma presa do desejo sensual e ele não entende como na verdade é a
+escapatória do desejo sensual que já surgiu. Enquanto permanece com a mente
+obcecada pelo desejo sensual dentro de si, fazendo do desejo sensual o ponto
+focal ele absorve a si mesmo naquilo, absorve mais, cisma, filosofa. [<a
+href="#N5">5</a>] <a name=R5></a>Ele permanece com a mente obcecada pela má
+vontade, uma presa da má vontade ... com a sua mente obcecada pela preguiça e
+pelo torpor, uma presa da preguiça e do torpor ... com a sua mente obcecada
+pela inquietação e ansiedade, uma presa da inquietação e ansiedade ... com a
+sua mente obcecada pela dúvida, uma presa da dúvida, e ele não entende como na
+verdade é a escapatória da dúvida que já surgiu. Enquanto abriga a dúvida
+dentro de si, fazendo da dúvida o ponto focal ele absorve a si mesmo naquilo,
+absorve mais, cisma, filosofa. O Abençoado não louvava esse tipo de meditação.<o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>27. “E qual
+tipo de meditação que o Abençoado louvava? Neste caso, brâmane, afastado dos prazeres sensuais, afastado das qualidades não hábeis, 
+um bhikkhu entra e
+permanece no primeiro jhana ... abandonando o pensamento aplicado e sustentado,
+ele entra e permanece no segundo jhana ... abandonando o êxtase ... ele
+entra e permanece no terceiro jhana ... com o completo desaparecimento da felicidade ... ele entra e permanece no quarto jhana .... O Abençoado louvava
+esse tipo de meditação.”<o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>28.
+“Parece, Mestre Ananda, que o Mestre Gotama censurava aquele tipo de meditação
+que deveria ser censurada e louvava aquele tipo de meditação que deveria ser
+louvada. E agora, Mestre Ananda, nós partiremos. Estamos ocupados e temos muito
+o que fazer”.<o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>“Agora é o
+momento, brâmane, faça como julgar adequado.”<o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Então o
+brâmane Vassakara, o ministro de Magadha, tendo ficado satisfeito e contente
+com as palavras do venerável Ananda, levantou do seu assento e partiu.<o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>29. Então, pouco
+depois dele haver partido, o brâmane Gopaka Moggallana disse para o venerável
+Anan<a name=R18></a>da: “Mestre Ananda ainda não respondeu o que nós lhe
+perguntamos”. <o:p></o:p></span></p>
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>“Nós já não
+lhe dissemos, brâmane: ‘Não existe nenhum bhikkhu que possua em todos os
+aspectos todas as qualidades possuídas pelo Abençoado, um arahant, perfeitamente
+iluminado. Pois o Abençoado foi aquele que fez surgir o caminho que não havia
+surgido, aquele que produziu o caminho que não estava produzido, aquele que
+declarou o caminho que não estava declarado; ele era o conhecedor do caminho,
+aquele que encontrou o caminho, aquele com habilidade no caminho. Mas os seus
+discípulos agora seguem esse caminho e eles possuirão essas qualidades no
+futuro.’”<o:p></o:p></span></p>
+
+
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal>&nbsp;</p>
+
+
+<p class=Normal><b><span lang=PT-BR style='mso-ansi-language:PT-BR'>Notas</span></b><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>: <b><o:p></o:p></b></span></p>
+
+<p class=Normal><a name=N1></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[1] MA diz que depois que as relíquias do Buda haviam sido distribuídas
+o Ven. Ananda veio para Rajagaha para a recitação do Dhamma (no
+primeiro Grande Concílio). [<a href="#R1">Retorna</a>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N2></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>[2] O rei
+Pajjota era amigo do rei Bimbisara de Magadha, que havia sido morto pelo seu
+filho Ajatasattu. De acordo com MA, Ajatasattu pensava que o rei Pajjota
+poderia procurar vingar a morte do seu amigo.<span style='mso-spacerun:yes'> 
+</span>[<a href="#R2">Retorna</a>]<o:p></o:p></span></p>
+
+
+<p class=Normal><a name=N3></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>[3] Veja o <a
+href="DN16.php#T1_2">DN 16.1.2</a>.<span style='mso-spacerun:yes'>  </span>[<a
+href="#R3">Retorna</a>]<o:p></o:p></span></p>
+
+
+<p class=Normal><a name=N4></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>[4] A
+importância desta afirmação é que a Sangha não é governada pelo julgamento
+pessoal dos seus membros mas pelo Dhamma e o código disciplinar estabelecido
+pelo Buda. Portanto os bhikkhus seguem o último conselho do Buda: “Ananda, pode
+ser que você pense: ‘As instruções do Mestre cessaram, agora não temos mais
+mestre!’ Você não deve pensar dessa forma, Ananda, pois aquilo que ensinei e
+expliquei como o Dhamma e a Disciplina, irá, com o meu falecimento, ser o seu
+mestre.” (<a href="DN16.php#T6_1">DN 16.6.1</a>). </span><span lang=ES
+style='mso-ansi-language:ES'>[</span><span lang=PT-BR style='mso-ansi-language:
+PT-BR'><a href="#R4"><span lang=ES style='mso-ansi-language:ES'>Retorna</span></a></span><span
+lang=ES style='mso-ansi-language:ES'>]<o:p></o:p></span></p>
+
+
+<p class=Normal><a name=N5></a><span lang=ES style='mso-ansi-language:ES'>[5] <i>Jhayanti
+pajjhayanti nijjhayanti apajjhayanti. </i></span><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Embora individualmente os verbos não possuam um
+sentido pejorativo, a seqüência tem a intenção óbvia de denegrir. Os quatro
+verbos são usados para descrever a meditação daquele cuja mente está obcecada
+com os cinco obstáculos.<span style='mso-spacerun:yes'>  </span>[<a href="#R5">Retorna</a>]<o:p></o:p></span></p>
+
+
+<p class=Normal>&nbsp;</p>
+
+<p class=Normal>&nbsp;</p>
+
+
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>
+
+
+

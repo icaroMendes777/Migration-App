@@ -1,0 +1,784 @@
+<!-- DEFINE PARAMETROS -->
+<?
+DEFINE ('PAGINA',"origem_dependente_4");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAO
+DEFINE('REVISAO'," 4 Setembro 2004"); // DATA DA REVISAO
+?>
+<!--INCLUI TOPO-->
+<?
+include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTÁ CERTO
+?>
+
+<!-- INICIO DO TEXTO -->
+
+<p class=Tit1 align=center style='text-align:center'>4. O Formato Padrão</Tit1>
+
+
+<p class=Tit2><span lang=PT-BR style='mso-ansi-language:PT-BR'>Conteúdo:<o:p></o:p></span></Tit2>
+
+
+<p class=Normal style='margin-left:.5in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'><a href="#T41">Os principais fatores</a><o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.5in;text-indent:.5in'><span lang=PT-BR
+style='mso-ansi-language:PT-BR'><a href="#T41a">a. Ignorância e desejo-apego</a><o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.5in;text-indent:.5in'><span lang=PT-BR
+style='mso-ansi-language:PT-BR'><a href="#T41b">b. Formações e ser/existir</a><o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.5in;text-indent:.5in'><span lang=PT-BR
+style='mso-ansi-language:PT-BR'><a href="#T41c">c. Consciência até sensações;<span style="mso-spacerun:
+yes">  </span>nascimento, envelhecimento e morte</a><o:p></o:p></span></p>
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal>&nbsp;</p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>O formato
+padrão de apresentação do princípio da Origem Dependente é bastante complexo,
+um tema mais para o especialista do que para o leitor casual, requerendo
+conhecimentos abrangentes de Budismo e um vocabulário abrangente de termos em
+Pali para permitir a sua compreensão completa. Existem também escrituras
+dedicadas exclusivamente ao assunto. [</span><a href="#N3"><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>3</span></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>] <a name=R3></a>Aqui irei resumir os fatores básicos.<o:p></o:p></span></p>
+
+<p class=Normal><b><a name=T41></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>Os
+principais fatores[</span><a href="#N4"><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>4</span></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></b></p>
+
+<p class=Normal><a name=R4></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>Os principais fatores já foram mencionados no Capítulo da Visão Geral da
+Origem Dependente, portanto aqui eles serão mencionados apenas de forma breve,
+mencionados primeiro no idioma Pali e seguidos das definições em Português:<o:p></o:p></span></p>
+
+<p class=Normal><i><span lang=PT-BR style='mso-ansi-language:PT-BR'>Avijja 
+=&gt; sankhara =&gt; viññana =&gt; namarupa =&gt; salayatana =&gt; phassa =&gt;
+vedana =&gt; tanha =&gt; upadana =&gt; bhava =&gt; jati =&gt; jaramarana
+...soka parideva dukkha domanassa upayasa  =&gt;</span><span lang=PT-BR
+style='mso-ansi-language:PT-BR'> Dukkha samudaya</i>.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Ignorância
+=&gt; formações =&gt; consciência =&gt; mentalidade-materialidade (nome e forma) =&gt; seis bases dos sentidos =&gt; contato =&gt;
+sensação =&gt; desejo =&gt; apego =&gt; ser/existir =&gt; nascimento =&gt; envelhecimento e morte
+... tristeza, lamentação, dor, angústia e desespero =&gt;</span><span lang=PT-BR
+style='mso-ansi-language:PT-BR'> A origem do sofrimento.<o:p></o:p></span></p>
+
+
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>A seqüência
+da cessação prossegue de acordo com os mesmos títulos.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Como o
+princípio da Origem Dependente revolve sob a forma de um<span
+style="mso-spacerun: yes">  </span>ciclo, sem início e sem fim, uma forma de
+representação mais acurada está demonstrada na figura abaixo.<o:p></o:p></span></p>
+
+<p class=Normal><!--[if gte vml 1]><o:wrapblock><v:shapetype id="_x0000_t75"
+  coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+  filled="f" stroked="f">
+  <v:stroke joinstyle="miter"/>
+  <v:formulas>
+   <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+   <v:f eqn="sum @0 1 0"/>
+   <v:f eqn="sum 0 0 @1"/>
+   <v:f eqn="prod @2 1 2"/>
+   <v:f eqn="prod @3 21600 pixelWidth"/>
+   <v:f eqn="prod @3 21600 pixelHeight"/>
+   <v:f eqn="sum @0 0 1"/>
+   <v:f eqn="prod @6 1 2"/>
+   <v:f eqn="prod @7 21600 pixelWidth"/>
+   <v:f eqn="sum @8 21600 0"/>
+   <v:f eqn="prod @7 21600 pixelHeight"/>
+   <v:f eqn="sum @10 21600 0"/>
+  </v:formulas>
+  <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+  <o:lock v:ext="edit" aspectratio="t"/>
+ </v:shapetype><v:shape id="_x0000_s1041" type="#_x0000_t75" style='position:absolute;
+  margin-left:85.5pt;margin-top:-566.15pt;width:272.5pt;height:297pt;z-index:4'>
+  <v:imagedata src="./origem_dependente_4_files/image001.png" o:title=""/>
+  <w:wrap type="topAndBottom" anchorx="page"/>
+ </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
+ <table cellpadding=0 cellspacing=0>
+  <tr>
+   <td width=114 height=0></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td><img width=363 height=396 src="./origem_dependente_4_files/image002.jpg"
+   v:shapes="_x0000_s1041"></td>
+  </tr>
+ </table>
+ </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
+style='mso-ignore:vglayout' clear=ALL>
+<span lang=PT-BR style='mso-ansi-language:PT-BR'>1. <b><i>Avijja</i></b> = <b>Desconhecimento
+ou ignorância</b> de dukkha, sua causa, sua cessação e o caminho que conduz à
+sua cessação (as Quatro Nobres Verdades); e de acordo com o Abhidhamma,
+desconhecer o que ocorreu antes (o passado), o que virá depois (o futuro), o
+que ocorreu tanto antes como depois, (o passado e o futuro), e o princípio da
+Origem Dependente.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>2. <b><i>Sankhara</i></b>
+= <b>Formações ou Impulsos Volitivos</b>: formações corporais ou ações
+intencionais; formações verbais ou linguagem intencional; formações mentais ou
+pensamentos [</span><a href="#N5"><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>5</span></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>]; <a
+name=R5></a>e de acordo com o Abhidhamma: formações meritórias ou kamma bom, <i>(puññabhisankhara)</i>,
+formações não meritórias ou kamma ruim, <i>(apuññabhisankhara),</i> e formações
+fixas ou inamovíveis ou kamma meritório especial, <i>(aneñjabhisankhara)</i>.<o:p></o:p></span></p>
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>3. <b><i>Viññana</i></b>
+= <b>Consciência</b> através do olho, ouvido, nariz, língua, corpo e mente,
+(incluindo a consciência de renascimento ou religação, <i>patisandhi viññana</i>).
+(As seis consciências).<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>4. <b><i>Namarupa</i></b>
+= <b>Mentalidade-materialidade (nome e forma)</b>: <i>nama, </i>(nome ou mente): sensação,
+percepção, intenção, contato, atenção, ou de acordo com o Abhidhamma: os <i>khandhas</i>
+da sensação, percepção e formações; e <i>rupa, </i>(forma ou materialidade): os
+quatro elementos, terra, água, fogo e ar e todos os elementos derivados destes.<o:p></o:p></span></p>
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>5. <b><i>Salayatana</i></b>
+= <b>Os seis meios ou bases dos sentidos</b>: olho, ouvido, nariz, língua,
+corpo e mente.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>6. <b><i>Phassa</i></b>
+= Choque ou <b>contato</b>: contato no olho, contato no ouvido, contato no
+nariz, contato na língua, contato no corpo contato na mente.[</span><a
+href="#N6"><span lang=PT-BR style='mso-ansi-language:PT-BR'>6</span></a><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=R6></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>7. <b><i>Vedana</i></b> = <b>Sensações</b> (de prazer, dor e
+indiferentes) que surgem do contato no olho, ouvido, nariz, língua, corpo e
+mente. [</span><a href="#N7"><span lang=PT-BR style='mso-ansi-language:PT-BR'>7</span></a><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=R7></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>8. <b><i>Tanha</i></b> = <b>Desejo</b> por visões; desejo por sons;
+desejo por aromas; desejo por sabores; desejo por sensações corporais; desejo
+por objetos mentais: os seis desejos. [</span><a href="#N8"><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>8</span></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>]<o:p></o:p></span></p>
+
+
+<p class=Normal><a name=R8></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>9. <b><i>Upadana</i></b> = <b>Apego</b> a objetos sensuais, (<i>kamupadana</i>),
+isto é, visões, sons, aromas, sabores e sensações corporais; apego a idéias, (<i>ditthupadana</i>);
+apego a preceitos e rituais, (<i>silabbatupadana</i>); apego à idéia de um
+eu, (<i>attavadupadana</i>).<o:p></o:p></span></p>
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>10. <b><i>Bhava</i></b>
+= <b>Ser/existir</b>, as condições que levam ao nascimento; também os reinos de
+existência: o reino sensual, (<i>kamabhava</i>); o reino da matéria sutil, (<i>rupabhava</i>);
+o reino imaterial, (<i>arupabhava</i>).<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Uma
+definição alternativa: <i>Kammabhava</i>, o plano da ação, ou ações que condicionam
+o renascimento: ações meritórias, (<i>puññabhisankhara</i>); ações
+demeritórias, (<i>apuññabhisankhara</i>); ações imperturbáveis, (<i>aneñjabhisankhara</i>);
+e <i>Upapattibhava</i>, os reinos de renascimento: o reino sensual; o reino da matéria sutil;
+o reino imaterial.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>11. <b><i>Jati</i></b>
+= <b>Nascimento</b>, o surgimento dos <i>khandhas</i> e das bases dos sentidos,
+nascimento; o aparecimento ou origem das coisas [</span><a href="#N9"><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>9</span></a><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>]<a name=R9></a>.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>12. <b><i>Jaramarana</i></b>
+= Envelhecimento e morte: <i>jara</i>: o processo de envelhecimento, a
+diminuição das faculdades; e <i>marana</i>: a desintegração dos <i>khandhas</i>,
+a dissolução do princípio vital, morte; ou como alternativa a dissipação e
+dissolução dos fenômenos. [</span><a href="#N10"><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>10</span></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=R10></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>A seguir encontram-se alguns exemplos:<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>(<i>Asava</i>)
+=&gt;<b><i>Avijja</i></b> – Ignorância: Acreditar que exatamente este eu irá
+renascer em vários estados devido a certas ações em particular; que após a
+morte não há nada; que a vida é um processo aleatório no qual as ações boas ou
+más não produzem nenhum fruto; que simplesmente aderindo a uma certa religião a
+pessoa estará ‘salva’ de forma automática; que a riqueza material irá trazer a
+verdadeira felicidade ... E disto ...<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Sankhara</i></b>
+– Formações: Pensar e intencionar de acordo com essas crenças; considerar e
+planejar ações, (<i>kamma</i>), de acordo como essas intenções, algumas boas,
+algumas más e algumas neutras. E disto…<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Viññana</i></b>
+– Consciência: a percepção e consciência das sensações que estarão relacionadas
+com intenções determinadas. A mente ou consciência é configurada de certas
+qualidades específicas através da intenção. Na morte, o momentum dos formações
+propulsionados pela lei de kamma, induzem a consciência de religação, (<i>patisandhi
+vññnana</i>),<span style="mso-spacerun: yes">  </span>assim moldada a assumir
+uma esfera de renascimento e nível de existência que lhe seja adequada. Isto é
+o renascimento. E disto…<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Namarupa</i></b>
+– Mentalidade-materialidade (nome e forma): O processo de renascimento prossegue para criar
+uma forma de vida pronta para gerar mais kamma. Como resultado, surgem os <i>khandhas
+rupa, vedana, sañña </i>e <i>sankhara</i> na sua totalidade, completos com suas
+qualidades e defeitos distintos que lhes foram providos por meio da influência
+modeladora das condições ou kamma e restringidos pelas limitações daquela
+esfera de existência em particular, (<i>bhava</i>), quer seja humana, animal,
+divina, etc….<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Salayatana</i></b>
+– As seis bases dos sentidos: Um ser senciente tem que ter os meios para se
+comunicar com o seu meio ambiente para poder funcionar e se desenvolver dentro
+dele. Dessa forma, suportado pelo corpo e mente e em conformidade com o
+momentum do kamma, o organismo prossegue no desenvolvimento das seis bases dos
+sentidos, os órgãos dos sentidos do olho, nariz, ouvido, língua, corpo e mente.
+E disto…<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Phassa</i></b>
+- Contato: O processo da consciência agora opera atravéss do contato ou choque
+de três fatores. Eles são: o órgão do sentido interno (olho, ouvido, nariz,
+língua, corpo e mente), o objeto do sentido externo, (visões, sons, aromas,
+sabores, sensações corporais e objetos mentais), e a consciência, (consciência
+no olho, consciência no ouvido, consciência no nariz, consciência na língua,
+consciência nas sensações tangíveis e consciência na mente). Na dependência
+desse contato. Irá ocorrer…<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Vedana</i></b>
+– Sensação: as sensações ou o ‘reconhecimento’ das qualidades dos contatos
+sensuais, quer sejam agradáveis, (<i>sukhavedana</i> – sensações prazerosas);
+desagradáveis ou dolorosas, (<i>dukkhavedana</i> – sensações desprazerosas); ou
+indiferentes, equanimidade, (<i>adukkhamasukha-vedana</i> – sensação neutra; ou <i>upekkhavedana</i>
+– sensação equânime). De acordo com a natureza dos seres não iluminados, o
+processo não para aqui, mas segue para…<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Tanha</i></b>
+– Desejo: Sensações agradáveis tendem a produzir a alegria e o prazer, desejo e
+busca por mais sensações agradáveis; quanto às sensações estressantes ou
+desagradáveis existe o desprazer, o desejo de destruí-las ou eliminá-las. A
+sensação neutra neste contexto é considerada como uma forma sutil de sensação
+prazerosa porque ela não perturba a mente e evoca um certo contentamento. E
+disto…<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Upadana</i></b>
+– Apego: à medida que o desejo se intensifica, ele se transforma no agarramento
+ou apego ao objeto em questão. Enquanto um objeto ainda não tiver sido alcançado,
+haverá desejo; assim que o objeto for alcançado, ele será agarrado com firmeza
+pelo apego. Isso se refere não somente aos objetos sensuais, (<i>kamupadana</i>),
+mas também a idéias e opiniões, (<i>ditthupadana</i>), métodos de prática ou
+técnicas, (<i>silabbatupadana</i>), e a idéia de um eu, (<i>attavadupadana</i>).
+Por conta desse apego segue-se…<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Bhava</i></b>
+– Ser/existir:<span style="mso-spacerun: yes">  </span>intenção e ação
+deliberada para produzir e controlar as coisas de acordo com as diretrizes do
+apego, levando a mais um ciclo de todo o processo de conduta, (<i>kammabhava</i>),
+sendo kamma bom, kamma ruim ou kamma neutro, dependendo das qualidades do
+desejo e apego que os condicionaram. Por exemplo, alguém que deseje renascer no
+paraíso irá fazer aquelas coisas que crê irão conduzí-lo ao renascimento no
+paraíso, dessa forma assentando a base para que os cinco <i>khandhas</i>
+reapareçam no plano, (<i>bhava</i>), apropriado àquelas ações, (<i>kamma</i>),
+(<i>upapattibhava</i>). Com o processo de criação de kamma em plena operação,
+este elo dá origem ao seguinte, que é ...<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Jati</i></b>
+– Nascimento: começa com a consciência de religação, a qual é dotada de
+características que dependem do momentum do kamma, e conecta com um estado que
+lhe é apropriado; os cinco <i>khandhas</i> surgem em um novo contínuo vital,
+compreendendo, mentalidade-materialidade (nome e forma), as seis bases dos sentidos, contato e
+sensação. Quando há o nascimento, o que segue de forma inevitável é…<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Jaramarana</i></b>
+– Envelhecimento e morte: a decadência e dissolução daquele contínuo vital.
+Para o ser não iluminado essas coisas estão a cada instante ameaçando a vida de
+forma explícita ou dissimulada. Portanto, na vida do ser não iluminado, a
+velhice e a morte trazem consigo de forma inevitável…<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>=&gt; <b><i>Soka</i></b>
+- tristeza; <b><i>parideva</i></b> - lamentação; <b><i>ddukkha</i></b> – dor; <b><i>domanassa</i></b>
+– angústia e <b><i>upayasa</i></b> – desespero, que no seu conjunto podem ser
+resumidas simplesmente como ‘sofrimento.’ Dessa forma temos as palavras finais
+da fórmula do princípio da Origem Dependente: “Assim é a origem de toda essa
+massa de sofrimento.”<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>No entanto,
+como o princípio da Origem Dependente funciona como um ciclo, ele não para por
+aí. O último fator se torna um elo crucial na continuação do ciclo. De modo
+mais específico, a tristeza, lamentação e assim por diante são todos
+manifestações das impurezas. Essas impurezas são quatro em número, isto é: a
+preocupação com a satisfação dos desejos dos cinco sentidos, (<i>kamasava</i>);
+apego a idéias e crenças, num exemplo em que o corpo é um eu ou pertence a um
+eu, (<i>ditthasava</i>); desejo por vários estados de ser e a aspiração de
+alcançá-los e mantê-los, (<i>bhavasava</i>); e a ignorância em relação ao modo
+como as coisas são, (<i>avijjasava</i>).<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>O
+envelhecimento e a morte causam um efeito inflamatório nas impurezas: em
+relação a <i>kamasava, </i>eles causam sentimentos de separação das pessoas
+amadas e estimadas; em relação a <i>ditthasava,</i> eles confrontam a crença
+inata no eu e o apego ao corpo; em relação a <i>bhavasava, </i>eles significam
+a separação de estados de ser muito queridos; em relação a <i>avijjasava,</i> a
+ausência de compreensão no nível fundamental, (tal como não compreender a
+natureza da vida, envelhecimento e morte e como devemos nos relacionar com
+isso), o envelhecimento e a morte fazem com que o ser não iluminado experimente
+medo, melancolia, desespero e o apego a superstições. Essas impurezas são,
+portanto, os fatores determinantes para que tristeza, lamentação, dor, angústia
+e desespero surjam assim que o envelhecimento e a morte apareçam.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>A tristeza
+e o sofrimento influenciam a mente de forma negativa. Sempre que o sofrimento
+surge, a mente fica confusa e embaralhada. O surgimento do sofrimento é
+portanto proporcional ao surgimento da ignorância, tal como mencionado no
+Visuddhimagga (Vism):<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>‘Tristeza, dor, angústia e desespero são inseparáveis da ignorância e a
+lamentação é a norma para o ser deludido. Por essa razão, quando a tristeza
+está completamente manifestada, assim também a ignorância está completamente
+manifestada.’ [Vism.576]<o:p></o:p></span></p>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>* * *<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>‘Quanto à ignorância, saiba que ela surge da tristeza...’ [Vism.577]<o:p></o:p></span></p>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>* * *<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>‘A ignorância está presente enquanto a tristeza estiver presente.’
+[Vism.529]<o:p></o:p></span></p>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>* * *<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>‘Com o surgimento das impurezas existe o surgimento da ignorância.’
+[MN.I.54] (</span><a href="../sutta/MN9.php"><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>MN 9</span></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>)<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Portanto,
+pode-se dizer que para o ser não iluminado, o envelhecimento e morte, junto com
+o seu séquito – tristeza, lamentação, dor, angústia e desespero – são fatores
+para produzir mais ignorância, dessa forma girando o ciclo mais uma vez.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>O ciclo da
+Origem Dependente também é conhecido como a Roda do Ser/existir, (<i>bhavacakka</i>),
+ou Roda do Samsara. Esse modelo abrange três vidas – a ignorância e as
+formações estão numa vida, a consciência até o ser/existir numa segunda vida,
+enquanto que o envelhecimento e morte (com tristeza, lamentação e assim por diante)
+em uma terceira. Tomando a vida intermediária como sendo a presente, podemos
+dividir os três períodos de vida, com o conjunto completo dos doze elos do
+ciclo da Origem Dependente, em três períodos de tempo da seguinte forma:<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>1. Vida Passada – Ignorância, formações<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>2. Vida Presente – Consciência, mentalidade-materialidade (nome e forma), bases dos
+sentidos, contato, sensação, desejo, apego, ser/existir.<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>3. Vida Futura – Nascimento, envelhecimento e morte (tristeza,
+lamentação, dor, angústia e desespero).<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Dentre
+esses três períodos, o período do meio, o presente, é a nossa base. Sob essa
+perspectiva, vemos a relação do período passado como sendo puramente causal,
+isto é, resultados no presente são derivados de causas do passado (causas do
+passado =&gt; resultados no presente), enquanto que o período futuro mostra
+específicamente resultados que se estendem de causas no presente para
+resultados no futuro (causas no presente =&gt; resultados no futuro). Assim o
+período do meio, o presente, contém ambas as condições, causais e resultantes.
+Podemos agora descrever o ciclo completo em quatro seções:<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>1. Causa Passada = Ignorância, formações.<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>2. Resultado Presente = Consciência, mentalidade-materialidade (nome e forma), bases
+dos sentidos, contato, sensação.<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>3. Causa Presente = Desejo, apego, ser/existir.<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>4. Resultado Futuro = Nascimento, envelhecimento, morte (tristeza,
+lamentação, etc.)<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Alguns dos
+elos nesse ciclo possuem significados que se correlacionam e eles podem ser
+agrupados da seguinte forma:<o:p></o:p></span></p>
+
+<p class=Normal><b><a name=T41a></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>a.
+Ignorância e desejo-apego<o:p></o:p></span></b></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Da
+descrição da ignorância, (<i>avijja</i>), parece que o desejo, (<i>tanha</i>),
+e o apego, (<i>upadana</i>), estão envolvidos, especialmente o apego ao eu, que
+está presente em todos momentos. Não compreender a verdade da vida, e<span
+style="mso-spacerun: yes">  </span>acreditar de forma equivocada num eu, conduz
+ao desejo em nome desse eu, junto com as suas formas variadas de apego. Nas
+palavras ‘Com o surgimento das impurezas existe o surgimento da ignorância,’ <i>kamasava</i>,
+(a impureza do desejo sensual), <i>bhavasava,</i> (a impureza do desejo por
+ser), e <i>ditthasava,</i> (a impureza do apego a idéias), são todos tipos de
+desejo e apego. Portanto, ao falar da ignorância, o significado sempre inclui o
+desejo e o apego.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>O mesmo se
+aplica a todas as descrições do desejo e do apego – a ignorância está sempre
+conectada com eles. A premissa deludida de que as condições são entidades reais
+é o fator determinante para que o desejo e o apego surjam. Quanto mais desejo e
+apego houver, mais o discernimento será colocado de lado e a atenção plena e o
+comportamento racional serão comprometidos. Portanto, ao falar do desejo e do
+apego, a ignorância está implícita de forma automática.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Sob essa
+perspectiva, a ignorância como causa do passado e o desejo e apego como causas
+no presente, significam em grande parte a mesma coisa. Mas a ignorância é
+classificada como um fator determinante do passado, enquanto que o desejo e o
+apego são classificados como fatores determinantes no presente para mostrar
+cada um desses fatores na sua relação proeminente com os demais fatores na Roda
+do Ser/existir.<o:p></o:p></span></p>
+
+<p class=Normal><b><a name=T41b></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>b.
+Formações e ser/existir<o:p></o:p></span></b></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Formações,
+(<i>sankhara</i>), aparecem no segmento da vida passada enquanto que
+ser/existir, (<i>bhava</i>), ocorre no segmento da vida presente, mas cada um
+desempenha um papel decisivo no reino, ou <i>bhava</i>, no qual a vida irá
+aparecer, e dessa forma eles possuem significados similares, diferindo apenas
+em termos de ênfase. <i>Sankhara</i> se refere especificamente ao fator da
+intenção, (<i>cetana</i>), que é o fator predominante na criação de kamma. <i>Bhava</i>
+tem um significado mais amplo, incorporando ambos, <i>kammabhava</i> e <i>upapattibhava</i>.
+<i>Kammabhava</i>, como <i>sankhara</i>, tem a intenção como principal força
+motivadora, mas difere de<span style="mso-spacerun: yes">  </span><i>sankhara</i>
+ao abranger o processo completo de geração das ações. <i>Upapattibhava</i> se
+refere aos cinco <i>khandhas</i> que surgem como resultado de<span
+style="mso-spacerun: yes">  </span><i>kammabhava</i>.<o:p></o:p></span></p>
+
+<p class=Normal><b><a name=T41c></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>c.
+Consciência até sensações;<span style="mso-spacerun: yes">  </span>nascimento,
+envelhecimento e morte<o:p></o:p></span></b></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>O segmento
+do ciclo da consciência até as sensações é a vida presente, descrita ponto por
+ponto para esclarecer as relações de causa e efeito dos fatores envolvidos.
+Nascimento, juntamente com envelhecimento e morte, são ‘resultados futuros.’ O
+ciclo nesse ponto nos diz que as causas no presente precisam gerar resultados
+no futuro, neste caso envelhecimento e morte. Esta é uma repetição, em forma
+condensada, do segmento do ciclo da consciência até sensações, enfatizando a origem
+e a cessação do sofrimento. Envelhecimento e morte também atuam como pontos de
+conexão para um novo ciclo. Pode ser dito, no entanto, que os segmentos da
+consciência até sensações e do nascimento até envelhecimento e morte, são
+praticamente sinônimos.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Com isso em
+mente, os quatro estágios de causa e efeito podem ser divididos assim:<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>1. Cinco Causas Passadas: Ignorância, formações, desejo, apego,
+ser/existir.<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>2. Cinco Resultados Presentes: Consciência, mentalidade-materialidade (nome e forma),
+bases dos sentidos, contato, sensação (= nascimento, envelhecimento e morte).<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>3. Cinco Causas Presentes: Ignorância, formações, desejo, apego,
+ser/existir.<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>4. Cinco Resultados Futuros: Consciência, mentalidade-materialidade (nome e forma),
+bases dos sentidos, contato, sensação (= nascimento, envelhecimento e morte).<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Devido à relação
+entre os doze elos do ciclo da Origem Dependente, eles podem ser divididos em
+três grupos, chamados <i>vatta</i> [</span><a href="#N11"><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>11</span></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>], <a name=R11></a>ou ciclos.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>1.
+Ignorância-desejo-apego, (<i>avijja-tanha-upadana</i>) – Essas são <i>kilesa</i>
+(contaminações), as forças que incitam os vários tipos de pensamentos e ações
+deludidas. Esta seção é por conseqüência chamada de <i>kilesavatta</i>.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>2.
+Formações (<i>sankhara</i> e as ações que condicionam o renascimento ([ <i>kamma</i>-]
+<i>bhava</i>) – Esses são <i>kamma</i>, o processo das ações baseadas nas <i>kilesa</i>
+que condicionam a vida. Este segmento é chamado de<span style="mso-spacerun:
+yes">  </span><i>kammavatta</i>.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>3.
+Consciência, mentalidade-materialidade (nome e forma), seis bases dos sentidos, contato,
+sensação (<i>viññana, namarupa, salayatana, phassa, vedana</i>) – Esses são <i>vipaka</i>,
+os eventos da vida que resultam dos efeitos de <i>kamma</i>. <i>Vipaka</i>
+então se tornam alimento para as <i>kilesa</i>, que por seu turno se tornam
+causa para a criação de mais <i>kamma</i>. Assim, este segmento é chamado <i>vipakavatta</i>.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Esses três <i>vatta</i>
+estão de forma contínua impulsionando uns aos outros em torno do ciclo da vida.
+Através de um diagrama, eles podem ser representados como mostrado a seguir:<o:p></o:p></span></p>
+
+<p class=Normal><!--[if gte vml 1]><o:wrapblock><v:shape id="_x0000_s1035"
+  type="#_x0000_t75" style='position:absolute;margin-left:126pt;margin-top:0;
+  width:198pt;height:172.7pt;z-index:1'>
+  <v:imagedata src="./origem_dependente_4_files/image003.png" o:title=""/>
+  <w:wrap type="topAndBottom"/>
+ </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
+ <table cellpadding=0 cellspacing=0 align=left>
+  <tr>
+   <td width=168 height=0></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td><img width=264 height=230 src="./origem_dependente_4_files/image004.jpg"
+   v:shapes="_x0000_s1035"></td>
+  </tr>
+ </table>
+ </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
+style='mso-ignore:vglayout' clear=ALL>
+<span lang=PT-BR style='mso-ansi-language:PT-BR'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<br style='mso-ignore:vglayout' clear=ALL>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Como as
+contaminações (<i>kilesa</i>) são as principais motivadoras das condições da
+vida, elas estão posicionadas no ponto inicial do ciclo. Dessa forma, podemos
+distinguir dois pontos iniciais, ou agentes de ativação, na roda da vida:<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'>1. A ignorância é o agente do
+passado que influencia o presente até a sensação.</span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>2. Desejo é o agente no presente, estendendo o ciclo da sensação para o
+futuro, envelhecimento e morte.<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>A razão
+pela qual a ignorância aparece na primeira seção enquanto que o desejo aparece
+na última é que a ignorância segue depois de tristeza, lamentação e assim por
+diante, enquanto que o desejo segue depois da sensação. A ignorância e o desejo
+são as contaminações predominantes em cada caso respectivamente.<o:p></o:p></span></p>
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Este modelo
+do ciclo da Origem Dependente faz as seguintes distinções na forma como o
+renascimento ocorre, dependendo de se o fator decisivo for a ignorância ou o
+desejo (por ser):<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'>A ignorância é a causa
+     principal de nascimento nos estados miseráveis, porque a mente envolvida
+     pela ignorância é incapaz de distinguir entre o bem e o mal, certo e
+     errado, benéfico e prejudicial. Como resultado não existe um padrão de
+     comportamento, as ações são aleatórias e existe maior probabilidade que o
+     resultado seja o kamma ruim do que o kamma bom.<o:p></o:p></span><p>
+<p class=Normal style='margin-left:.75in'>Desejo por existir, (<i>bhavatanha</i>),
+     tem maior probabilidade de resultar num nascimento em estados prazerosos.
+     Quando esta for a força motivadora, existirá a aspiração por uma melhor
+     situação de vida. Quanto a existências futuras, o desejo poderá ser pelo
+     renascimento num plano divino ou celestial. No que diz respeito à
+     existência presente, a aspiração pode ser pela riqueza, fama ou reputação.
+     As ações seguem a partir dessas aspirações iniciais. Se a aspiração for
+     pelo renascimento num estado divino, poderá envolver o desenvolvimento de
+     estados meditativos refinados; se a aspiração for pelo renascimento num
+     plano celestial, então poderá envolver a observação de preceitos morais e
+     a realização de ações generosas; se a aspiração for pela riqueza, então
+     seguirá a diligência requerida para esse fim; se a aspiração for por uma
+     boa reputação, então haverá a realização de boas ações para ajudar os
+     outros e assim por diante. Todas essas ações têm que estar baseadas em uma
+     certa medida de auto-disciplina, dedicação e diligência. Como resultado,
+     as boas ações têm maior probabilidade de surgir do que no caso de uma vida
+     vivida sob o controle exclusivo da ignorância.<o:p></o:p></span></p>
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Embora a ignorância
+e o desejo por ser tenham sido colocados como pontos iniciais no ciclo, eles
+não são os principais responsáveis pela sua movimentação. Isso está expresso
+nas palavras do Buda:<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>“Nenhum início pode ser encontrado, bhikkhus, para a ignorância, desta
+forma: ‘Antes deste ponto não havia ignorância, mas então ela surgiu.’ Nesse
+caso, apenas pode ser dito, ‘Na dependência disso, surge a ignorância.’[</span><a
+href="#N12"><span lang=PT-BR style='mso-ansi-language:PT-BR'>12</span></a><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=R12></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>Existem palavras similares para <i>bhavatanha</i>.[</span><a href="#N13"><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>13</span></a><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=R13></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>Que a ignorância e o desejo são fatores determinantes significativos e
+que surgem em conjunto no processo da Origem Dependente está expresso na
+seguinte afirmação:<o:p></o:p></span></p>
+
+<p class=Normal style='margin-left:.75in'><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>“Bhikkhus, para o sábio (e para o tolo), obstruído pela ignorância e
+aprisionado pelo desejo, este corpo surgiu. Agora, existem ambos, este corpo e
+a mentalidade-materialidade (nome e forma) externa. Aqui, na dependência dessa dualidade,
+existe o contato nas seis bases. Há apenas seis bases, através das quais pelo
+contato o sábio ( e o tolo) se torna sensível ao prazer e à dor.[SN.II.23] (</span><a
+href="../sutta/SNXII.19.php"><span lang=PT-BR style='mso-ansi-language:PT-BR'>SN.XII.19</span></a><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>)<o:p></o:p></span></p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Em conjunto
+com as explicações acima, as representações esquemáticas abaixo poderão ser de
+utilidade:&nbsp;<o:p></o:p></span></p>
+
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>&nbsp;<o:p></o:p></span></p>
+
+<p class=Normal><!--[if gte vml 1]><o:wrapblock><v:shape id="_x0000_s1038"
+  type="#_x0000_t75" style='position:absolute;margin-left:69.65pt;margin-top:-527.35pt;
+  width:315.55pt;height:324pt;z-index:3;visibility:visible;mso-wrap-edited:f'>
+  <v:imagedata src="./origem_dependente_4_files/image005.wmz" o:title=""/>
+  <w:wrap type="topAndBottom"/>
+ </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
+ <table cellpadding=0 cellspacing=0>
+  <tr>
+   <td width=93 height=0></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td><img width=421 height=432 src="./origem_dependente_4_files/image006.gif"
+   v:shapes="_x0000_s1038"></td>
+  </tr>
+ </table>
+ </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
+style='mso-ignore:vglayout' clear=ALL>
+<span lang=PT-BR style='mso-ansi-language:PT-BR'>+<o:p></o:p></span></p>
+
+<p class=Normal><!--[if gte vml 1]><o:wrapblock><v:shape id="_x0000_s1037"
+  type="#_x0000_t75" style='position:absolute;margin-left:18pt;margin-top:0;
+  width:413.85pt;height:247.65pt;z-index:2'>
+  <v:imagedata src="./origem_dependente_4_files/image007.wmz" o:title=""/>
+  <w:wrap type="topAndBottom"/>
+ </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
+ <table cellpadding=0 cellspacing=0 align=left>
+  <tr>
+   <td width=24 height=0></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td><img width=552 height=330 src="./origem_dependente_4_files/image008.gif"
+   v:shapes="_x0000_s1037"></td>
+  </tr>
+ </table>
+ </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><br
+style='mso-ignore:vglayout' clear=ALL>
+<span lang=PT-BR style='mso-ansi-language:PT-BR'><![if !supportEmptyParas]>&nbsp;<![endif]><o:p></o:p></span></p>
+
+<br style='mso-ignore:vglayout' clear=ALL>
+
+<p class=Normal><b><span lang=PT-BR style='mso-ansi-language:PT-BR'>&nbsp;<o:p></o:p></span></b></p>
+
+<p class=Normal><b><span lang=PT-BR style='mso-ansi-language:PT-BR'><a
+href="origem_dependente_1.php">Início</a></span></b><span lang=PT-BR
+style='mso-ansi-language:PT-BR'> &gt;&gt; <a href="origem_dependente_3.php">3.
+O Homem e a Natureza</a> &gt;&gt; <a href="origem_dependente_5.php">5. Outras
+Interpretações</a></span></p>
+
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal>&nbsp;</p>
+
+<p class=Normal><b>Notas:</b></p>
+
+<p class=Normal><a name=N3></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[3] Veja <i>Paccayakara-vibhanga</i>, Vbh.135ff.; Vism.517-586;
+Vbh.A.130-213; <i>Abhidhammattha-sangaha</i>, Capítulo 8. [</span><a href="#R3"><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>Retorna</span></a><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N4></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[4] Para referência das descrições a seguir, veja o SN.II.2-4; Vbh.135;
+para o comentário veja o Vism.517-586; Vbh.A.130-213. [</span><a href="#R4"><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>Retorna</span></a><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N5></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[5] <i>Pubbanta-aparanta-pubbantaparanta</i>: o passado, o futuro, e
+ambos, o passado e o futuro. [</span><a href="#R5"><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Retorna</span></a><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N6></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[6] <i>Phassa</i> significa contato que é o encontro do órgão do sentido
+com o objeto do sentido e com a consciência. [</span><a href="#R6"><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>Retorna</span></a><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N7></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[7] <i>Vedana</i> também pode ser classificada em três tipos: prazerosa,
+não prazerosa ou nem prazerosa, nem não prazerosa; ou em cinco tipos: sensação corporal
+prazerosa, sensação corporal não prazerosa, sensação mental prazerosa, sensação
+mental não prazerosa e sensação neutra ou indiferente. [</span><a href="#R7"><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>Retorna</span></a><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N8></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[8] O desejo também pode ser classificado em três tipos: desejo sensual,
+desejo por ser e desejo por não ser ou pela aniquilação. Quando esses três são
+multiplicados pelo número das bases dos sentidos, (seis), temos
+dezoito; quando esse resultado é novamente multiplicado por dois, (interno e
+externo), temos trinta e seis; quando esse resultado é novamente multiplicado
+por três, (passado, presente e futuro), o resultado equivale ao total de 108
+tipos de desejo: <a href="../sutta/MN59.php">MN.59</a>. [</span><a href="#R8"><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Retorna</span></a><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N9></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[9] Vbh.145,159,191. Esta última interpretação é usada para explicar o
+ciclo da Origem Dependente em um momento mental. [</span><a href="#R9"><span
+lang=PT-BR style='mso-ansi-language:PT-BR'>Retorna</span></a><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N10></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[10] Idem à nota 9. [</span><a href="#R10"><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Retorna</span></a><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N11></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[11] Os três <i>vatta</i> provêm dos Comentários. Eles explicam o
+princípio da Origem Dependente de uma forma bastante simplificada: quando há <i>kilesa</i>,
+tal como um desejo de obter algo, este é seguido por <i>kamma, </i>a ação para
+obter aquilo, e <i>vipaka</i>, a sensação agradável resultante ao obter aquilo
+ou a sensação desagradável por não obter aquilo. A sensação agradável ou desagradável
+causa o surgimento de mais <i>kilesa</i>, mais desejo e aversão, que por seu
+turno gera mais ações, <i>kamma, </i>conduzindo a um diferente tipo de <i>vipaka</i>
+e assim por diante [</span><a href="#R11"><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>Retorna</span></a><span lang=PT-BR style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N12></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[12] Vism.525; a ignorância é
+alimentada pelos cinco obstáculos. [</span><a href="#R12"><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>Retorna</span></a><span lang=PT-BR
+style='mso-ansi-language:PT-BR'>]<o:p></o:p></span></p>
+
+<p class=Normal><a name=N13></a><span lang=PT-BR style='mso-ansi-language:
+PT-BR'>[13] Vism.525; o desejo por ser é alimentado pela
+ignorância. [<a href="#R13">Retorna</a>]<b><o:p></o:p></b></span></p>
+
+
+<p class=Normal>&nbsp;</p>
+
+<p class=Normal>&nbsp;</p>
+
+
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>

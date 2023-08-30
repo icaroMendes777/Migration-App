@@ -1,0 +1,71 @@
+<!-- DEFINE PARAMETROS -->
+<?
+DEFINE ('PAGINA',"ANIV122 ");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAO
+DEFINE('REVISAO',"2 Março 2013 "); // DATA DA REVISAO
+?>
+<!--INCLUI TOPO-->
+<?
+include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTÁ CERTO
+?>
+
+<!-- INICIO DO TEXTO -->
+
+
+<p class=Tit3 align=center style='text-align:center'><b>Anguttara Nikaya IV.122 </b></Tit3>
+<p class=Tit1 align=center style='text-align:center'> Umibhaya Sutta </Tit1>
+<p class=Tit1 align=center style='text-align:center'> Ondas </Tit1>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR style='font-size:
+7.0pt;mso-ansi-language:PT-BR'><b> Somente para distribuição gratuita.</b><br>
+<i>Este trabalho pode ser impresso para distribuição gratuita.<br>
+Este trabalho pode ser re-formatado e distribuído para uso em computadores e redes de computadores<br>
+contanto que nenhum custo seja cobrado pela distribuição ou uso.<br>
+De outra forma todos os direitos estão reservados. </i> <o:p></o:p></span></p>
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'> 
+
+<p class=Normal> “Bhikkhus, há esses quatro tipos de medo que podem ser esperados por aqueles que entram na água. Quais são os quatro? Eles são: medo das ondas, medo dos crocodilos, medo dos redemoinhos e o medo dos tubarões. Esses são os quatro tipos de medo que podem ser esperados por aqueles que entram na água. </p>
+
+<p class=Normal> “Da mesma forma, bhikkhus, há quatro tipos de medo que podem ser esperados por certas pessoas que deixaram a vida em família e seguiram a vida santa neste Dhamma e Disciplina. Quais são os quatro? Eles são: medo das ondas, medo dos crocodilos, medo dos redemoinhos e o medo dos tubarões. </p>
+
+<p class=Normal> “O que, bhikkhus, é o medo das ondas? Aqui, um membro de um clã com base na fé deixa a vida em família e segue a vida santa, considerando: ‘Eu sou uma vítima do nascimento, envelhecimento e morte, da tristeza, lamentação, dor, angústia e desespero; eu sou uma vítima do sofrimento, uma presa do sofrimento. Com certeza, um fim a toda essa massa de sofrimento pode ser apreendido.’ Então, depois dele ter assim seguido a vida santa, os seus companheiros na vida santa o aconselham e instruem assim: ‘Você deve se mover de cá para lá assim; você deve olhar para frente e para o lado assim; você deve flexionar e estender os membros assim; você deve usar o manto de retalhos, a tigela e o manto externo assim.’ Então, ele pensa: ‘Antes, quando vivíamos em família, nós aconselhávamos e instruíamos os outros, e agora esses [bhikkhus], que, parece, poderiam ser nossos filhos ou netos, pensam que podem nos aconselhar e instruir.’ E assim ele abandona o treinamento e reverte à vida inferior. Ele é chamado aquele que abandonou o treinamento e regressou para a vida comum porque ele ficou assustado com o medo das ondas. Agora ‘ondas’ é um termo para a desesperança enraivecida. </p>
+
+<p class=Normal> “O que, bhikkhus, é o medo dos crocodilos? Aqui, um membro de um clã com base na fé deixa a vida em família e segue a vida santa, considerando: ‘Eu sou uma vítima do nascimento, envelhecimento e morte, da tristeza, lamentação, dor, angústia e desespero; eu sou uma vítima do sofrimento, uma presa do sofrimento. Com certeza, um fim a toda essa massa de sofrimento pode ser apreendido.’ Então, depois dele ter assim seguido a vida santa, os seus companheiros na vida santa o aconselham e instruem assim: ‘Isto pode ser consumido por você, isso não pode ser consumido por você; isso pode ser comido por você, isso não pode ser comido por você; isso pode ser provado por você, isso não pode ser provado por você; isso pode ser bebido por você, isso não pode ser bebido por você. Você pode consumir aquilo que é permitido, você não pode consumir aquilo que não é permitido; você pode comer aquilo que é permitido, você não pode comer aquilo que não é permitido; você pode provar aquilo que é permitido, você não pode provar aquilo que não é permitido; você pode beber aquilo que é permitido, você não pode beber aquilo que não é permitido. Você pode consumir comida dentro do horário apropriado, você não pode consumir comida fora do horário apropriado; você pode comer dentro do horário apropriado, você não pode comer fora do horário apropriado; você pode provar comida dentro do horário apropriado, você não pode provar comida fora do horário apropriado; você pode beber dentro do horário apropriado, você não pode beber fora do horário apropriado. </p>
+
+<p class=Normal> “Então, ele pensa: ‘Antes, quando vivíamos em família, nós consumíamos aquilo que gostávamos e não consumíamos aquilo que não gostávamos; nós comíamos aquilo que gostávamos e não comíamos aquilo que não gostávamos; nós provávamos aquilo que gostávamos e não provávamos aquilo que não gostávamos; nós bebíamos aquilo que gostávamos e não bebíamos aquilo que não gostávamos. Nós consumíamos aquilo que era permitido e aquilo que não era permitido; nós comíamos aquilo que era permitido e aquilo que não era permitido; nós provávamos aquilo que era permitido e aquilo que não era permitido; nós bebíamos aquilo que era permitido e aquilo que não era permitido. Nós consumíamos comida dentro do horário apropriado e fora do horário apropriado; nós comíamos dentro do horário apropriado e fora do horário apropriado; nós provávamos comida dentro do horário apropriado e fora do horário apropriado; nós bebíamos dentro do horário apropriado e fora do horário apropriado. Agora, quando chefes de família devotos nos dão bons alimentos de vários tipos durante o dia, fora do horário apropriado, é como se esses [bhikkhus] colocassem uma mordaça nas nossas bocas.’ E assim ele abandona o treinamento e reverte à vida inferior. Ele é chamado aquele que abandonou o treinamento e regressou para a vida comum porque ele ficou assustado com o medo dos crocodilos. Agora ‘crocodilos’ é um termo para a gula. </p>
+
+<p class=Normal> “O que, bhikkhus, é o medo dos redemoinhos? Aqui, um membro de um clã com base na fé, deixa a vida em família e segue a vida santa, considerando: ‘Eu sou uma vítima do nascimento, envelhecimento e morte, da tristeza, lamentação, dor, angústia e desespero; eu sou uma vítima do sofrimento, uma presa do sofrimento. Com certeza, um fim a toda essa massa de sofrimento pode ser apreendido.’ Então, depois dele ter assim seguido a vida santa, ao amanhecer ele se veste, e tomando a tigela e o manto externo ele vai para um vilarejo ou cidade esmolar alimentos, com o corpo descuidado, com a linguagem descuidada, com a atenção plena não estabelecida e com as faculdades dos sentidos descontroladas. Ele vê algum chefe de família ou o filho de um chefe de família provido e dotado com os cinco elementos do prazer sensual desfrutando deles com prazer. Ele pensa o seguinte: ‘Antes, quando vivíamos a vida em família, éramos providos e dotados com os cinco elementos do prazer sensual e nós desfrutávamos deles com prazer. Minha família tem riqueza; eu posso tanto desfrutar da riqueza como realizar méritos.’ E assim ele abandona o treinamento e reverte à vida inferior. Ele é chamado aquele que abandonou o treinamento e regressou para a vida comum porque ele ficou assustado com o medo dos redemoinhos. Agora ‘redemoinhos’ é um termo para os cinco elementos do prazer sensual. </p>
+
+<p class=Normal> “O que, bhikkhus, é o medo dos tubarões? Aqui, um membro de um clã com base na fé deixa a vida em família e segue a vida santa, considerando: ‘Eu sou uma vítima do nascimento, envelhecimento e morte, da tristeza, lamentação, dor, angústia e desespero; eu sou uma vítima do sofrimento, uma presa do sofrimento. Com certeza, um fim a toda essa massa de sofrimento pode ser apreendido.’ Então, depois dele ter assim seguido a vida santa, ao amanhecer ele se veste, e tomando a tigela e o manto externo ele vai para um vilarejo ou cidade esmolar alimentos, com o corpo descuidado, com a linguagem descuidada, com a atenção plena não estabelecida e com as faculdades dos sentidos descontroladas. Ele vê uma mulher vestida com pouca roupa. Ao ver tal mulher, a paixão infecta a sua mente. Como a sua mente está infectada pela paixão, ele abandona o treinamento e reverte à vida inferior. Ele é chamado aquele que abandonou o treinamento e regressou para a vida comum porque ele ficou assustado com o medo dos tubarões. Agora ‘tubarões’ é um termo para as mulheres. </p>
+
+<p class=Normal> “Bhikkhus, esses são os quatro tipos de medo que podem ser esperados por certas pessoas que deixaram a vida em família e seguiram a vida santa neste Dhamma e Disciplina." </p>
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'> 
+
+
+<p class=Normal><b>Notas:</b></p>
+
+
+<p class=Normal> Veja também o <a href="MN67.php">MN 67</a></p>.
+
+<p class=Normal><a href="ANIV.123.php"><b> >> Próximo Sutta</b></a></p>
+
+
+<p class=Normal>&nbsp;</p>
+<p class=Normal>&nbsp;</p>
+
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>
+
+

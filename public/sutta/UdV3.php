@@ -1,0 +1,137 @@
+<!-- DEFINE PARAMETROS -->
+<?
+DEFINE ('PAGINA',"UdV3 ");  // CAMINHO+NOME DO ARQUIVO SEM EXTENSAO
+DEFINE('REVISAO'," 13 Maio 2012"); // DATA DA REVISAO
+?>
+<!--INCLUI TOPO-->
+<?
+include("../topo.inc"); // VERIFICAR SE O CAMINHO ESTÁ CERTO
+?>
+
+<!-- INICIO DO TEXTO -->
+
+
+<p class=Tit3 align=center style='text-align:center'><b> Udana V.3</b></Tit3>
+<p class=Tit1 align=center style='text-align:center'>Kutthi Sutta </Tit1>
+<p class=Tit1 align=center style='text-align:center'>O Leproso </Tit1>
+
+<p class=Normal align=center style='text-align:center'><span lang=PT-BR style='font-size:
+7.0pt;mso-ansi-language:PT-BR'><b> Somente para distribuição gratuita.</b><br>
+<i>Este trabalho pode ser impresso para distribuição gratuita.<br>
+Este trabalho pode ser re-formatado e distribuído para uso em computadores e redes de computadores<br>
+contanto que nenhum custo seja cobrado pela distribuição ou uso.<br>
+De outra forma todos os direitos estão reservados. </i> <o:p></o:p></span></p>
+
+<p class=Normal>&nbsp;</p>
+
+<hr size=2 width="100%" align=center>
+
+<p class=Normal style='margin-left:.75in'>
+
+
+
+<p class=Normal>Em certa ocasião, o Abençoado estava em Rajagaha, no Bambual,
+no Santuário dos Esquilos. Agora, naquela época em Rajagaha havia um leproso
+chamado Suppabuddha, uma pessoa pobre, miserável,
+infeliz. E naquela ocasião, o Abençoado estava sentado circundado por uma grande
+assembléia, ensinando o Dhamma. O leproso Suppabuddha viu de longe o grande
+grupo de pessoas e pensou consigo mesmo, “Sem dúvida, alguém deve estar
+distribuindo alimentos ali. Porque não vou até onde se encontra aquele grande
+grupo de pessoas e talvez eu consiga algum alimento.” Assim ele foi até onde se
+encontrava aquele grande grupo de pessoas. Então ele viu o Abençoado sentado
+circundado por uma grande assembléia, ensinando o Dhamma. Ao vê-lo ele
+compreendeu, “Não há ninguém distribuindo alimentos aqui. Aquele é Gotama o
+contemplativo, sentado circundado por uma grande assembléia, ensinando o
+Dhamma. Porque não ouço o Dhamma?” Assim ele sentou a um lado (pensando) “Eu
+também ouvirei o Dhamma.” </p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Então, o Abençoado, tendo
+compreendido a mente de toda a assembléia com a sua mente, perguntou a si
+mesmo, “Agora quem aqui é capaz de entender o Dhamma?” Ele viu Suppabuddha, o
+leproso, sentado na assembléia e ao vê-lo o pensamento lhe ocorreu, “Esta
+pessoa aqui é capaz de entender o Dhamma.” Assim, visando Suppabuddha, o
+leproso, ele transmitiu o ensino gradual, isto é, falou sobre a generosidade, sobre a virtude, sobre o
+paraíso; ele explicou o perigo, a degradação e as contaminações dos prazeres
+sensuais e as vantagens da renúncia. Quando ele percebeu que a mente de Suppabuddha estava pronta, receptiva, livre de obstáculos, satisfeita, clara, com serena confiança, ele
+explicou o ensinamento particular dos Budas: o sofrimento, a sua origem, a sua
+cessação e o caminho. Tal como um pano limpo, com todas as manchas removidas,
+irá absorver um corante de modo adequado, assim também, enquanto Suppabuddha estava ali sentado, a visão imaculada do Dhamma surgiu nele:
+“Tudo </span>que está sujeito ao surgimento está sujeito à cessação<span lang=PT-BR style='mso-ansi-language:PT-BR'>.” </span></p>
+
+<p class=Normal>Tendo visto o Dhamma, alcançado o Dhamma, compreendido o Dhamma, examinado a fundo o Dhamma; ele superou totalmente a dúvida, se libertou
+da perplexidade, conquistou a intrepidez, e se tornou independente dos outros
+na Revelação do Mestre, ele se levantou do seu assento e foi até o
+Abençoado e depois de cumprimentá-lo sentou a um lado e disse: “Magnífico,
+Mestre Gotama! Magnífico, Mestre Gotama! Mestre Gotama esclareceu o Dhamma de
+várias formas, como se tivesse colocado em pé o que estava de cabeça para
+baixo, revelasse o que estava escondido, mostrasse o caminho para alguém que
+estivesse perdido ou segurasse uma lâmpada no escuro para aqueles que possuem
+visão pudessem ver as formas. Nós buscamos refúgio no Mestre Gotama, no Dhamma
+e na Sangha dos bhikkhus. Que o Mestre Gotama se lembre de mim como um
+discípulo que nele buscou refúgio para o resto da vida.”</p>
+
+<p class=Normal>Então o leproso Suppabuddha, tendo sido instruído, estimulado, motivado e
+encorajado pelo discurso do Dhamma do Abençoado, satisfeito e aprovando as
+palavras do Abençoado, levantou-se do seu assento, e depois de homenagear o
+Abençoado, mantendo-o à sua direita, partiu. Não muito tempo depois da sua
+partida ele foi atacado por uma vaca com o seu bezerro e morreu. </p>
+
+<p class=Normal>Então, um grande grupo de bhikkhus foi até o Abençoado e depois de
+cumprimentá-lo, eles sentaram a um lado e disseram: “Senhor, o leproso de nome
+Suppabuddha, que o Abençoado havia instruído, estimulado, motivado e encorajado
+com um discurso do Dhamma, morreu. Qual é o destino dele? Qual é o futuro
+percurso dele?” </p>
+
+<p class=Normal>“Bhikkhus, o leproso Suppabuddha era sábio. Ele praticou
+o Dhamma de acordo com o Dhamma e não me molestava com assuntos relacionados ao
+Dhamma. Com a destruição dos três primeiros grilhões, ele
+entrou na correnteza, não mais destinado aos mundos inferiores, com o destino
+fixo, tendo a iluminação como destino.” </p>
+
+<p class=Normal>Quando isso foi dito, um dos bhikkhus disse para o Abençoado, “Senhor, qual
+é a causa, qual é a razão, porque o leproso Suppabuddha era uma pessoa tão
+pobre, miserável e infeliz?” </p>
+
+<p class=Normal>“Certa vez, nesta mesma Rajagaha, o leproso Suppabuddha era o filho de um
+rico banqueiro. Ao ser escoltado para um parque de diversões ele viu o Buda<a
+name=tag> Tagarasikhi</a> indo esmolar alimentos na cidade. Ao vê-lo, ele
+pensou, ‘Quem é esse leproso que está vagabundeando por aí?’ Cuspindo e virando
+desrespeitosamente o seu lado esquerdo para o Buda Tagarasikhi, ele partiu.
+Como resultado daquela ação ele ferveu no inferno por muito tempo, muitas
+centenas de anos, muitos milhares de anos, muitas centenas de milhares de anos.
+E depois como resultado daquela ação ele se tornou uma pessoa pobre, miserável
+e infeliz nesta mesma Rajagaha. Mas ao encontrar o Dhamma e Disciplina
+ensinados pelo Tathagata, ele obteve a convicção, virtude, aprendizado,
+renúncia e sabedoria. Tendo obtido a convicção, virtude, aprendizado, renúncia
+e sabedoria ao encontrar o Dhamma e Disciplina ensinados pelo Tathagata, agora
+– com a dissolução do corpo, após a morte – ele renasceu em um bom destino, o
+paraíso, em companhia dos devas do paraíso do Trinta e Três. Lá ele eclipsa os
+outros devas em beleza e glória.”</p>
+
+<p class=Normal><span lang=PT-BR style='mso-ansi-language:PT-BR'>Então, dando-se conta do
+significado disso, o Abençoado nessa ocasião exclamou</span>:</p>
+
+<p class=Normal style='margin-left:.75in'>Uma pessoa com bons olhos,<br>
+&nbsp;&nbsp;&nbsp; ao encontrar<br>
+&nbsp;&nbsp;&nbsp; um lugar perigoso, irregular,<br>
+tentaria de tudo para evitá-lo.<br>
+Uma pessoa sábia, neste mundo,<br>
+deveria evitar<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; ações ruins. </p>
+
+<p class=Normal>&nbsp;</p><hr size=2 width="100%" align=center><p class=Normal>&nbsp;</p><p class=Normal><a href="UdV4.php"><b> >> Próximo Sutta</b></a></p>
+
+
+
+<p class=Normal>&nbsp;</p>
+<p class=Normal>&nbsp;</p>
+
+
+
+<!-- FIM DO TEXTO -->
+
+<!-- INCLUI BASE -->
+<? include("../base.inc"); ?>
+
+
+
