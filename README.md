@@ -11,6 +11,10 @@
  coisas como títulos e coleção e fazer a migração para um banco de dados no formato wordpress.
 
 
- <br/><br/>
+ <br/>
 
  O processo de migração no momento está em desenvolvimento (ago/2023) e o processo atual pode ser encontrado na controller migration.
+
+  <br/>
+
+  Resultados da migração podem ser encontrados na pasta database_dump/
