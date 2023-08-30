@@ -20,14 +20,17 @@ class Migration extends Controller
     {
 
 
-        $folder = 'sutta/';
+        $folderSuttas = 'sutta/';
 
         //$folder = 'test_sutta/';
 
+        $folderTexts = 'arquivo_textos_theravada/';
+
         echo 'started...<br/><br/>';
 
-        $this->migrateTextsStage1($folder);
+        //$this->migrateSuttasStage1($folderSuttas);
 
+        $this->migrateTextsStage1($folderTexts);
 
         echo '<h3> Here we are done </h3>';
 
@@ -40,13 +43,83 @@ class Migration extends Controller
     /*
 
 
-    have alook at:
+    have a look at:
 
 
      ANXI.17,
     */
 
+
     public function migrateTextsStage1($dir)
+    {
+        $files = $this->getClearFileList($dir);
+
+        $count = 0;
+
+        foreach($files as $f){
+
+            $filePath = $dir.$f;
+
+            $count++;
+
+            $textIndex = $this->getSuttaIndexFromFileName($f);
+
+            $fileContent = file_get_contents($dir.'/'.$f);
+
+            $cleanText = $this->correctEncoding( $this->cleanText($fileContent));
+
+            $title = $this->getTitleFromText($cleanText);
+
+            //if(!$translatedTitle) echo 'Not working translated title. File: '.$f.'<br><br>';
+            if(!$title){
+                $this->errorLog($filePath, 'no title');
+
+                continue;
+            }
+
+            $collectionId = $this->getCollectionId('Textos Theravada');
+
+            //echo $filePath.'<br>';
+            $data = [
+                'collection_id'=>$collectionId,
+                'old_url'=>$filePath,
+                'index'=>$textIndex,
+                'title_pt'=>$title,
+                //'title_pali'=>$title,
+                'text'=>$cleanText,
+
+            ];
+
+            // echo '<pre>';
+            // print_r($data);
+            // echo '</pre>';
+
+
+            //$result = Post::create($data);
+            try {
+                //code that might cause MySQL errors
+                $result = Post::create($data);
+
+            } catch (QueryException $e) {
+                // Log the error
+                $error = $this->truncateString( $e->getMessage(), 220) ;
+
+                $this->errorLog($filePath, 'no insertion: '.$error);
+
+            }
+
+            if($count == 10) print_r('10 files... <br/>') ;
+
+            if($count == 100) print_r('100 files... <br/>');
+
+            if($count == 170) print_r('170 files... <br/>');
+
+        }
+
+
+    }
+
+    public function migrateSuttasStage1($dir)
     {
         $files = $this->getClearFileList($dir);
 
@@ -78,7 +151,7 @@ class Migration extends Controller
                 continue;
             }
 
-            $collectionId = $this->getCollectionId($suttaCollection);
+            $collectionId = $this->getCollectionId('Textos Theravada');
 
             //echo $filePath.'<br>';
             $data = [

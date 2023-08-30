@@ -15,8 +15,8 @@ return new class extends Migration
             $table->id();
             $table->string('index');
             $table->string('old_url');
-            $table->string('title_pt');
-            $table->string('title_pali');
+            $table->string('title_pt')->nullable();
+            $table->string('title_pali')->nullable();
             $table->longText('text');
             $table->timestamps();
         });
