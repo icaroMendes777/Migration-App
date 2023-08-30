@@ -14,6 +14,10 @@
  <br/>
 
  O processo de migração no momento está em desenvolvimento (ago/2023) e o processo atual pode ser encontrado na controller migration.
+ <br/>
+ O script original pode ser encontrado em https://github.com/icaroMendes777/migration.
+ <br/>
+ Desenvolver com valilla PHP estava se mostrando menos eficiente e seguro, por isso o projeto foi migrado para Laravel.
 
   <br/>
 
