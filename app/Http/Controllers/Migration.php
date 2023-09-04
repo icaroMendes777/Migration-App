@@ -10,30 +10,258 @@ use Illuminate\Database\QueryException;
 use App\Models\Post;
 use App\Models\FailedFiles;
 use App\Models\Collections;
+use App\Models\Redirect;
+use App\Models\wp_posts;
+use Illuminate\Support\Carbon;
+use Illuminate\Support\Str;
+use App\Models\wp_term_relationships;
+use App\Models\wp_term_taxonomy;
+use App\Models\wp_terms;
+use Illuminate\Database\Eloquent\Builder;
 
 class Migration extends Controller
 {
 
-
-
-    public function migrate()
+    public function migrateWordpress()
     {
 
 
-        $folderSuttas = 'sutta/';
 
-        //$folder = 'test_sutta/';
+        /**
+         * lembrar de dar update count taxonomy
+         */
 
-        $folderTexts = 'arquivo_textos_theravada/';
+        echo '<h3>Migrating Posts to wordpress</h3>';
+
+        $posts = Post::get()->all();
+
+
+        $count = 0;
+
+        foreach($posts as $post){
+
+            $count++;
+
+            $postTitle = $post['title_pali'] ?? $post['title_pt'] ;
+            $postSlug = Str::slug($postTitle);
+            $postContent =$post['text'];
+
+            $postOldUrl = $post['old_url'];
+
+
+            $wpPost = wp_posts::create([
+                'post_author'=>1,
+                'post_date'=>'2023-09-01 12:38:48',
+                'post_date_gmt'=>'2023-09-01 12:38:48',
+                'post_content'=>$postContent,
+                'post_title'=>$postTitle,
+                'post_excerpt'=>'',
+                'post_status'=>'publish',
+                'comment_status'=>'closed',
+                'ping_status'=>'closed',
+                'post_password'=>'',
+                'post_name'=>$postSlug,
+                'to_ping'=>'',
+                'pinged'=>'',
+                'post_modified'=>'2023-09-01 12:38:48',
+                'post_modified_gmt'=>'2023-09-01 12:38:48',
+                'post_content_filtered'=>'',
+                'post_parent'=>0,
+                'guid'=>'migration:'.$postSlug.'-'.Carbon::now(),
+                'menu_order'=>0,
+                'post_type'=>'post',
+            ]);
+
+            /*   MIGRANDO CATEGORIAS
+            //try{
+
+            $colection = Collections::find( $post['collection_id'] );
+
+            $name = $colection['full_name'] ?? $colection['name'];
+
+            echo $name;
+            $termTaxonomy = $this->getTermTaxonomy($name,'category');
+            echo '1';
+            $this->debug($termTaxonomy);
+            die();
+            if(!$termTaxonomy) $termTaxonomy = $this->createTermTaxonomy($name,'category');
+             echo '2';
+             $this->debug($termTaxonomy->term_taxonomy_id);
+
+
+            $this->createTermRelationship($wpPost['id'], $termTaxonomy['term_taxonomy_id']);
+            //return;
+            if(!$termTaxonomy['term_taxonomy_id']) echo '1';
+*/
+            // // $this->debug($termTaxonomy['term_taxonomy_id']);
+            // // die();
+            // //insert tag collection
+            // $termTaxonomy = $this->getTermTaxonomy($name,'post_tag');
+            // if(!$termTaxonomy) $termTaxonomy = $this->createTermTaxonomy($name,'post_tag');
+            // //if(!$termTaxonomy['term_taxonomy_id']) echo '2';
+            // $this->createTermRelationship($wpPost['id'], $termTaxonomy['term_taxonomy_id']);
+
+            // if($post['title_pali']) //it is a sutta
+            // {
+            //     //insert category "Sutta"
+            //     $termTaxonomy = $this->getTermTaxonomy('Sutta','category');
+            //     if(!$termTaxonomy) $termTaxonomy = $this->createTermTaxonomy('Sutta','category');
+            //     //if(!$termTaxonomy['term_taxonomy_id']) echo '3';
+            //     $this->createTermRelationship($wpPost['id'], $termTaxonomy['term_taxonomy_id']);
+
+            //     //insert tag "Sutta"
+            //     $termTaxonomy = $this->getTermTaxonomy('Sutta','post_tag');
+            //     if(!$termTaxonomy) $termTaxonomy = $this->createTermTaxonomy('Sutta','post_tag');
+            //    // if(!$termTaxonomy['term_taxonomy_id']) echo '4';
+            //     $this->createTermRelationship($wpPost['id'], $termTaxonomy['term_taxonomy_id']);
+            // }
+
+            Redirect::create([
+                    'old_url' => $post['old_url'],
+                    'wp_posts_id'=> $wpPost['id']
+            ]);
+
+            // }catch (QueryException $e) {
+            //     // Log the error
+            //     $error = $this->truncateString( $e->getMessage(), 220) ;
+
+            //     echo 'erro: '.$error.'<br/>';
+            //     //$this->errorLog($filePath, 'no insertion: '.$error);
+
+            // }
+
+            return;
+            if($count == 100) echo '100 ok <br/>';
+            if($count == 200) echo '200 ok <br/>';
+            if($count == 500) echo '500 ok <br/>';
+            if($count == 1000) echo '1000 ok <br/>';
+            if($count == 2000) echo '2000 ok <br/>';
+
+        }
+
+
+        return;
+
+    }
+
+
+
+    public function createTermRelationship($postId, $termTaxonomyId)
+    {
+        return wp_term_relationships::create([
+                                        'object_id'=>$postId,
+                                        'term_taxonomy_id'=>$termTaxonomyId
+                                        ]);
+    }
+
+    public function createTermTaxonomy($name,$taxonomy)
+    {
+        $term = wp_terms::create([
+                            'name'=> $name,
+                            'slug'=> Str::slug($name)
+                        ]);
+        wp_term_taxonomy::create([
+                            'term_id'=>$term['id'],
+                            'taxonomy'=>$taxonomy,
+                            'description' =>''
+                        ]);
+
+        $termTaxonomy = wp_term_taxonomy::get()
+                                        ->where('term_id',$term['id'])
+                                        ->where('taxonomy',$taxonomy)
+                                        ->get()
+                                        ->first();
+
+
+        //$termTaxonomy['term_taxonomy_id'] = $termTaxonomy->id();
+        // $this->debug($termTaxonomy);
+        // die();
+
+        return $termTaxonomy;
+    }
+
+    public function getTermTaxonomy($name,$taxonomy)
+    {
+
+        //as relações em wp são dificeis de serem setadas no laravel
+        //já que o id das tabelas não obedece o mesmo padrão
+
+        //get terms with 'name'
+            //check if any of the terms has taxonomy searched
+
+            $terms = wp_terms::query()
+                            ->where('name',$name)
+                            ->get();
+
+        $match = [];
+
+        if($terms)
+            foreach($terms as $term)
+                $match = wp_term_taxonomy::query()
+                                    ->where('term_id', $term['term_id'])
+                                    ->where('taxonomy', $taxonomy)
+                                    ->get()
+                                    ->first();
+
+        if($match) return $match;
+
+        //if positive update count & return taxonomy found
+
+        //if none: create term + create taxonomy;
+            //update count & return new term_taxonomy_id
+
+    }
+
+
+    public function migrateCategory($postWpId, $oldCategory)
+    {
+
+        //create category + relation post-category
+
+
+        //create tag + create relation post category
+
+
+
+
+
+        //1-create term
+
+        //2-create term taxonomy
+
+        //3-create term relationship
+
+    }
+
+
+
+    public function migrateDatabase()
+    {
+
+
+        // $folderSuttas = 'sutta/';
+
+
+        // $folderTexts = 'arquivo_textos_theravada/';
+
+        $folderSuttas = 'test_sutta/';
+
+
+        $folderTexts = 'test_textos/';
 
         echo 'started...<br/><br/>';
 
-        //$this->migrateSuttasStage1($folderSuttas);
+        echo 'Suttas: <br/>';
+
+        $this->migrateSuttasStage1($folderSuttas);
+
+        echo 'Textos: <br/>';
 
         $this->migrateTextsStage1($folderTexts);
 
         echo '<h3> Here we are done </h3>';
 
+        //echo 'Agora olhe no banco de dados e dê o nome apropriado para cada coleção';
 
         return;
 
@@ -151,7 +379,7 @@ class Migration extends Controller
                 continue;
             }
 
-            $collectionId = $this->getCollectionId('Textos Theravada');
+            $collectionId = $this->getCollectionId($suttaCollection);
 
             //echo $filePath.'<br>';
             $data = [
@@ -440,6 +668,13 @@ public function formatTextQuotesToSQL($text)
 
     return $text;
 }
+
+    private function debug($data)
+    {
+        echo '<pre>';
+        print_r($data);
+        echo '<pre>';
+    }
 
 }
 

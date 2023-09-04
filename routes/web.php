@@ -22,6 +22,7 @@ Route::get('/', function () {
 
 Route::controller(Migration::class)->group(function () {
 
-    Route::get('/migration', 'migrate');
+    Route::get('/migrate-database', 'migrateDatabase');
+    Route::get('/migrate-wordpress', 'migrateWordpress');
 
 });
