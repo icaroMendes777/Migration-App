@@ -72,65 +72,43 @@ class Migration extends Controller
                 'post_type'=>'post',
             ]);
 
-            /*   MIGRANDO CATEGORIAS
-            //try{
 
-            $colection = Collections::find( $post['collection_id'] );
-
-            $name = $colection['full_name'] ?? $colection['name'];
-
-            echo $name;
-            $termTaxonomy = $this->getTermTaxonomy($name,'category');
-            echo '1';
-            $this->debug($termTaxonomy);
-            die();
-            if(!$termTaxonomy) $termTaxonomy = $this->createTermTaxonomy($name,'category');
-             echo '2';
-             $this->debug($termTaxonomy->term_taxonomy_id);
+            // a partir daqui insere as categorias e tags
 
 
-            $this->createTermRelationship($wpPost['id'], $termTaxonomy['term_taxonomy_id']);
-            //return;
-            if(!$termTaxonomy['term_taxonomy_id']) echo '1';
-*/
-            // // $this->debug($termTaxonomy['term_taxonomy_id']);
-            // // die();
-            // //insert tag collection
-            // $termTaxonomy = $this->getTermTaxonomy($name,'post_tag');
-            // if(!$termTaxonomy) $termTaxonomy = $this->createTermTaxonomy($name,'post_tag');
-            // //if(!$termTaxonomy['term_taxonomy_id']) echo '2';
-            // $this->createTermRelationship($wpPost['id'], $termTaxonomy['term_taxonomy_id']);
 
-            // if($post['title_pali']) //it is a sutta
-            // {
-            //     //insert category "Sutta"
-            //     $termTaxonomy = $this->getTermTaxonomy('Sutta','category');
-            //     if(!$termTaxonomy) $termTaxonomy = $this->createTermTaxonomy('Sutta','category');
-            //     //if(!$termTaxonomy['term_taxonomy_id']) echo '3';
-            //     $this->createTermRelationship($wpPost['id'], $termTaxonomy['term_taxonomy_id']);
+            try{
 
-            //     //insert tag "Sutta"
-            //     $termTaxonomy = $this->getTermTaxonomy('Sutta','post_tag');
-            //     if(!$termTaxonomy) $termTaxonomy = $this->createTermTaxonomy('Sutta','post_tag');
-            //    // if(!$termTaxonomy['term_taxonomy_id']) echo '4';
-            //     $this->createTermRelationship($wpPost['id'], $termTaxonomy['term_taxonomy_id']);
-            // }
+                if($post['title_pali']) // nesse caso é um sutta
+                {
+                    $this->createRelation($wpPost['id'],'Suttas','category');
+                    $this->createRelation($wpPost['id'],'Suttas','post_tag');
 
-            Redirect::create([
-                    'old_url' => $post['old_url'],
+                    $colection = Collections::find( $post['collection_id'] );
+                    $colectionName = $colection['full_name'] ?? $colection['name'];
+
+                    $this->createRelation($wpPost['id'],$colectionName,'post_tag');
+                }else
+                {
+                    $this->createRelation($wpPost['id'],'Textos Theravada','category');
+                    $this->createRelation($wpPost['id'],'Textos Theravada','post_tag');
+                }
+
+                Redirect::create([
+                    'old_url' => $postOldUrl,
                     'wp_posts_id'=> $wpPost['id']
-            ]);
+                ]);
 
-            // }catch (QueryException $e) {
-            //     // Log the error
-            //     $error = $this->truncateString( $e->getMessage(), 220) ;
 
-            //     echo 'erro: '.$error.'<br/>';
-            //     //$this->errorLog($filePath, 'no insertion: '.$error);
+            }catch (QueryException $e) {
+                // Log the error
+                $error = $this->truncateString( $e->getMessage(), 220) ;
 
-            // }
+                echo 'erro: '.$error.'<br/>';
+                //$this->errorLog($filePath, 'no insertion: '.$error);
 
-            return;
+            }
+
             if($count == 100) echo '100 ok <br/>';
             if($count == 200) echo '200 ok <br/>';
             if($count == 500) echo '500 ok <br/>';
@@ -140,8 +118,25 @@ class Migration extends Controller
         }
 
 
+        echo '<h4>Finished.</h4>';
+
         return;
 
+    }
+
+    /**
+     * relation may be:'category' or 'post_tag'
+     */
+    public function createRelation($wpPostId, $groupName, $relation)
+    {
+
+            $termTaxonomy = $this->getTermTaxonomy($groupName,$relation);
+
+            if(!$termTaxonomy) $termTaxonomy = $this->createTermTaxonomy($groupName,$relation);
+
+            $relation = $this->createTermRelationship($wpPostId, $termTaxonomy['term_taxonomy_id']);
+
+            return $relation;
     }
 
 
@@ -166,16 +161,20 @@ class Migration extends Controller
                             'description' =>''
                         ]);
 
-        $termTaxonomy = wp_term_taxonomy::get()
+        $termTaxonomy = wp_term_taxonomy::query()
                                         ->where('term_id',$term['id'])
                                         ->where('taxonomy',$taxonomy)
                                         ->get()
                                         ->first();
 
 
-        //$termTaxonomy['term_taxonomy_id'] = $termTaxonomy->id();
-        // $this->debug($termTaxonomy);
-        // die();
+        /**
+         * aqui temos uma clássica gambiarra
+         * wp nomeia a id como term_taxonomy_id
+         * mas quando esse campo vem do create ele vem nomado 'id'
+         * quando vem do get, vem 'term_taxonomy_id'
+         * por isso retornamos o get, não o create - para padronização
+         */
 
         return $termTaxonomy;
     }
@@ -672,7 +671,8 @@ public function formatTextQuotesToSQL($text)
     private function debug($data)
     {
         echo '<pre>';
-        print_r($data);
+        //print_r($data);
+        echo json_encode($data);
         echo '<pre>';
     }
 
