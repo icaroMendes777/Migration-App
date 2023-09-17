@@ -9,6 +9,9 @@ class wp_posts extends Model
 {
     public $timestamps = false;
 
+
+    protected $table = 'wp5lmt_posts';
+
     protected $fillable = [
 
         'post_author',

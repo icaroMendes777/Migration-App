@@ -25,8 +25,9 @@ class Migration extends Controller
     public function migrateWordpress()
     {
 
+        $limit = 200000;
 
-
+        set_time_limit(0);
         /**
          * lembrar de dar update count taxonomy
          */
@@ -102,12 +103,14 @@ class Migration extends Controller
 
             }catch (QueryException $e) {
                 // Log the error
-                $error = $this->truncateString( $e->getMessage(), 220) ;
+                $error = $this->truncateString( $e->getMessage(), 500) ;
 
                 echo 'erro: '.$error.'<br/>';
                 //$this->errorLog($filePath, 'no insertion: '.$error);
 
             }
+
+            if($count==$limit) return;
 
             if($count == 100) echo '100 ok <br/>';
             if($count == 200) echo '200 ok <br/>';
@@ -130,13 +133,37 @@ class Migration extends Controller
     public function createRelation($wpPostId, $groupName, $relation)
     {
 
+            //echo '<p>Name: '.$groupName.', Relation: '.$relation.'</p>';
+
             $termTaxonomy = $this->getTermTaxonomy($groupName,$relation);
 
+            //$this->debug($termTaxonomy);
+
             if(!$termTaxonomy) $termTaxonomy = $this->createTermTaxonomy($groupName,$relation);
+            //else echo 'no need to create';
+
 
             $relation = $this->createTermRelationship($wpPostId, $termTaxonomy['term_taxonomy_id']);
 
+
+            $this->increaseCountTermTaxonomy($termTaxonomy['term_taxonomy_id']);
+
             return $relation;
+    }
+
+    public function increaseCountTermTaxonomy($termTaxonomyId)
+    {
+
+        $tt = wp_term_taxonomy::query()->where('term_taxonomy_id', $termTaxonomyId)->first();
+
+        $count = $tt['count']+1;
+        wp_term_taxonomy::where('term_taxonomy_id',$termTaxonomyId)
+                        ->update(['count'=>$count]);
+
+        //o seguinte não pode ser usado pelo nome da id não corresponder ao padrão Laravel
+        // $tt->count++;
+
+        // $tt->save();
     }
 
 
@@ -151,11 +178,18 @@ class Migration extends Controller
 
     public function createTermTaxonomy($name,$taxonomy)
     {
+        //echo 'sooo.... Create.';
+
+        $slug = Str::slug($name);
         $term = wp_terms::create([
                             'name'=> $name,
-                            'slug'=> Str::slug($name)
+                            'slug'=>$slug
                         ]);
-        wp_term_taxonomy::create([
+
+        //$this->debug($term);
+
+        wp_term_taxonomy::create(
+                        [
                             'term_id'=>$term['id'],
                             'taxonomy'=>$taxonomy,
                             'description' =>''
@@ -163,7 +197,6 @@ class Migration extends Controller
 
         $termTaxonomy = wp_term_taxonomy::query()
                                         ->where('term_id',$term['id'])
-                                        ->where('taxonomy',$taxonomy)
                                         ->get()
                                         ->first();
 
@@ -182,27 +215,35 @@ class Migration extends Controller
     public function getTermTaxonomy($name,$taxonomy)
     {
 
+
+
         //as relações em wp são dificeis de serem setadas no laravel
         //já que o id das tabelas não obedece o mesmo padrão
 
         //get terms with 'name'
             //check if any of the terms has taxonomy searched
 
-            $terms = wp_terms::query()
+        $terms = wp_terms::query()
                             ->where('name',$name)
                             ->get();
 
-        $match = [];
+        // echo 'ter -- ';
+//$this->debug($terms);
+        // $match = [];
+        $match =null;
 
-        if($terms)
-            foreach($terms as $term)
+        if($terms){
+            foreach($terms as $term){
                 $match = wp_term_taxonomy::query()
                                     ->where('term_id', $term['term_id'])
                                     ->where('taxonomy', $taxonomy)
                                     ->get()
                                     ->first();
+                 if($match) return $match;
+            }
+        }
 
-        if($match) return $match;
+        return $match;
 
         //if positive update count & return taxonomy found
 
@@ -212,41 +253,20 @@ class Migration extends Controller
     }
 
 
-    public function migrateCategory($postWpId, $oldCategory)
-    {
-
-        //create category + relation post-category
-
-
-        //create tag + create relation post category
-
-
-
-
-
-        //1-create term
-
-        //2-create term taxonomy
-
-        //3-create term relationship
-
-    }
-
-
 
     public function migrateDatabase()
     {
 
-
-        // $folderSuttas = 'sutta/';
-
-
-        // $folderTexts = 'arquivo_textos_theravada/';
-
-        $folderSuttas = 'test_sutta/';
+        set_time_limit(0);
+         $folderSuttas = 'sutta/';
 
 
-        $folderTexts = 'test_textos/';
+         $folderTexts = 'arquivo_textos_theravada/';
+
+       // $folderSuttas = 'test_sutta/';
+
+
+       // $folderTexts = 'test_textos/';
 
         echo 'started...<br/><br/>';
 

@@ -9,6 +9,10 @@ class wp_term_relationships extends Model
 {
     public $timestamps = false;
 
+
+    protected $table = 'wp5lmt_term_relationships';
+
+
     protected $fillable = [
         'object_id',
         'term_taxonomy_id',
