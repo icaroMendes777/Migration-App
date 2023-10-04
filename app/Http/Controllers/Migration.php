@@ -22,10 +22,22 @@ use Illuminate\Database\Eloquent\Builder;
 class Migration extends Controller
 {
 
+
+    public function generateRedirects()
+    {
+
+    }
+
+
+    /**
+     * migrates the regular imported texts in the 'posts' table
+     * into propper wordpress tables like 'wp_posts'
+     * the real table name may be different, please look at the eloquent
+     */
     public function migrateWordpress()
     {
 
-        $limit = 200000;
+        $limit = 20; //limitar para testes
 
         set_time_limit(0);
         /**
@@ -44,11 +56,15 @@ class Migration extends Controller
             $count++;
 
             $postTitle = $post['title_pali'] ?? $post['title_pt'] ;
-            $postSlug = Str::slug($postTitle);
+
             $postContent =$post['text'];
 
             $postOldUrl = $post['old_url'];
 
+            $colection = Collections::find( $post['collection_id'] );
+            $colectionName = $colection['full_name'] ?? $colection['name'];
+
+            $postSlug = $this->makePostSlug($post, $colectionName);
 
             $wpPost = wp_posts::create([
                 'post_author'=>1,
@@ -85,9 +101,6 @@ class Migration extends Controller
                     $this->createRelation($wpPost['id'],'Suttas','category');
                     $this->createRelation($wpPost['id'],'Suttas','post_tag');
 
-                    $colection = Collections::find( $post['collection_id'] );
-                    $colectionName = $colection['full_name'] ?? $colection['name'];
-
                     $this->createRelation($wpPost['id'],$colectionName,'post_tag');
                 }else
                 {
@@ -112,11 +125,8 @@ class Migration extends Controller
 
             if($count==$limit) return;
 
-            if($count == 100) echo '100 ok <br/>';
-            if($count == 200) echo '200 ok <br/>';
-            if($count == 500) echo '500 ok <br/>';
-            if($count == 1000) echo '1000 ok <br/>';
-            if($count == 2000) echo '2000 ok <br/>';
+            if($count % 200) echo `-$count ok. <br/>`;
+
 
         }
 
@@ -124,11 +134,26 @@ class Migration extends Controller
         echo '<h4>Finished.</h4>';
 
         return;
+    }
 
+    public function makePostSlug($post, $colectionName)
+    {
+
+        $postTitle = $post['title_pali'] ?? $post['title_pt'] ;
+
+        if($post['title_pali']){
+            $postSlug = Str::slug($colectionName).'-'.Str::slug($post['title_pali'].'-'.$post['title_pt']);
+        }else{
+            $postSlug = Str::slug($colectionName).'-'.Str::slug($postTitle);
+        }
+
+        $postSlug = substr($postSlug, 0, 200);
+
+        return $postSlug;
     }
 
     /**
-     * relation may be:'category' or 'post_tag'
+     * a relação pode ser:'category' or 'post_tag'
      */
     public function createRelation($wpPostId, $groupName, $relation)
     {
@@ -137,11 +162,7 @@ class Migration extends Controller
 
             $termTaxonomy = $this->getTermTaxonomy($groupName,$relation);
 
-            //$this->debug($termTaxonomy);
-
             if(!$termTaxonomy) $termTaxonomy = $this->createTermTaxonomy($groupName,$relation);
-            //else echo 'no need to create';
-
 
             $relation = $this->createTermRelationship($wpPostId, $termTaxonomy['term_taxonomy_id']);
 
@@ -186,8 +207,6 @@ class Migration extends Controller
                             'slug'=>$slug
                         ]);
 
-        //$this->debug($term);
-
         wp_term_taxonomy::create(
                         [
                             'term_id'=>$term['id'],
@@ -215,21 +234,13 @@ class Migration extends Controller
     public function getTermTaxonomy($name,$taxonomy)
     {
 
-
-
         //as relações em wp são dificeis de serem setadas no laravel
         //já que o id das tabelas não obedece o mesmo padrão
-
-        //get terms with 'name'
-            //check if any of the terms has taxonomy searched
 
         $terms = wp_terms::query()
                             ->where('name',$name)
                             ->get();
 
-        // echo 'ter -- ';
-//$this->debug($terms);
-        // $match = [];
         $match =null;
 
         if($terms){
@@ -245,15 +256,17 @@ class Migration extends Controller
 
         return $match;
 
-        //if positive update count & return taxonomy found
-
-        //if none: create term + create taxonomy;
-            //update count & return new term_taxonomy_id
-
     }
 
 
 
+        /**
+         * Abre os arquivos, lê os conteúdos
+         * separa os títulos baseado na hierarquia html,
+         * distingue as categorias e insere em um banco de dados.
+         * Posteriormente, esses textos serão importados para um formato de wordpress
+         *
+         */
     public function migrateDatabase()
     {
 

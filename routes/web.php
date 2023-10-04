@@ -24,5 +24,7 @@ Route::controller(Migration::class)->group(function () {
 
     Route::get('/migrate-database', 'migrateDatabase');
     Route::get('/migrate-wordpress', 'migrateWordpress');
+    Route::get('/generate-redirects', 'generateRedirects');
+
 
 });
