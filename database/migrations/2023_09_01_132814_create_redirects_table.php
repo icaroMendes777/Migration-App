@@ -14,9 +14,8 @@ return new class extends Migration
         Schema::create('redirects', function (Blueprint $table) {
             $table->id();
             $table->string('old_url')->nullable();
-            $table->string('category_slug')->nullable();
-            $table->string('new_post_name_slug')->nullable();
-            $table->string('wp_posts_id')->nullable();
+            //$table->string('category_slug')->nullable();
+            $table->string('new_url')->nullable();
             $table->timestamps();
         });
     }

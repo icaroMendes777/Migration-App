@@ -9,6 +9,6 @@ class Redirect extends Model
 {
     protected $fillable = [
         'old_url',
-        'wp_posts_id',
+        'new_url',
     ];
 }

@@ -26,6 +26,24 @@ class Migration extends Controller
     public function generateRedirects()
     {
 
+
+
+
+        $redirects = Redirect::all();
+
+        $myfile = fopen('export.txt', "w") or die("Unable to open file!");
+
+            foreach($redirects as $redirect)
+            {
+
+                $old = $redirect['old_url'];
+                $new = $redirect['new_url'];
+                $line = "Redirect 301 /".$old." /".$new."\n";
+                fwrite($myfile, $line);
+            }
+
+            fclose($myfile);
+
     }
 
 
@@ -37,7 +55,7 @@ class Migration extends Controller
     public function migrateWordpress()
     {
 
-        $limit = 20; //limitar para testes
+        $limit = 30; //limitar para testes
 
         set_time_limit(0);
         /**
@@ -92,25 +110,25 @@ class Migration extends Controller
 
             // a partir daqui insere as categorias e tags
 
-
-
             try{
 
                 if($post['title_pali']) // nesse caso é um sutta
                 {
+                    $categorySlug = 'suttas';
                     $this->createRelation($wpPost['id'],'Suttas','category');
                     $this->createRelation($wpPost['id'],'Suttas','post_tag');
 
                     $this->createRelation($wpPost['id'],$colectionName,'post_tag');
                 }else
                 {
+                    $categorySlug = 'textos-theravada';
                     $this->createRelation($wpPost['id'],'Textos Theravada','category');
                     $this->createRelation($wpPost['id'],'Textos Theravada','post_tag');
                 }
 
                 Redirect::create([
                     'old_url' => $postOldUrl,
-                    'wp_posts_id'=> $wpPost['id']
+                    'new_url'=> $categorySlug.'/'.$postSlug
                 ]);
 
 
@@ -126,7 +144,6 @@ class Migration extends Controller
             if($count==$limit) return;
 
             if($count % 200) echo `-$count ok. <br/>`;
-
 
         }
 
