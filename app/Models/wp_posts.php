@@ -10,9 +10,11 @@ class wp_posts extends Model
     public $timestamps = false;
 
 
-    protected $table = 'wp5lmt_posts';
+    protected $table = 'wp_posts';
 
     protected $fillable = [
+
+        //'ID', ///somente para aversão final do wp instalada no servidor
 
         'post_author',
         'post_date',

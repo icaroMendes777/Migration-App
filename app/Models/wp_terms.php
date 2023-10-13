@@ -10,7 +10,7 @@ class wp_terms extends Model
 
     public $timestamps = false;
 
-    protected $table = 'wp5lmt_terms';
+    protected $table = 'wp_terms';
 
     protected $fillable = [
         'name',

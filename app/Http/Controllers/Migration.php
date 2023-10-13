@@ -23,39 +23,62 @@ class Migration extends Controller
 {
 
 
-    public function generateRedirects()
-    {
+
+        /**
+         * Abre os arquivos, lê os conteúdos
+         * separa os títulos baseado na hierarquia html,
+         * distingue as categorias e insere em um banco de dados.
+         * Posteriormente, esses textos serão importados para um formato de wordpress
+         *
+         */
+        public function migrateDatabase()
+        {
+
+            set_time_limit(0);
+             $folderSuttas = 'sutta/';
 
 
+             $folderTexts = 'arquivo_textos_theravada/';
 
 
-        $redirects = Redirect::all();
+             //Podemos fazer um teste com menos arquivos usando esses antes:
+           // $folderSuttas = 'test_sutta/';
 
-        $myfile = fopen('export.txt', "w") or die("Unable to open file!");
+           // $folderTexts = 'test_textos/';
 
-            foreach($redirects as $redirect)
-            {
+            echo 'started...<br/><br/>';
 
-                $old = $redirect['old_url'];
-                $new = $redirect['new_url'];
-                $line = "Redirect 301 /".$old." /".$new."\n";
-                fwrite($myfile, $line);
-            }
+            echo 'Suttas: <br/>';
 
-            fclose($myfile);
+            $this->migrateSuttasStage1($folderSuttas);
 
-    }
+            echo 'Textos: <br/>';
+
+            $this->migrateTextsStage1($folderTexts);
+
+            echo '<h3> Here we are done </h3>';
+
+            //echo 'Agora olhe no banco de dados e dê o nome apropriado para cada coleção';
+
+            return;
+
+        }
+
+
 
 
     /**
-     * migrates the regular imported texts in the 'posts' table
-     * into propper wordpress tables like 'wp_posts'
-     * the real table name may be different, please look at the eloquent
+     *
+     *
+     * depois dos posts terem sido migrados de arquivos para tabelas simples,
+     * agora migramos para tabelas do formato wordpress:
+     * As tabelas wp_posts, wp_terms, wp_term_relationships e wp_term_taxonomy
+     *
      */
     public function migrateWordpress()
     {
 
-        $limit = 30; //limitar para testes
+        $limit = 3000; //limitar para testes
 
         set_time_limit(0);
         /**
@@ -84,6 +107,7 @@ class Migration extends Controller
 
             $postSlug = $this->makePostSlug($post, $colectionName);
 
+
             $wpPost = wp_posts::create([
                 'post_author'=>1,
                 'post_date'=>'2023-09-01 12:38:48',
@@ -109,6 +133,8 @@ class Migration extends Controller
 
 
             // a partir daqui insere as categorias e tags
+
+
 
             try{
 
@@ -151,6 +177,32 @@ class Migration extends Controller
         echo '<h4>Finished.</h4>';
 
         return;
+    }
+
+
+    /**
+     * Por último mas não menos importante,
+     * geramos as linhas de redirecionamento para o .htaccess
+     * com isso mantemos as referências dos últimos posts antes da migração
+     */
+    public function generateRedirects()
+    {
+
+        $redirects = Redirect::all();
+
+        $myfile = fopen('export.txt', "w") or die("Unable to open file!");
+
+            foreach($redirects as $redirect)
+            {
+
+                $old = $redirect['old_url'];
+                $new = $redirect['new_url'];
+                $line = "Redirect 301 /".$old." /".$new."\n";
+                fwrite($myfile, $line);
+            }
+
+            fclose($myfile);
+
     }
 
     public function makePostSlug($post, $colectionName)
@@ -272,47 +324,6 @@ class Migration extends Controller
         }
 
         return $match;
-
-    }
-
-
-
-        /**
-         * Abre os arquivos, lê os conteúdos
-         * separa os títulos baseado na hierarquia html,
-         * distingue as categorias e insere em um banco de dados.
-         * Posteriormente, esses textos serão importados para um formato de wordpress
-         *
-         */
-    public function migrateDatabase()
-    {
-
-        set_time_limit(0);
-         $folderSuttas = 'sutta/';
-
-
-         $folderTexts = 'arquivo_textos_theravada/';
-
-       // $folderSuttas = 'test_sutta/';
-
-
-       // $folderTexts = 'test_textos/';
-
-        echo 'started...<br/><br/>';
-
-        echo 'Suttas: <br/>';
-
-        $this->migrateSuttasStage1($folderSuttas);
-
-        echo 'Textos: <br/>';
-
-        $this->migrateTextsStage1($folderTexts);
-
-        echo '<h3> Here we are done </h3>';
-
-        //echo 'Agora olhe no banco de dados e dê o nome apropriado para cada coleção';
-
-        return;
 
     }
 
@@ -628,7 +639,7 @@ class Migration extends Controller
     /**
      * =======================================================
      *
-     *
+     * Deprecated functions!!!
      *
      * =======================================================
      */

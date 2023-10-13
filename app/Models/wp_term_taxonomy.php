@@ -12,7 +12,7 @@ class wp_term_taxonomy extends Model
 {
 
     //protected $table = 'wp_term_taxonomy';
-    protected $table = 'wp5lmt_term_taxonomy';
+    protected $table = 'wp_term_taxonomy';
 
     public $timestamps = false;
 
