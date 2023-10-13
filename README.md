@@ -27,19 +27,20 @@ O escript foi criado pra ser rodado apenas uma vez por isso carece de interface 
 tendo as funcionalidades acessadas através de três rotas específicas:
 
 <ul>
-    <li>/migrate-database: Lê os textos originais, extrai as informações e insere em tabelas simples no BD
-    </li>
+<li>/migrate-database: Lê os textos originais, extrai as informações e insere em tabelas simples no BD
 
-    <li>/migrate-wordpress: Utiliza os dados importados na primeira fase e importa para tabelas Wordpress
-    </li>
 
-    <li>/generate-redirects: Gera redirects para o .htaccess, redirecionando as urls antigas para os novos endereços
-    </li>
+<li>
+/migrate-wordpress: Utiliza os dados importados na primeira fase e importa para tabelas Wordpress
+</li>
+
+<li>
+/generate-redirects: Gera redirects para o .htaccess, redirecionando as urls antigas para os novos endereços
+</li>
 
 </ul>
 
-
-    <br/>
-  <br/>
+<br/>
+<br/>
 
   Resultados da migração podem ser encontrados na pasta database_dump/
