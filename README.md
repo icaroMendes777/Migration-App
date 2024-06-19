@@ -13,10 +13,6 @@
 
  <br/>
 
-
-
- O processo de migração foi finalizado em outubro de 2023.
- <br/>
  <br/>
 
 
