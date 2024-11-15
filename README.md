@@ -1,30 +1,45 @@
 # migration-app
+
 <h1>Migração de site estático para Wordpress</h1>
 
 <br/>
- O site brasileiro sobre budismo acessoaoinsight.net existe há mais de 20 anos.
- Nesse tempo o site cresceu para a casa dos milhares de textos. Uma reforma no site foi proposta em 2023 com a idéia de migrar a página para wordpress.
+ Este é um script usado para migrar um site comum para wordpress. O projeto já tinha 20 anos e carregava muito código legado. A maioria do material estava em arquivos estáticos.
 
- <br/><br/>
+<br/><br/>
 
- Para fazer a migração seria preciso ler todos os arquivos estáticos, extrair de acordo com o html
- dados como títulos e coleção e fazer a migração para um banco de dados no formato wordpress.
-
+Para fazer a migração foi preciso ler todos os arquivos, extrair as informações como título e categoria
+e fazer a migração para um banco de dados no formato wordpress.
 
  <br/>
 
  <br/>
+ <h2>Setup</h2>
 
+Intale as dependências
 
-<h2>Estrutura</h2>
+    composer install
 
+Crie um arquivo .env com base no arquivo .env.example no root do projeto.
 
-O escript foi criado pra ser rodado apenas uma vez por isso carece de interface mais requintada,<br>
-tendo as funcionalidades acessadas através de três rotas específicas:
+Gere a chave da aplicação:
+
+    php artisan key:generate
+
+Insira a conexão com o banco de uma aplicação Wordpress Mysql. Execute as migrações para criar as tabelas necessárias no processo:
+
+    php artisan migrate
+
+Observação: como a execução pode levar algum tempo, garanta que o tempo de timeout no php seja alto.
+
+<h2>Execução</h2>
+
+O script foi criado pra ser rodado apenas uma vez por isso carece de interface mais requintada<br>
+Para realiza a migração acesse as rotas na seguite ordem:
 
 <ul>
-<li>/migrate-database: Lê os textos originais, extrai as informações e insere em tabelas simples no BD
-
+<li>
+/migrate-database: Lê os textos originais, extrai as informações e insere em tabelas simples no BD
+</li>
 
 <li>
 /migrate-wordpress: Utiliza os dados importados na primeira fase e importa para tabelas Wordpress
@@ -39,4 +54,4 @@ tendo as funcionalidades acessadas através de três rotas específicas:
 <br/>
 <br/>
 
-  Resultados da migração podem ser encontrados na pasta database_dump/
+Resultados da migração podem ser encontrados na pasta database_dump/
