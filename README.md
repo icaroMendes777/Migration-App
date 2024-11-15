@@ -8,12 +8,13 @@
 
 Para fazer a migração foi preciso ler todos os arquivos, extrair as informações como título e categoria
 e fazer a migração para um banco de dados no formato wordpress.
-
 <br/>
+
+Para manter o seo do site antigo, também foi necessário gerar um arquivo com htaccess redirects das antigas para as novas urls.
 
  <h2>Setup</h2>
 
-Intale as dependências
+Instale as dependências
 
     composer install
 
