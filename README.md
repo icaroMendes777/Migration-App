@@ -6,7 +6,7 @@
  Este é um script que foi criado para migrar um site antigo para wordpress. O site original já tinha 20 anos e carregava muito código legado. A maioria do material estava em arquivos estáticos.
 <br/>
 
-Para fazer a migração foi preciso ler todos os arquivos, extrair as informações como título e categoria
+Para fazer a migração foi preciso ler os arquivos, extrair as informações como título e categoria
 e fazer a migração para um banco de dados no formato wordpress.
 <br/>
 
